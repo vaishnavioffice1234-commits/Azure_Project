@@ -1,0 +1,1001 @@
+EMPLOYEE_ID,EMPLOYEE_NAME,DESIGNATION,DEPARTMENT,EMAIL,PHONE,REGION,COUNTRY,JOIN_DATE,STATUS,PROFILE_IMAGE,DISPLAY_COLOR,OLD_EMPLOYEE_CODE,LEGACY_EMPLOYEE_ID,EXPORT_FLAG,CACHE_KEY,TEMP_FLAG,ICON_NAME,REPORT_GROUP,MIGRATION_BATCH
+EMP00001,Mohit Patel,Store Manager,Operations,,+919225215902,Americas,India,2025-01-18,INACTIVE,emp_1.jpg,#4ECDC4,OLD1,1,0,emp_1,1,user_icon,GROUP1,BATCH_2024
+EMP00002,Vikram Gupta,Supervisor,Sales,vikram.gupta@hoj.com,+919593848388,Americas,UK,2022-04-28,ON_LEAVE,emp_2.jpg,#FF6B6B,OLD2,2,0,emp_2,0,user_icon,GROUP7,BATCH_2024
+EMP00003,Sneha Gupta,Analyst,Operations,sneha.gupta@hoj.com,+917234625488,Middle East,Singapore,2021-03-11,ON_LEAVE,emp_3.jpg,#45B7D1,OLD3,3,0,emp_3,0,user_icon,GROUP8,BATCH_2023
+EMP00004,Priya Patel,Analyst,Finance,,+916465335983,Europe,India,2025-01-10,INACTIVE,emp_4.jpg,#4ECDC4,OLD4,4,0,emp_4,1,user_icon,GROUP4,BATCH_2026
+EMP00005,Sneha Desai,Executive,Operations,sneha.desai@hoj.com,+916512330202,Europe,Singapore,2024-09-01,INACTIVE,emp_5.jpg,#45B7D1,OLD5,5,1,emp_5,1,user_icon,GROUP7,BATCH_2023
+EMP00006,Priya Singh,Manager,Operations,priya.singh@hoj.com,+919343629371,Asia-East,India,2023-11-09,INACTIVE,emp_6.jpg,#45B7D1,OLD6,6,0,emp_6,1,user_icon,GROUP6,BATCH_2026
+EMP00007,Anjali Sharma,Executive,Customer Service,anjali.sharma@hoj.com,+917549411647,Asia-East,Australia,2021-12-05,ACTIVE,emp_7.jpg,#FF6B6B,OLD7,7,1,emp_7,0,user_icon,GROUP8,BATCH_2023
+EMP00008,Vikram Sharma,Supervisor,Sales,vikram.sharma@hoj.com,+916255196145,Asia-East,USA,2020-12-14,ACTIVE,emp_8.jpg,#45B7D1,OLD8,8,0,emp_8,1,user_icon,GROUP8,BATCH_2026
+EMP00009,Rajesh Verma,Store Manager,IT,rajesh.verma@hoj.com,+918371500226,Middle East,USA,2026-05-07,ACTIVE,emp_9.jpg,#4ECDC4,OLD9,9,0,emp_9,0,user_icon,GROUP8,BATCH_2024
+EMP00010,Vikram Nair,Supervisor,Customer Service,vikram.nair@hoj.com,+919007970747,Middle East,UK,2026-04-27,ACTIVE,emp_10.jpg,#FF6B6B,OLD10,10,0,emp_10,0,user_icon,GROUP2,BATCH_2021
+EMP00011,Sneha Verma,Executive,HR,sneha.verma@hoj.com,+919952618037,Asia-East,UK,2020-07-25,ON_LEAVE,emp_11.jpg,#FF6B6B,OLD11,11,1,emp_11,1,user_icon,GROUP5,BATCH_2026
+EMP00012,Sneha Reddy,Assistant,Inventory,sneha.reddy@hoj.com,+918782469612,Americas,Singapore,2025-02-18,INACTIVE,emp_12.jpg,#45B7D1,OLD12,12,1,emp_12,1,user_icon,GROUP3,BATCH_2023
+EMP00013,Deepika Singh,Assistant,Inventory,deepika.singh@hoj.com,+919712431852,Middle East,India,2025-03-28,INACTIVE,emp_13.jpg,#4ECDC4,OLD13,13,0,emp_13,0,user_icon,GROUP10,BATCH_2021
+EMP00014,Priya Reddy,Analyst,Customer Service,priya.reddy@hoj.com,+916005268290,Asia-East,UK,2024-11-20,ACTIVE,emp_14.jpg,#FF6B6B,OLD14,14,0,emp_14,0,user_icon,GROUP3,BATCH_2022
+EMP00015,Mohit Reddy,Director,Customer Service,mohit.reddy@hoj.com,+918365055974,Americas,India,2021-10-06,INACTIVE,emp_15.jpg,#FF6B6B,OLD15,15,0,emp_15,0,user_icon,GROUP8,BATCH_2025
+EMP00016,Sneha Gupta,Director,Customer Service,sneha.gupta@hoj.com,+919487386035,Middle East,UAE,2022-05-16,INACTIVE,emp_16.jpg,#45B7D1,OLD16,16,0,emp_16,1,user_icon,GROUP8,BATCH_2021
+EMP00017,Arjun Reddy,Manager,HR,arjun.reddy@hoj.com,+916735304045,Middle East,India,2020-10-06,ON_LEAVE,emp_17.jpg,#45B7D1,OLD17,17,1,emp_17,0,user_icon,GROUP8,BATCH_2026
+EMP00018,Arjun Sharma,Executive,Operations,arjun.sharma@hoj.com,,Americas,USA,2023-09-10,ON_LEAVE,emp_18.jpg,#4ECDC4,OLD18,18,1,emp_18,1,user_icon,GROUP2,BATCH_2024
+EMP00019,Priya Singh,Supervisor,Sales,priya.singh@hoj.com,+917335946120,Asia-East,UAE,2025-10-15,ACTIVE,emp_19.jpg,#4ECDC4,OLD19,19,0,emp_19,0,user_icon,GROUP6,BATCH_2025
+EMP00020,Mohit Verma,Store Manager,HR,mohit.verma@hoj.com,+917501862867,Middle East,UK,2024-12-26,INACTIVE,emp_20.jpg,#45B7D1,OLD20,20,1,emp_20,1,user_icon,GROUP8,BATCH_2025
+EMP00021,Deepika Sharma,Executive,Finance,deepika.sharma@hoj.com,+918851566647,Middle East,USA,2021-07-17,ACTIVE,emp_21.jpg,#FF6B6B,OLD21,21,0,emp_21,0,user_icon,GROUP3,BATCH_2025
+EMP00022,Mohit Gupta,Director,Sales,mohit.gupta@hoj.com,+916145428752,Americas,UAE,2025-01-13,INACTIVE,emp_22.jpg,#FF6B6B,OLD22,22,0,emp_22,1,user_icon,GROUP5,BATCH_2022
+EMP00023,Mohit Gupta,Executive,Finance,mohit.gupta@hoj.com,+919127474170,Middle East,India,2021-04-14,INACTIVE,emp_23.jpg,#FF6B6B,OLD23,23,1,emp_23,0,user_icon,GROUP7,BATCH_2022
+EMP00024,Neha Gupta,Store Manager,IT,neha.gupta@hoj.com,+916453787151,Americas,UK,2025-12-01,ACTIVE,emp_24.jpg,#4ECDC4,OLD24,24,0,emp_24,0,user_icon,GROUP6,BATCH_2026
+EMP00025,Deepika Patel,Supervisor,HR,deepika.patel@hoj.com,+917537090362,Asia-South,UAE,2025-11-22,ACTIVE,emp_25.jpg,#4ECDC4,OLD25,25,1,emp_25,1,user_icon,GROUP3,BATCH_2021
+EMP00026,Neha Desai,Manager,Customer Service,neha.desai@hoj.com,+918191768408,Asia-East,Singapore,2026-02-09,ACTIVE,emp_26.jpg,#4ECDC4,OLD26,26,1,emp_26,1,user_icon,GROUP6,BATCH_2025
+EMP00027,Neha Verma,Analyst,Customer Service,neha.verma@hoj.com,+918524576408,Americas,Singapore,2024-01-27,ACTIVE,emp_27.jpg,#45B7D1,OLD27,27,1,emp_27,0,user_icon,GROUP2,BATCH_2021
+EMP00028,Sneha Verma,Store Manager,Operations,sneha.verma@hoj.com,+916617406562,Europe,India,2021-11-04,INACTIVE,emp_28.jpg,#45B7D1,OLD28,28,1,emp_28,0,user_icon,GROUP10,BATCH_2024
+EMP00029,Anjali Singh,Manager,Customer Service,anjali.singh@hoj.com,,Asia-East,UK,2021-06-03,ACTIVE,emp_29.jpg,#4ECDC4,OLD29,29,0,emp_29,0,user_icon,GROUP2,BATCH_2024
+EMP00030,Sneha Gupta,Executive,IT,,+918901655357,Europe,UK,2025-11-25,ACTIVE,emp_30.jpg,#45B7D1,OLD30,30,1,emp_30,1,user_icon,GROUP7,BATCH_2022
+EMP00031,Priya Sharma,Assistant,Customer Service,,+919066688869,Americas,USA,2025-12-01,ON_LEAVE,emp_31.jpg,#4ECDC4,OLD31,31,1,emp_31,1,user_icon,GROUP10,BATCH_2026
+EMP00032,"Sneha Reddy,extra",Executive,Finance,,+917831483751,Europe,Singapore,2025-02-02,ACTIVE,emp_32.jpg,#FF6B6B,OLD32,32,1,emp_32,1,user_icon,GROUP9,BATCH_2021
+EMP00033,Arjun Nair,Manager,Sales,arjun.nair@hoj.com,+916180068201,Middle East,USA,2022-12-13,ON_LEAVE,emp_33.jpg,#FF6B6B,OLD33,33,0,emp_33,1,user_icon,GROUP7,BATCH_2022
+EMP00034,Amit Joshi,Assistant,Operations,amit.joshi@hoj.com,+917412893704,Americas,Singapore,2020-07-06,INACTIVE,emp_34.jpg,#4ECDC4,OLD34,34,1,emp_34,1,user_icon,GROUP7,BATCH_2025
+EMP00035,Vikram Desai,Store Manager,Sales,vikram.desai@hoj.com,+916763788880,Middle East,India,2026-05-02,INACTIVE,emp_35.jpg,#45B7D1,OLD35,35,1,emp_35,1,user_icon,GROUP10,BATCH_2022
+EMP00036,Anjali Desai,Executive,HR,anjali.desai@hoj.com,+919739639437,Europe,UK,2022-01-01,INACTIVE,emp_36.jpg,#4ECDC4,OLD36,36,1,emp_36,0,user_icon,GROUP8,BATCH_2024
+EMP00037,Amit Desai,Coordinator,Finance,amit.desai@hoj.com,+916201389878,Asia-East,Singapore,2022-07-05,ON_LEAVE,emp_37.jpg,#4ECDC4,OLD37,37,0,emp_37,1,user_icon,GROUP2,BATCH_2022
+EMP00038,Mohit Patel,Assistant,Sales,,+917747695981,Asia-East,Singapore,2021-10-26,ACTIVE,emp_38.jpg,#45B7D1,OLD38,38,0,emp_38,1,user_icon,GROUP6,BATCH_2021
+EMP00039,Arjun Reddy,Store Manager,IT,arjun.reddy@hoj.com,+919822021838,Asia-South,UAE,2025-03-01,ON_LEAVE,emp_39.jpg,#FF6B6B,OLD39,39,1,emp_39,0,user_icon,GROUP8,BATCH_2022
+EMP00040,Sneha Patel,Analyst,Finance,sneha.patel@hoj.com,+919832691082,Middle East,USA,2024-06-20,ON_LEAVE,emp_40.jpg,#4ECDC4,OLD40,40,1,emp_40,1,user_icon,GROUP6,BATCH_2022
+EMP00041,Sneha Gupta,Executive,Finance,sneha.gupta@hoj.com,+919829023446,Asia-East,USA,2025-11-18,ACTIVE,emp_41.jpg,#45B7D1,OLD41,41,1,emp_41,1,user_icon,GROUP5,BATCH_2024
+EMP00042,Mohit Joshi,Assistant,HR,mohit.joshi@hoj.com,,Americas,Singapore,2025-03-20,ON_LEAVE,emp_42.jpg,#45B7D1,OLD42,42,1,emp_42,1,user_icon,GROUP6,BATCH_2025
+EMP00043,Mohit Patel,Store Manager,Inventory,mohit.patel@hoj.com,+916197754928,Americas,Australia,2023-08-03,ACTIVE,emp_43.jpg,#4ECDC4,OLD43,43,1,emp_43,0,user_icon,GROUP10,BATCH_2025
+EMP00044,Mohit Reddy,Assistant,IT,mohit.reddy@hoj.com,+917168653734,Asia-South,UK,2022-01-24,ACTIVE,emp_44.jpg,#45B7D1,OLD44,44,0,emp_44,0,user_icon,GROUP8,BATCH_2022
+EMP00045,Mohit Singh,Coordinator,Sales,mohit.singh@hoj.com,+919930834134,Asia-East,Australia,2025-05-05,ACTIVE,emp_45.jpg,#4ECDC4,OLD45,45,1,emp_45,1,user_icon,GROUP3,BATCH_2024
+EMP00046,Vikram Gupta,Store Manager,Sales,vikram.gupta@hoj.com,+916860416529,Europe,USA,2021-04-06,INACTIVE,emp_46.jpg,#4ECDC4,OLD46,46,1,emp_46,1,user_icon,GROUP4,BATCH_2025
+EMP00047,Sneha Singh,Supervisor,Inventory,sneha.singh@hoj.com,+918113133731,Asia-South,UK,2020-09-11,ON_LEAVE,emp_47.jpg,#45B7D1,OLD47,47,1,emp_47,0,user_icon,GROUP6,BATCH_2022
+EMP00048,Anjali Singh,Assistant,Finance,anjali.singh@hoj.com,+919898088221,Asia-East,UK,2023-07-03,ON_LEAVE,emp_48.jpg,#45B7D1,OLD48,48,1,emp_48,1,user_icon,GROUP4,BATCH_2025
+EMP00049,Rajesh Gupta,Director,Sales,rajesh.gupta@hoj.com,+916705955747,Americas,UAE,2025-01-26,INACTIVE,emp_49.jpg,#FF6B6B,OLD49,49,0,emp_49,0,user_icon,GROUP6,BATCH_2023
+EMP00050,Neha Sharma,Coordinator,Inventory,neha.sharma@hoj.com,+917186935793,Asia-South,Australia,2024-11-19,ACTIVE,emp_50.jpg,#4ECDC4,OLD50,50,0,emp_50,1,user_icon,GROUP8,BATCH_2023
+EMP00051,Arjun Reddy,Assistant,Finance,arjun.reddy@hoj.com,+918552207861,Americas,India,2022-10-16,INACTIVE,emp_51.jpg,#45B7D1,OLD51,51,0,emp_51,0,user_icon,GROUP7,BATCH_2021
+EMP00052,Sneha Kumar,Supervisor,Customer Service,sneha.kumar@hoj.com,+918390110723,Americas,Singapore,2022-12-23,ACTIVE,emp_52.jpg,#45B7D1,OLD52,52,0,emp_52,1,user_icon,GROUP6,BATCH_2026
+EMP00053,Rajesh Verma,Assistant,Operations,rajesh.verma@hoj.com,+918008673769,Europe,UAE,2026-05-06,ACTIVE,emp_53.jpg,#4ECDC4,OLD53,53,1,emp_53,1,user_icon,GROUP1,BATCH_2022
+EMP00054,Priya Desai,Director,Customer Service,priya.desai@hoj.com,+916910432250,Asia-South,Australia,2021-11-26,ON_LEAVE,emp_54.jpg,#4ECDC4,OLD54,54,1,emp_54,0,user_icon,GROUP5,BATCH_2026
+EMP00055,Deepika Gupta,Coordinator,Sales,deepika.gupta@hoj.com,+918733205089,Asia-South,UK,2025-02-19,ON_LEAVE,emp_55.jpg,#4ECDC4,OLD55,55,0,emp_55,0,user_icon,GROUP9,BATCH_2022
+EMP00056,Amit Singh,Assistant,Customer Service,amit.singh@hoj.com,+916266464900,Asia-South,Australia,2024-06-30,ACTIVE,emp_56.jpg,#FF6B6B,OLD56,56,1,emp_56,1,user_icon,GROUP6,BATCH_2024
+EMP00057,Vikram Patel,Coordinator,Sales,vikram.patel@hoj.com,+919703413321,Asia-East,USA,2026-01-14,ON_LEAVE,emp_57.jpg,#FF6B6B,OLD57,57,1,emp_57,0,user_icon,GROUP5,BATCH_2021
+EMP00058,Vikram Kumar,Manager,HR,vikram.kumar@hoj.com,+919517783886,Asia-South,Singapore,2022-08-19,INACTIVE,emp_58.jpg,#45B7D1,OLD58,58,0,emp_58,1,user_icon,GROUP9,BATCH_2025
+EMP00059,Priya Reddy,Store Manager,Inventory,priya.reddy@hoj.com,+919637916030,Asia-East,Australia,2023-11-07,ACTIVE,emp_59.jpg,#45B7D1,OLD59,59,0,emp_59,0,user_icon,GROUP2,BATCH_2021
+EMP00060,Neha Reddy,Director,Sales,neha.reddy@hoj.com,+916799430858,Middle East,India,2026-02-10,ON_LEAVE,emp_60.jpg,#4ECDC4,OLD60,60,0,emp_60,1,user_icon,GROUP6,BATCH_2021
+EMP00061,Neha Nair,Manager,IT,neha.nair@hoj.com,+918769392895,Americas,UAE,2021-11-17,ON_LEAVE,emp_61.jpg,#45B7D1,OLD61,61,1,emp_61,0,user_icon,GROUP4,BATCH_2022
+EMP00062,Arjun Kumar,Executive,Inventory,arjun.kumar@hoj.com,+919663728431,Asia-East,Australia,2026-05-06,INACTIVE,emp_62.jpg,#45B7D1,OLD62,62,1,emp_62,1,user_icon,GROUP5,BATCH_2026
+EMP00063,Amit Sharma,Store Manager,IT,amit.sharma@hoj.com,+919905817533,Middle East,Australia,2024-06-28,ACTIVE,emp_63.jpg,#FF6B6B,OLD63,63,1,emp_63,1,user_icon,GROUP8,BATCH_2024
+EMP00064,Sneha Nair,Supervisor,Customer Service,sneha.nair@hoj.com,+919339236403,Europe,Singapore,2025-09-06,INACTIVE,emp_64.jpg,#45B7D1,OLD64,64,1,emp_64,0,user_icon,GROUP4,BATCH_2024
+EMP00065,Vikram Verma,Assistant,IT,vikram.verma@hoj.com,+916329631622,Asia-East,India,2024-05-06,ON_LEAVE,emp_65.jpg,#4ECDC4,OLD65,65,1,emp_65,1,user_icon,GROUP7,BATCH_2024
+EMP00066,Priya Nair,Executive,IT,priya.nair@hoj.com,+918211040658,Asia-South,Australia,2025-11-15,ACTIVE,emp_66.jpg,#45B7D1,OLD66,66,1,emp_66,0,user_icon,GROUP4,BATCH_2026
+EMP00067,Priya Desai,Analyst,Inventory,,+916022919645,Middle East,Singapore,2021-01-06,INACTIVE,emp_67.jpg,#FF6B6B,OLD67,67,1,emp_67,1,user_icon,GROUP2,BATCH_2021
+EMP00068,Anjali Gupta,Store Manager,HR,anjali.gupta@hoj.com,+916151552229,Americas,UAE,2025-09-04,INACTIVE,emp_68.jpg,#FF6B6B,OLD68,68,1,emp_68,0,user_icon,GROUP6,BATCH_2021
+EMP00069,Sneha Reddy,Manager,Customer Service,sneha.reddy@hoj.com,+919007830570,Americas,USA,2024-02-24,ON_LEAVE,emp_69.jpg,#FF6B6B,OLD69,69,0,emp_69,1,user_icon,GROUP2,BATCH_2024
+EMP00070,Priya Verma,Assistant,Finance,priya.verma@hoj.com,+919917465933,Asia-South,USA,2020-12-12,ON_LEAVE,emp_70.jpg,#45B7D1,OLD70,70,1,emp_70,0,user_icon,GROUP6,BATCH_2023
+EMP00071,Mohit Desai,Coordinator,Inventory,mohit.desai@hoj.com,+918207377806,Americas,Singapore,2024-09-07,INACTIVE,emp_71.jpg,#45B7D1,OLD71,71,0,emp_71,1,user_icon,GROUP6,BATCH_2023
+EMP00072,Deepika Desai,Analyst,Sales,deepika.desai@hoj.com,+916058452637,Americas,India,2024-05-15,ON_LEAVE,emp_72.jpg,#4ECDC4,OLD72,72,0,emp_72,0,user_icon,GROUP3,BATCH_2023
+EMP00073,Priya Patel,Assistant,Inventory,priya.patel@hoj.com,+919577957536,Asia-East,USA,2024-09-17,ON_LEAVE,emp_73.jpg,#FF6B6B,OLD73,73,0,emp_73,1,user_icon,GROUP5,BATCH_2024
+EMP00074,Amit Joshi,Manager,Sales,amit.joshi@hoj.com,+917004399991,Americas,UK,2021-11-25,ON_LEAVE,emp_74.jpg,#4ECDC4,OLD74,74,1,emp_74,1,user_icon,GROUP4,BATCH_2026
+EMP00075,Deepika Patel,Director,Finance,deepika.patel@hoj.com,+919939598901,Europe,UAE,2025-12-15,ACTIVE,emp_75.jpg,#4ECDC4,OLD75,75,1,emp_75,1,user_icon,GROUP6,BATCH_2021
+EMP00076,Deepika Singh,Director,HR,deepika.singh@hoj.com,+917657902833,Middle East,USA,2022-11-12,ON_LEAVE,emp_76.jpg,#45B7D1,OLD76,76,1,emp_76,0,user_icon,GROUP8,BATCH_2026
+EMP00077,Neha Verma,Store Manager,Customer Service,neha.verma@hoj.com,+918812161849,Europe,USA,2023-12-09,ACTIVE,emp_77.jpg,#45B7D1,OLD77,77,0,emp_77,0,user_icon,GROUP6,BATCH_2024
+EMP00078,Anjali Patel,Supervisor,Inventory,anjali.patel@hoj.com,+919251943059,Asia-East,Australia,2021-11-26,ON_LEAVE,emp_78.jpg,#FF6B6B,OLD78,78,1,emp_78,0,user_icon,GROUP8,BATCH_2021
+EMP00079,Neha Gupta,Analyst,Operations,,+916650994855,Europe,Singapore,2022-10-05,INACTIVE,emp_79.jpg,#FF6B6B,OLD79,79,0,emp_79,1,user_icon,GROUP2,BATCH_2026
+EMP00080,Arjun Patel,Director,IT,arjun.patel@hoj.com,+919201350655,Americas,UK,2021-03-26,INACTIVE,emp_80.jpg,#45B7D1,OLD80,80,1,emp_80,1,user_icon,GROUP9,BATCH_2022
+EMP00081,Rajesh Kumar,Director,HR,rajesh.kumar@hoj.com,+919442088925,Middle East,UAE,2024-02-08,ON_LEAVE,emp_81.jpg,#4ECDC4,OLD81,81,0,emp_81,0,user_icon,GROUP6,BATCH_2026
+EMP00082,Priya Gupta,Manager,Customer Service,priya.gupta@hoj.com,+917303953627,Europe,USA,2024-02-11,ACTIVE,emp_82.jpg,#45B7D1,OLD82,82,0,emp_82,1,user_icon,GROUP6,BATCH_2026
+EMP00083,Amit Gupta,Supervisor,Finance,amit.gupta@hoj.com,+919931350989,Europe,Singapore,2024-05-02,INACTIVE,emp_83.jpg,#45B7D1,OLD83,83,0,emp_83,0,user_icon,GROUP4,BATCH_2024
+EMP00084,Rajesh Gupta,Assistant,Customer Service,rajesh.gupta@hoj.com,+918026943428,Asia-South,Australia,2021-12-06,ON_LEAVE,emp_84.jpg,#45B7D1,OLD84,84,0,emp_84,1,user_icon,GROUP4,BATCH_2024
+EMP00085,Anjali Verma,Manager,Finance,anjali.verma@hoj.com,+919996338564,Europe,India,2023-03-21,INACTIVE,emp_85.jpg,#4ECDC4,OLD85,85,1,emp_85,1,user_icon,GROUP6,BATCH_2021
+EMP00086,Vikram Gupta,Assistant,Sales,vikram.gupta@hoj.com,+916904285831,Americas,Singapore,2024-02-20,ON_LEAVE,emp_86.jpg,#FF6B6B,OLD86,86,0,emp_86,1,user_icon,GROUP4,BATCH_2023
+EMP00087,Amit Joshi,Store Manager,Inventory,amit.joshi@hoj.com,+919571962571,Americas,Singapore,2023-01-10,ACTIVE,emp_87.jpg,#4ECDC4,OLD87,87,1,emp_87,0,user_icon,GROUP4,BATCH_2025
+EMP00088,Neha Joshi,Supervisor,Sales,neha.joshi@hoj.com,,Americas,USA,2020-09-15,INACTIVE,emp_88.jpg,#FF6B6B,OLD88,88,1,emp_88,1,user_icon,GROUP7,BATCH_2023
+EMP00089,Anjali Singh,Manager,Finance,anjali.singh@hoj.com,+918873778891,Americas,UK,2023-03-28,INACTIVE,emp_89.jpg,#4ECDC4,OLD89,89,0,emp_89,1,user_icon,GROUP2,BATCH_2022
+EMP00090,Arjun Reddy,Director,Customer Service,arjun.reddy@hoj.com,+919626073193,Americas,USA,2021-08-17,ON_LEAVE,emp_90.jpg,#45B7D1,OLD90,90,0,emp_90,1,user_icon,GROUP10,BATCH_2024
+EMP00091,Priya Desai,Store Manager,Finance,priya.desai@hoj.com,+919821171663,Europe,USA,2023-07-18,INACTIVE,emp_91.jpg,#4ECDC4,OLD91,91,1,emp_91,1,user_icon,GROUP7,BATCH_2021
+EMP00092,Mohit Gupta,Assistant,Inventory,mohit.gupta@hoj.com,+919990399496,Europe,UK,2022-12-15,ACTIVE,emp_92.jpg,#FF6B6B,OLD92,92,1,emp_92,1,user_icon,GROUP3,BATCH_2022
+EMP00093,Priya Reddy,Coordinator,Sales,,+919163430796,Asia-East,USA,2021-01-15,ACTIVE,emp_93.jpg,#4ECDC4,OLD93,93,1,emp_93,1,user_icon,GROUP7,BATCH_2025
+EMP00094,Arjun Singh,Store Manager,IT,arjun.singh@hoj.com,+917544803987,Asia-South,Singapore,2021-06-21,INACTIVE,emp_94.jpg,#FF6B6B,OLD94,94,1,emp_94,0,user_icon,GROUP3,BATCH_2026
+EMP00095,Priya Sharma,Coordinator,Customer Service,priya.sharma@hoj.com,+919124402282,Asia-East,Australia,2022-06-04,ACTIVE,emp_95.jpg,#45B7D1,OLD95,95,1,emp_95,0,user_icon,GROUP10,BATCH_2024
+EMP00096,Arjun Patel,Director,Inventory,arjun.patel@hoj.com,+918456873084,Asia-East,UK,2023-04-22,INACTIVE,emp_96.jpg,#45B7D1,OLD96,96,0,emp_96,0,user_icon,GROUP7,BATCH_2026
+EMP00097,Deepika Joshi,Coordinator,Sales,deepika.joshi@hoj.com,+916598216832,Middle East,Australia,2025-06-21,ON_LEAVE,emp_97.jpg,#45B7D1,OLD97,97,1,emp_97,1,user_icon,GROUP1,BATCH_2023
+EMP00098,Sneha Nair,Store Manager,Finance,sneha.nair@hoj.com,+918199815491,Asia-East,Australia,2022-01-12,ON_LEAVE,emp_98.jpg,#FF6B6B,OLD98,98,0,emp_98,0,user_icon,GROUP5,BATCH_2024
+EMP00099,Sneha Sharma,Analyst,Customer Service,sneha.sharma@hoj.com,+919588256543,Europe,India,2022-12-25,ON_LEAVE,emp_99.jpg,#45B7D1,OLD99,99,1,emp_99,1,user_icon,GROUP10,BATCH_2024
+EMP00100,Neha Patel,Manager,Operations,neha.patel@hoj.com,+916040472195,Europe,Australia,2026-02-14,ON_LEAVE,emp_100.jpg,#45B7D1,OLD100,100,1,emp_100,1,user_icon,GROUP1,BATCH_2026
+EMP00101,Priya Sharma,Coordinator,Finance,priya.sharma@hoj.com,+918557549865,Asia-South,India,2023-11-10,ON_LEAVE,emp_101.jpg,#45B7D1,OLD101,101,1,emp_101,0,user_icon,GROUP4,BATCH_2025
+EMP00102,Arjun Patel,Supervisor,Sales,arjun.patel@hoj.com,+917652938129,Asia-East,USA,2022-02-07,ON_LEAVE,emp_102.jpg,#4ECDC4,OLD102,102,1,emp_102,0,user_icon,GROUP3,BATCH_2023
+EMP00103,Rajesh Gupta,Store Manager,Sales,rajesh.gupta@hoj.com,+917559902109,Middle East,Singapore,2026-03-04,ON_LEAVE,emp_103.jpg,#FF6B6B,OLD103,103,1,emp_103,1,user_icon,GROUP9,BATCH_2025
+EMP00104,Vikram Reddy,Director,Finance,vikram.reddy@hoj.com,+919085980724,Americas,India,2025-02-12,INACTIVE,emp_104.jpg,#FF6B6B,OLD104,104,1,emp_104,1,user_icon,GROUP6,BATCH_2026
+EMP00105,Vikram Reddy,Analyst,Finance,vikram.reddy@hoj.com,,Europe,UAE,2021-05-07,ACTIVE,emp_105.jpg,#4ECDC4,OLD105,105,1,emp_105,1,user_icon,GROUP4,BATCH_2023
+EMP00106,Arjun Joshi,Supervisor,Finance,,+919508153055,Asia-East,UK,2024-05-19,ON_LEAVE,emp_106.jpg,#FF6B6B,OLD106,106,1,emp_106,0,user_icon,GROUP10,BATCH_2024
+EMP00107,Amit Gupta,Analyst,Operations,amit.gupta@hoj.com,+918716858557,Asia-South,India,2021-08-27,ACTIVE,emp_107.jpg,#FF6B6B,OLD107,107,1,emp_107,1,user_icon,GROUP1,BATCH_2021
+EMP00108,Rajesh Verma,Director,Inventory,rajesh.verma@hoj.com,+916162221850,Europe,UAE,2026-03-21,INACTIVE,emp_108.jpg,#FF6B6B,OLD108,108,0,emp_108,1,user_icon,GROUP7,BATCH_2024
+EMP00109,Arjun Kumar,Supervisor,Sales,arjun.kumar@hoj.com,+917564939173,Asia-East,USA,2023-03-01,ON_LEAVE,emp_109.jpg,#FF6B6B,OLD109,109,0,emp_109,0,user_icon,GROUP10,BATCH_2026
+EMP00110,Sneha Nair,Coordinator,Sales,sneha.nair@hoj.com,+916307506717,Americas,Singapore,2023-03-15,ON_LEAVE,emp_110.jpg,#45B7D1,OLD110,110,0,emp_110,0,user_icon,GROUP9,BATCH_2023
+EMP00111,Sneha Reddy,Executive,Inventory,sneha.reddy@hoj.com,+916855012652,Asia-South,USA,2021-11-12,ACTIVE,emp_111.jpg,#FF6B6B,OLD111,111,1,emp_111,1,user_icon,GROUP7,BATCH_2023
+EMP00112,Deepika Sharma,Store Manager,Sales,deepika.sharma@hoj.com,+919950683194,Middle East,UAE,2022-10-29,ON_LEAVE,emp_112.jpg,#4ECDC4,OLD112,112,0,emp_112,0,user_icon,GROUP2,BATCH_2021
+EMP00113,Priya Nair,Supervisor,Inventory,,+917390513546,Asia-East,India,2024-01-14,INACTIVE,emp_113.jpg,#45B7D1,OLD113,113,1,emp_113,1,user_icon,GROUP5,BATCH_2023
+EMP00114,Sneha Desai,Coordinator,IT,sneha.desai@hoj.com,+917825105324,Europe,UK,2023-08-17,ON_LEAVE,emp_114.jpg,#4ECDC4,OLD114,114,0,emp_114,0,user_icon,GROUP6,BATCH_2025
+EMP00115,Vikram Verma,Executive,Customer Service,vikram.verma@hoj.com,+919484185899,Asia-East,UAE,2021-03-14,ON_LEAVE,emp_115.jpg,#45B7D1,OLD115,115,0,emp_115,1,user_icon,GROUP3,BATCH_2026
+EMP00116,Vikram Gupta,Manager,IT,vikram.gupta@hoj.com,+918776795409,Americas,India,2023-01-03,ACTIVE,emp_116.jpg,#4ECDC4,OLD116,116,0,emp_116,1,user_icon,GROUP2,BATCH_2025
+EMP00117,Mohit Patel,Manager,Inventory,mohit.patel@hoj.com,+918324902711,Middle East,UAE,2024-12-07,INACTIVE,emp_117.jpg,#FF6B6B,OLD117,117,0,emp_117,1,user_icon,GROUP9,BATCH_2021
+EMP00118,Amit Verma,Executive,Finance,amit.verma@hoj.com,+917716235229,Middle East,USA,2024-06-20,INACTIVE,emp_118.jpg,#45B7D1,OLD118,118,1,emp_118,0,user_icon,GROUP7,BATCH_2026
+EMP00119,Vikram Nair,Executive,IT,,+916323020860,Asia-East,Singapore,2021-06-15,ON_LEAVE,emp_119.jpg,#45B7D1,OLD119,119,0,emp_119,0,user_icon,GROUP7,BATCH_2023
+EMP00120,Priya Singh,Manager,HR,priya.singh@hoj.com,+916424607938,Americas,Singapore,2025-06-19,ON_LEAVE,emp_120.jpg,#45B7D1,OLD120,120,1,emp_120,1,user_icon,GROUP3,BATCH_2021
+EMP00121,Mohit Reddy,Executive,Finance,mohit.reddy@hoj.com,+917399472468,Asia-East,UAE,2020-10-15,ON_LEAVE,emp_121.jpg,#4ECDC4,OLD121,121,1,emp_121,1,user_icon,GROUP2,BATCH_2025
+EMP00122,Arjun Joshi,Supervisor,Sales,arjun.joshi@hoj.com,+919606839542,Americas,UK,2025-09-09,INACTIVE,emp_122.jpg,#45B7D1,OLD122,122,0,emp_122,0,user_icon,GROUP6,BATCH_2026
+EMP00123,Anjali Desai,Executive,HR,anjali.desai@hoj.com,+918857372003,Asia-South,USA,2022-07-19,ACTIVE,emp_123.jpg,#45B7D1,OLD123,123,0,emp_123,1,user_icon,GROUP6,BATCH_2023
+EMP00124,Mohit Reddy,Director,Sales,mohit.reddy@hoj.com,+917721726151,Asia-East,Australia,2026-01-08,ON_LEAVE,emp_124.jpg,#4ECDC4,OLD124,124,1,emp_124,0,user_icon,GROUP2,BATCH_2025
+EMP00125,Amit Singh,Supervisor,Finance,amit.singh@hoj.com,+916342750478,Europe,UK,2022-04-26,ACTIVE,emp_125.jpg,#FF6B6B,OLD125,125,1,emp_125,0,user_icon,GROUP10,BATCH_2023
+EMP00126,Amit Sharma,Supervisor,Finance,amit.sharma@hoj.com,+916754949143,Middle East,Australia,2022-01-31,ACTIVE,emp_126.jpg,#FF6B6B,OLD126,126,0,emp_126,0,user_icon,GROUP9,BATCH_2026
+EMP00127,Anjali Kumar,Store Manager,Operations,anjali.kumar@hoj.com,+919951195086,Europe,Australia,2023-03-30,ACTIVE,emp_127.jpg,#FF6B6B,OLD127,127,0,emp_127,0,user_icon,GROUP3,BATCH_2023
+EMP00128,Rajesh Sharma,Store Manager,IT,rajesh.sharma@hoj.com,+916888730891,Middle East,India,2021-08-17,ON_LEAVE,emp_128.jpg,#FF6B6B,OLD128,128,1,emp_128,0,user_icon,GROUP1,BATCH_2026
+EMP00129,Arjun Desai,Executive,Customer Service,arjun.desai@hoj.com,+918759349659,Middle East,India,2022-12-24,ACTIVE,emp_129.jpg,#4ECDC4,OLD129,129,1,emp_129,1,user_icon,GROUP1,BATCH_2021
+EMP00130,Neha Verma,Assistant,HR,neha.verma@hoj.com,+916840920049,Americas,UK,2021-07-22,ON_LEAVE,emp_130.jpg,#4ECDC4,OLD130,130,1,emp_130,1,user_icon,GROUP3,BATCH_2025
+EMP00131,Amit Gupta,Analyst,Customer Service,amit.gupta@hoj.com,+918376021791,Americas,Singapore,2024-10-31,ACTIVE,emp_131.jpg,#FF6B6B,OLD131,131,1,emp_131,1,user_icon,GROUP6,BATCH_2024
+EMP00132,Priya Desai,Coordinator,Sales,priya.desai@hoj.com,+916142383765,Asia-East,UAE,2021-05-03,ON_LEAVE,emp_132.jpg,#FF6B6B,OLD132,132,0,emp_132,0,user_icon,GROUP1,BATCH_2021
+EMP00133,Vikram Kumar,Assistant,Customer Service,vikram.kumar@hoj.com,+917796839227,Asia-East,Singapore,2025-10-10,ON_LEAVE,emp_133.jpg,#45B7D1,OLD133,133,1,emp_133,1,user_icon,GROUP1,BATCH_2022
+EMP00134,Amit Gupta,Store Manager,Inventory,amit.gupta@hoj.com,+917241182870,Middle East,Singapore,2024-06-03,ACTIVE,emp_134.jpg,#FF6B6B,OLD134,134,0,emp_134,0,user_icon,GROUP1,BATCH_2023
+EMP00135,Amit Reddy,Executive,Customer Service,amit.reddy@hoj.com,+916170143799,Middle East,India,2025-11-01,ACTIVE,emp_135.jpg,#45B7D1,OLD135,135,1,emp_135,0,user_icon,GROUP2,BATCH_2023
+EMP00136,Deepika Singh,Store Manager,IT,deepika.singh@hoj.com,+916959549618,Europe,Singapore,2022-03-11,ACTIVE,emp_136.jpg,#FF6B6B,OLD136,136,1,emp_136,0,user_icon,GROUP2,BATCH_2025
+EMP00137,Neha Singh,Coordinator,Sales,neha.singh@hoj.com,+917805782438,Asia-South,UK,2022-12-13,ON_LEAVE,emp_137.jpg,#FF6B6B,OLD137,137,1,emp_137,1,user_icon,GROUP8,BATCH_2023
+EMP00138,Priya Nair,Store Manager,Sales,priya.nair@hoj.com,+917095242245,Asia-East,USA,2025-07-13,ON_LEAVE,emp_138.jpg,#4ECDC4,OLD138,138,1,emp_138,0,user_icon,GROUP5,BATCH_2026
+EMP00139,Arjun Verma,Manager,Sales,arjun.verma@hoj.com,+917048628153,Middle East,India,2020-08-30,INACTIVE,emp_139.jpg,#4ECDC4,OLD139,139,1,emp_139,0,user_icon,GROUP10,BATCH_2024
+EMP00140,Arjun Nair,Coordinator,IT,arjun.nair@hoj.com,+916364173069,Europe,India,2025-08-13,ACTIVE,emp_140.jpg,#FF6B6B,OLD140,140,1,emp_140,0,user_icon,GROUP3,BATCH_2023
+EMP00141,Vikram Nair,Executive,Inventory,vikram.nair@hoj.com,+918023405062,Middle East,UAE,2020-07-22,ACTIVE,emp_141.jpg,#45B7D1,OLD141,141,0,emp_141,1,user_icon,GROUP2,BATCH_2024
+EMP00142,Neha Nair,Director,HR,neha.nair@hoj.com,+916289576721,Middle East,UK,2024-09-17,INACTIVE,emp_142.jpg,#45B7D1,OLD142,142,1,emp_142,1,user_icon,GROUP8,BATCH_2026
+EMP00143,Rajesh Reddy,Store Manager,Sales,rajesh.reddy@hoj.com,+918469971428,Asia-East,UK,2025-01-12,INACTIVE,emp_143.jpg,#FF6B6B,OLD143,143,1,emp_143,1,user_icon,GROUP1,BATCH_2026
+EMP00144,Neha Kumar,Store Manager,Operations,neha.kumar@hoj.com,+917385251231,Europe,Australia,2023-03-21,INACTIVE,emp_144.jpg,#FF6B6B,OLD144,144,1,emp_144,1,user_icon,GROUP5,BATCH_2026
+EMP00145,Amit Patel,Manager,Customer Service,amit.patel@hoj.com,+917534426378,Americas,Singapore,2023-01-11,INACTIVE,emp_145.jpg,#4ECDC4,OLD145,145,1,emp_145,1,user_icon,GROUP9,BATCH_2022
+EMP00146,Vikram Kumar  Vikram Kumar,Analyst,Operations,vikram.kumar@hoj.com,+918711622391,Middle East,Singapore,2023-05-31,ACTIVE,emp_146.jpg,#4ECDC4,OLD146,146,1,emp_146,1,user_icon,GROUP4,BATCH_2024
+EMP00147,Amit Reddy,Coordinator,Sales,amit.reddy@hoj.com,+918667060049,Europe,UAE,2025-02-21,ACTIVE,emp_147.jpg,#FF6B6B,OLD147,147,0,emp_147,0,user_icon,GROUP1,BATCH_2021
+EMP00148,Arjun Patel,Assistant,Finance,arjun.patel@hoj.com,+918712408223,Americas,Australia,2020-12-21,ACTIVE,emp_148.jpg,#45B7D1,OLD148,148,0,emp_148,1,user_icon,GROUP7,BATCH_2021
+EMP00149,Deepika Joshi,Assistant,IT,deepika.joshi@hoj.com,+916514168765,Europe,India,2020-08-16,ON_LEAVE,emp_149.jpg,#45B7D1,OLD149,149,1,emp_149,1,user_icon,GROUP7,BATCH_2023
+EMP00150,Amit Gupta,Manager,Operations,amit.gupta@hoj.com,+917559296540,Asia-South,Australia,2025-05-16,ON_LEAVE,emp_150.jpg,#45B7D1,OLD150,150,0,emp_150,1,user_icon,GROUP7,BATCH_2026
+EMP00151,Sneha Joshi,Supervisor,IT,sneha.joshi@hoj.com,+916163153462,Americas,UAE,2023-11-20,ON_LEAVE,emp_151.jpg,#45B7D1,OLD151,151,1,emp_151,1,user_icon,GROUP7,BATCH_2024
+EMP00152,Anjali Joshi,Analyst,IT,anjali.joshi@hoj.com,+918332194332,Americas,Australia,2023-03-10,ACTIVE,emp_152.jpg,#4ECDC4,OLD152,152,1,emp_152,0,user_icon,GROUP6,BATCH_2022
+EMP00153,Mohit Sharma,Supervisor,Inventory,mohit.sharma@hoj.com,+918460676597,Europe,USA,2021-10-05,ACTIVE,emp_153.jpg,#FF6B6B,OLD153,153,0,emp_153,1,user_icon,GROUP2,BATCH_2023
+EMP00154,Rajesh Nair,Manager,Customer Service,rajesh.nair@hoj.com,,Middle East,USA,2020-08-22,ON_LEAVE,emp_154.jpg,#45B7D1,OLD154,154,0,emp_154,0,user_icon,GROUP7,BATCH_2022
+EMP00155,Deepika Desai,Director,Customer Service,deepika.desai@hoj.com,+918187066208,Asia-South,USA,2023-01-28,ACTIVE,emp_155.jpg,#45B7D1,OLD155,155,0,emp_155,1,user_icon,GROUP5,BATCH_2025
+EMP00156,Vikram Desai,Coordinator,Inventory,,+918019496133,Americas,Australia,2025-04-05,ON_LEAVE,emp_156.jpg,#45B7D1,OLD156,156,1,emp_156,0,user_icon,GROUP3,BATCH_2025
+EMP00157,Arjun Desai,Supervisor,Finance,arjun.desai@hoj.com,+918994241443,Asia-South,UAE,2024-01-16,INACTIVE,emp_157.jpg,#45B7D1,OLD157,157,1,emp_157,1,user_icon,GROUP9,BATCH_2026
+EMP00158,Rajesh Singh,Store Manager,IT,,+918700189985,Americas,USA,2022-09-21,ON_LEAVE,emp_158.jpg,#45B7D1,OLD158,158,1,emp_158,0,user_icon,GROUP4,BATCH_2024
+EMP00159,Deepika Reddy,Coordinator,Customer Service,deepika.reddy@hoj.com,+917977125437,Europe,USA,2025-08-02,INACTIVE,emp_159.jpg,#45B7D1,OLD159,159,1,emp_159,0,user_icon,GROUP10,BATCH_2025
+EMP00160,Mohit Reddy,Manager,Sales,mohit.reddy@hoj.com,+916268556713,Europe,Australia,2025-11-01,ACTIVE,emp_160.jpg,#4ECDC4,OLD160,160,0,emp_160,1,user_icon,GROUP1,BATCH_2024
+EMP00161,Priya Patel,Coordinator,Finance,priya.patel@hoj.com,+916427218853,Asia-East,Singapore,2023-09-03,ON_LEAVE,emp_161.jpg,#FF6B6B,OLD161,161,0,emp_161,0,user_icon,GROUP2,BATCH_2026
+EMP00162,Priya Kumar,Director,Customer Service,priya.kumar@hoj.com,+917980322201,Europe,Singapore,2020-11-12,INACTIVE,emp_162.jpg,#45B7D1,OLD162,162,0,emp_162,1,user_icon,GROUP6,BATCH_2024
+EMP00163,Priya Gupta,Director,Inventory,priya.gupta@hoj.com,+917976159657,Americas,Singapore,2020-09-11,ON_LEAVE,emp_163.jpg,#45B7D1,OLD163,163,0,emp_163,0,user_icon,GROUP5,BATCH_2024
+EMP00164,Rajesh Nair,Assistant,HR,rajesh.nair@hoj.com,+917857878328,Asia-East,UK,2020-09-14,ACTIVE,emp_164.jpg,#4ECDC4,OLD164,164,0,emp_164,1,user_icon,GROUP1,BATCH_2021
+EMP00165,Vikram Gupta,Director,Sales,vikram.gupta@hoj.com,+918751974266,Americas,India,2023-04-10,ON_LEAVE,emp_165.jpg,#FF6B6B,OLD165,165,0,emp_165,1,user_icon,GROUP6,BATCH_2023
+EMP00166,Priya Kumar,Executive,HR,priya.kumar@hoj.com,+919076730012,Asia-South,India,2022-05-20,ON_LEAVE,emp_166.jpg,#4ECDC4,OLD166,166,0,emp_166,1,user_icon,GROUP9,BATCH_2026
+EMP00167,Neha Desai,Analyst,Customer Service,,+916014601220,Asia-East,USA,2025-10-19,ON_LEAVE,emp_167.jpg,#45B7D1,OLD167,167,0,emp_167,1,user_icon,GROUP9,BATCH_2023
+EMP00168,Amit Singh,Director,Customer Service,amit.singh@hoj.com,+917612751541,Asia-East,UK,2021-08-15,ACTIVE,emp_168.jpg,#45B7D1,OLD168,168,1,emp_168,1,user_icon,GROUP8,BATCH_2021
+EMP00169,Arjun Gupta,Director,Sales,arjun.gupta@hoj.com,+916274995333,Asia-East,USA,2025-01-23,INACTIVE,emp_169.jpg,#4ECDC4,OLD169,169,1,emp_169,1,user_icon,GROUP3,BATCH_2024
+EMP00170,Arjun Reddy,Executive,Sales,arjun.reddy@hoj.com,+917857887041,Europe,UAE,2022-09-10,ACTIVE,emp_170.jpg,#FF6B6B,OLD170,170,0,emp_170,1,user_icon,GROUP5,BATCH_2026
+EMP00171,Vikram Singh,Supervisor,Sales,,+916244077977,Asia-South,USA,2023-11-16,INACTIVE,emp_171.jpg,#FF6B6B,OLD171,171,0,emp_171,0,user_icon,GROUP5,BATCH_2021
+EMP00172,Amit Singh,Supervisor,Finance,amit.singh@hoj.com,+917817500063,Americas,USA,2026-05-07,ON_LEAVE,emp_172.jpg,#45B7D1,OLD172,172,0,emp_172,1,user_icon,GROUP10,BATCH_2026
+EMP00173,Sneha Kumar,Supervisor,Operations,sneha.kumar@hoj.com,+918828118404,Europe,USA,2022-02-06,INACTIVE,emp_173.jpg,#4ECDC4,OLD173,173,1,emp_173,0,user_icon,GROUP5,BATCH_2026
+EMP00174,Deepika Joshi,Director,HR,deepika.joshi@hoj.com,+916515411137,Middle East,UK,2023-02-12,ON_LEAVE,emp_174.jpg,#FF6B6B,OLD174,174,0,emp_174,0,user_icon,GROUP2,BATCH_2022
+EMP00175,Arjun Nair,Assistant,Finance,arjun.nair@hoj.com,+916008505630,Middle East,UK,2021-01-19,ACTIVE,emp_175.jpg,#45B7D1,OLD175,175,1,emp_175,1,user_icon,GROUP3,BATCH_2025
+EMP00176,Sneha Kumar,Executive,Finance,sneha.kumar@hoj.com,+917245322915,Middle East,USA,2020-10-12,ACTIVE,emp_176.jpg,#FF6B6B,OLD176,176,0,emp_176,0,user_icon,GROUP2,BATCH_2026
+EMP00177,Amit Gupta,Director,Customer Service,amit.gupta@hoj.com,+916588523141,Asia-South,Australia,2025-05-13,ACTIVE,emp_177.jpg,#FF6B6B,OLD177,177,1,emp_177,1,user_icon,GROUP3,BATCH_2021
+EMP00178,Amit Nair,Coordinator,Finance,amit.nair@hoj.com,+917280186163,Asia-South,USA,2023-03-24,ACTIVE,emp_178.jpg,#45B7D1,OLD178,178,0,emp_178,0,user_icon,GROUP4,BATCH_2021
+EMP00179,Arjun Desai,Analyst,HR,arjun.desai@hoj.com,+919974809712,Asia-East,India,2023-08-28,ACTIVE,emp_179.jpg,#45B7D1,OLD179,179,0,emp_179,0,user_icon,GROUP8,BATCH_2023
+EMP00180,Neha Singh,Manager,Sales,neha.singh@hoj.com,+918743562026,Americas,India,2022-03-02,ON_LEAVE,emp_180.jpg,#45B7D1,OLD180,180,0,emp_180,1,user_icon,GROUP5,BATCH_2025
+EMP00181,Amit Joshi,Analyst,Finance,amit.joshi@hoj.com,+917835309574,Middle East,Singapore,2021-07-23,ACTIVE,emp_181.jpg,#4ECDC4,OLD181,181,1,emp_181,0,user_icon,GROUP5,BATCH_2023
+EMP00182,Deepika Reddy,Manager,Customer Service,deepika.reddy@hoj.com,+918441591605,Americas,UAE,2023-09-25,ON_LEAVE,emp_182.jpg,#45B7D1,OLD182,182,1,emp_182,1,user_icon,GROUP7,BATCH_2026
+EMP00183,Deepika Gupta,Supervisor,Customer Service,deepika.gupta@hoj.com,+919383968814,Americas,UK,2025-10-08,ACTIVE,emp_183.jpg,#FF6B6B,OLD183,183,1,emp_183,0,user_icon,GROUP4,BATCH_2026
+EMP00184,Priya Reddy,Store Manager,Operations,priya.reddy@hoj.com,+917899734069,Europe,UK,2023-01-22,INACTIVE,emp_184.jpg,#45B7D1,OLD184,184,0,emp_184,1,user_icon,GROUP3,BATCH_2026
+EMP00185,Vikram Gupta,Coordinator,Sales,vikram.gupta@hoj.com,+919066899430,Asia-South,Singapore,2020-10-12,INACTIVE,emp_185.jpg,#4ECDC4,OLD185,185,1,emp_185,0,user_icon,GROUP6,BATCH_2026
+EMP00186,Deepika Verma,Assistant,Finance,deepika.verma@hoj.com,+919757516292,Asia-East,Singapore,2023-11-22,ACTIVE,emp_186.jpg,#FF6B6B,OLD186,186,1,emp_186,0,user_icon,GROUP6,BATCH_2021
+EMP00187,Deepika Reddy,Manager,IT,deepika.reddy@hoj.com,+919044672618,Middle East,USA,2022-06-11,INACTIVE,emp_187.jpg,#FF6B6B,OLD187,187,1,emp_187,1,user_icon,GROUP8,BATCH_2021
+EMP00188,Vikram Desai,Director,IT,vikram.desai@hoj.com,+916062055109,Asia-South,UK,2021-05-15,ACTIVE,emp_188.jpg,#45B7D1,OLD188,188,0,emp_188,1,user_icon,GROUP7,BATCH_2022
+EMP00189,Anjali Desai,Coordinator,Customer Service,anjali.desai@hoj.com,+919141497647,Middle East,UAE,2025-09-18,ON_LEAVE,emp_189.jpg,#FF6B6B,OLD189,189,1,emp_189,1,user_icon,GROUP2,BATCH_2021
+EMP00190,Sneha Reddy,Supervisor,IT,sneha.reddy@hoj.com,+916541897879,Americas,USA,2023-08-06,ON_LEAVE,emp_190.jpg,#FF6B6B,OLD190,190,1,emp_190,0,user_icon,GROUP1,BATCH_2021
+EMP00191,Mohit Gupta,Executive,Customer Service,mohit.gupta@hoj.com,+919775143432,Americas,Singapore,2024-10-14,ACTIVE,emp_191.jpg,#4ECDC4,OLD191,191,0,emp_191,1,user_icon,GROUP6,BATCH_2024
+EMP00192,Arjun Sharma,Assistant,Operations,arjun.sharma@hoj.com,+919332079886,Americas,Australia,2025-04-21,ON_LEAVE,emp_192.jpg,#45B7D1,OLD192,192,1,emp_192,1,user_icon,GROUP9,BATCH_2022
+EMP00193,Deepika Nair,Director,Sales,deepika.nair@hoj.com,+919798878145,Americas,India,2024-04-21,INACTIVE,emp_193.jpg,#45B7D1,OLD193,193,0,emp_193,0,user_icon,GROUP2,BATCH_2026
+EMP00194,Deepika Kumar,Supervisor,Finance,deepika.kumar@hoj.com,+918604378361,Europe,UAE,2020-09-11,ON_LEAVE,emp_194.jpg,#FF6B6B,OLD194,194,0,emp_194,1,user_icon,GROUP5,BATCH_2022
+EMP00195,Neha Verma,Store Manager,Operations,,+917537670040,Asia-South,Singapore,2022-07-04,ACTIVE,emp_195.jpg,#45B7D1,OLD195,195,1,emp_195,0,user_icon,GROUP8,BATCH_2026
+EMP00196,Deepika Singh,Manager,IT,deepika.singh@hoj.com,+919096144970,Asia-East,India,2023-10-31,ACTIVE,emp_196.jpg,#45B7D1,OLD196,196,0,emp_196,1,user_icon,GROUP9,BATCH_2022
+EMP00197,"Anjali Nair,extra",Executive,Inventory,anjali.nair@hoj.com,+917174804658,Asia-South,UAE,2023-12-15,ON_LEAVE,emp_197.jpg,#FF6B6B,OLD197,197,0,emp_197,0,user_icon,GROUP10,BATCH_2024
+EMP00198,Vikram Patel,Assistant,Sales,vikram.patel@hoj.com,+916205296725,Middle East,USA,2026-02-06,INACTIVE,emp_198.jpg,#FF6B6B,OLD198,198,1,emp_198,1,user_icon,GROUP6,BATCH_2022
+EMP00199,Vikram Patel,Supervisor,Inventory,vikram.patel@hoj.com,+919698107991,Asia-South,India,2022-08-26,INACTIVE,emp_199.jpg,#45B7D1,OLD199,199,1,emp_199,0,user_icon,GROUP4,BATCH_2023
+EMP00200,Mohit Verma,Supervisor,Finance,mohit.verma@hoj.com,+918587765791,Americas,UK,2020-09-15,ACTIVE,emp_200.jpg,#FF6B6B,OLD200,200,0,emp_200,1,user_icon,GROUP8,BATCH_2026
+EMP00201,Anjali Reddy,Analyst,HR,anjali.reddy@hoj.com,+919156422316,Middle East,UK,2021-04-08,ON_LEAVE,emp_201.jpg,#4ECDC4,OLD201,201,1,emp_201,0,user_icon,GROUP2,BATCH_2022
+EMP00202,Anjali Joshi,Executive,Operations,anjali.joshi@hoj.com,+919893091364,Middle East,Singapore,2025-09-06,INACTIVE,emp_202.jpg,#4ECDC4,OLD202,202,1,emp_202,1,user_icon,GROUP2,BATCH_2026
+EMP00203,Vikram Verma,Supervisor,Finance,vikram.verma@hoj.com,+918267127721,Europe,UAE,2023-12-30,ACTIVE,emp_203.jpg,#45B7D1,OLD203,203,0,emp_203,1,user_icon,GROUP8,BATCH_2021
+EMP00204,Amit Kumar,Executive,Finance,amit.kumar@hoj.com,+918743798574,Americas,India,2021-11-17,ON_LEAVE,emp_204.jpg,#45B7D1,OLD204,204,1,emp_204,1,user_icon,GROUP6,BATCH_2026
+EMP00205,Deepika Desai,Analyst,Operations,deepika.desai@hoj.com,+918296684847,Americas,UK,2021-01-30,ACTIVE,emp_205.jpg,#4ECDC4,OLD205,205,1,emp_205,1,user_icon,GROUP3,BATCH_2022
+EMP00206,Mohit Joshi,Executive,Customer Service,mohit.joshi@hoj.com,+918478230849,Asia-South,Australia,2021-01-20,ACTIVE,emp_206.jpg,#FF6B6B,OLD206,206,0,emp_206,1,user_icon,GROUP7,BATCH_2021
+EMP00207,Deepika Kumar,Supervisor,Inventory,deepika.kumar@hoj.com,+918443480162,Asia-South,Australia,2024-02-19,ON_LEAVE,emp_207.jpg,#4ECDC4,OLD207,207,0,emp_207,0,user_icon,GROUP10,BATCH_2021
+EMP00208,Neha Joshi,Coordinator,Inventory,neha.joshi@hoj.com,+918475508210,Asia-South,UAE,2024-03-28,ACTIVE,emp_208.jpg,#4ECDC4,OLD208,208,1,emp_208,0,user_icon,GROUP7,BATCH_2026
+EMP00209,Mohit Reddy,Manager,Sales,mohit.reddy@hoj.com,+917803392483,Asia-South,Singapore,2024-02-03,ACTIVE,emp_209.jpg,#FF6B6B,OLD209,209,0,emp_209,1,user_icon,GROUP6,BATCH_2023
+EMP00210,Anjali Sharma,Director,Sales,anjali.sharma@hoj.com,,Americas,UK,2023-03-29,ON_LEAVE,emp_210.jpg,#FF6B6B,OLD210,210,0,emp_210,1,user_icon,GROUP2,BATCH_2021
+EMP00211,Amit Kumar,Analyst,Sales,amit.kumar@hoj.com,+918512054452,Asia-South,USA,2021-12-27,ACTIVE,emp_211.jpg,#45B7D1,OLD211,211,1,emp_211,1,user_icon,GROUP4,BATCH_2024
+EMP00212,Neha Reddy,Manager,Finance,neha.reddy@hoj.com,+917866695212,Europe,Australia,2025-12-09,ACTIVE,emp_212.jpg,#FF6B6B,OLD212,212,0,emp_212,1,user_icon,GROUP8,BATCH_2022
+EMP00213,Anjali Verma,Executive,Finance,anjali.verma@hoj.com,+919968599023,Americas,UK,2025-04-20,INACTIVE,emp_213.jpg,#FF6B6B,OLD213,213,1,emp_213,1,user_icon,GROUP3,BATCH_2024
+EMP00214,Priya Reddy,Supervisor,IT,priya.reddy@hoj.com,+916150854896,Europe,Singapore,2024-04-13,INACTIVE,emp_214.jpg,#FF6B6B,OLD214,214,0,emp_214,1,user_icon,GROUP6,BATCH_2025
+EMP00215,Sneha Desai,Analyst,Sales,sneha.desai@hoj.com,+918986171653,Europe,Australia,2021-07-28,ON_LEAVE,emp_215.jpg,#45B7D1,OLD215,215,0,emp_215,0,user_icon,GROUP10,BATCH_2026
+EMP00216,Sneha Gupta,Coordinator,IT,sneha.gupta@hoj.com,+916852191641,Americas,Singapore,2020-11-22,INACTIVE,emp_216.jpg,#4ECDC4,OLD216,216,0,emp_216,1,user_icon,GROUP6,BATCH_2025
+EMP00217,Rajesh Patel,Manager,Customer Service,rajesh.patel@hoj.com,+917656574801,Asia-South,UAE,2023-06-04,INACTIVE,emp_217.jpg,#45B7D1,OLD217,217,1,emp_217,1,user_icon,GROUP1,BATCH_2024
+EMP00218,Arjun Nair,Director,Inventory,arjun.nair@hoj.com,+918283437592,Europe,UAE,2020-06-26,ON_LEAVE,emp_218.jpg,#45B7D1,OLD218,218,0,emp_218,1,user_icon,GROUP3,BATCH_2021
+EMP00219,Arjun Desai,Director,IT,arjun.desai@hoj.com,+917605680087,Asia-South,UAE,2024-09-25,ACTIVE,emp_219.jpg,#4ECDC4,OLD219,219,0,emp_219,1,user_icon,GROUP1,BATCH_2022
+EMP00220,Neha Singh,Director,Inventory,neha.singh@hoj.com,+918135650957,Asia-South,UK,2026-02-21,INACTIVE,emp_220.jpg,#45B7D1,OLD220,220,1,emp_220,0,user_icon,GROUP3,BATCH_2023
+EMP00221,Mohit Singh,Store Manager,Finance,mohit.singh@hoj.com,+917423250915,Asia-South,Singapore,2025-11-03,ACTIVE,emp_221.jpg,#45B7D1,OLD221,221,1,emp_221,0,user_icon,GROUP6,BATCH_2024
+EMP00222,Deepika Singh,Executive,Sales,deepika.singh@hoj.com,+918151595989,Asia-South,USA,2025-03-14,ACTIVE,emp_222.jpg,#FF6B6B,OLD222,222,1,emp_222,1,user_icon,GROUP1,BATCH_2026
+EMP00223,Mohit Verma,Assistant,Operations,mohit.verma@hoj.com,+918724542849,Middle East,India,2021-07-12,ACTIVE,emp_223.jpg,#4ECDC4,OLD223,223,0,emp_223,1,user_icon,GROUP7,BATCH_2022
+EMP00224,Amit Sharma,Director,Finance,amit.sharma@hoj.com,+918643048953,Asia-East,USA,2024-03-29,ON_LEAVE,emp_224.jpg,#4ECDC4,OLD224,224,0,emp_224,0,user_icon,GROUP6,BATCH_2023
+EMP00225,Neha Desai,Director,Sales,neha.desai@hoj.com,+919022441452,Americas,UK,2024-08-19,ACTIVE,emp_225.jpg,#45B7D1,OLD225,225,1,emp_225,1,user_icon,GROUP4,BATCH_2025
+EMP00226,Priya Sharma,Coordinator,Customer Service,priya.sharma@hoj.com,+916783722958,Middle East,USA,2025-08-25,ACTIVE,emp_226.jpg,#FF6B6B,OLD226,226,0,emp_226,0,user_icon,GROUP10,BATCH_2021
+EMP00227,Anjali Reddy,Director,Finance,anjali.reddy@hoj.com,+916443238058,Asia-South,India,2025-03-12,ON_LEAVE,emp_227.jpg,#FF6B6B,OLD227,227,1,emp_227,1,user_icon,GROUP9,BATCH_2024
+EMP00228,Vikram Nair,Analyst,Inventory,vikram.nair@hoj.com,+916617979745,Middle East,UAE,2022-01-26,ACTIVE,emp_228.jpg,#4ECDC4,OLD228,228,0,emp_228,0,user_icon,GROUP4,BATCH_2026
+EMP00229,Amit Nair,Store Manager,IT,amit.nair@hoj.com,+916709223168,Americas,UK,2025-07-27,INACTIVE,emp_229.jpg,#45B7D1,OLD229,229,0,emp_229,0,user_icon,GROUP10,BATCH_2026
+EMP00230,Arjun Desai,Store Manager,Inventory,arjun.desai@hoj.com,+919184911379,Asia-East,UAE,2022-11-27,ON_LEAVE,emp_230.jpg,#FF6B6B,OLD230,230,0,emp_230,0,user_icon,GROUP4,BATCH_2024
+EMP00231,Neha Gupta,Executive,Operations,neha.gupta@hoj.com,+917783623238,Europe,Singapore,2022-02-15,ON_LEAVE,emp_231.jpg,#4ECDC4,OLD231,231,0,emp_231,1,user_icon,GROUP4,BATCH_2023
+EMP00232,AMIT GUPTA,Executive,IT,amit.gupta@hoj.com,+919054848335,Middle East,UAE,2024-07-26,INACTIVE,emp_232.jpg,#45B7D1,OLD232,232,1,emp_232,1,user_icon,GROUP2,BATCH_2025
+EMP00233,Arjun Patel,Director,Finance,arjun.patel@hoj.com,+918622059301,Americas,USA,2021-04-05,ACTIVE,emp_233.jpg,#45B7D1,OLD233,233,1,emp_233,1,user_icon,GROUP2,BATCH_2025
+EMP00234,Mohit Kumar,Coordinator,Inventory,,+918930963614,Asia-East,Singapore,2023-03-29,INACTIVE,emp_234.jpg,#45B7D1,OLD234,234,0,emp_234,0,user_icon,GROUP6,BATCH_2023
+EMP00235,Deepika Kumar,Supervisor,HR,,+916971270392,Americas,India,2025-07-03,ACTIVE,emp_235.jpg,#4ECDC4,OLD235,235,1,emp_235,0,user_icon,GROUP1,BATCH_2023
+EMP00236,Neha Reddy,Supervisor,Sales,neha.reddy@hoj.com,+918464291114,Europe,Singapore,2022-06-06,ON_LEAVE,emp_236.jpg,#45B7D1,OLD236,236,1,emp_236,0,user_icon,GROUP3,BATCH_2024
+EMP00237,Anjali Kumar,Analyst,Finance,anjali.kumar@hoj.com,,Americas,UK,2025-12-17,ON_LEAVE,emp_237.jpg,#4ECDC4,OLD237,237,0,emp_237,1,user_icon,GROUP10,BATCH_2022
+EMP00238,Deepika Reddy,Manager,Customer Service,deepika.reddy@hoj.com,+916809211225,Middle East,USA,2023-02-09,ACTIVE,emp_238.jpg,#4ECDC4,OLD238,238,0,emp_238,1,user_icon,GROUP10,BATCH_2026
+EMP00239,Rajesh Patel,Manager,Inventory,rajesh.patel@hoj.com,+919769469471,Asia-South,UAE,2025-12-20,ON_LEAVE,emp_239.jpg,#4ECDC4,OLD239,239,0,emp_239,1,user_icon,GROUP8,BATCH_2026
+EMP00240,Amit Patel,Manager,Sales,amit.patel@hoj.com,+917681349524,Asia-South,Australia,2023-01-15,ACTIVE,emp_240.jpg,#45B7D1,OLD240,240,0,emp_240,0,user_icon,GROUP10,BATCH_2023
+EMP00241,Rajesh Verma,Assistant,IT,rajesh.verma@hoj.com,+919883155793,Americas,Australia,2026-03-28,INACTIVE,emp_241.jpg,#FF6B6B,OLD241,241,0,emp_241,0,user_icon,GROUP8,BATCH_2022
+EMP00242,Priya Sharma,Manager,IT,priya.sharma@hoj.com,,Asia-East,Singapore,2024-02-06,ACTIVE,emp_242.jpg,#45B7D1,OLD242,242,1,emp_242,1,user_icon,GROUP7,BATCH_2026
+EMP00243,Mohit Desai,Manager,IT,mohit.desai@hoj.com,+917985955062,Middle East,Singapore,2020-07-20,ON_LEAVE,emp_243.jpg,#4ECDC4,OLD243,243,1,emp_243,1,user_icon,GROUP8,BATCH_2025
+EMP00244,Arjun Patel,Manager,HR,arjun.patel@hoj.com,+917621162592,Europe,Singapore,2026-03-15,ACTIVE,emp_244.jpg,#FF6B6B,OLD244,244,0,emp_244,0,user_icon,GROUP5,BATCH_2026
+EMP00245,Arjun Singh,Supervisor,HR,arjun.singh@hoj.com,+916866164228,Asia-South,India,2023-05-21,ACTIVE,emp_245.jpg,#45B7D1,OLD245,245,1,emp_245,1,user_icon,GROUP7,BATCH_2023
+EMP00246,Rajesh Reddy,Assistant,Finance,rajesh.reddy@hoj.com,+918320195404,Asia-South,Australia,2025-09-23,ACTIVE,emp_246.jpg,#FF6B6B,OLD246,246,1,emp_246,1,user_icon,GROUP5,BATCH_2025
+EMP00247,Neha Sharma,Store Manager,Finance,neha.sharma@hoj.com,+919348910003,Asia-East,India,2024-04-13,ACTIVE,emp_247.jpg,#4ECDC4,OLD247,247,1,emp_247,1,user_icon,GROUP10,BATCH_2023
+EMP00248,Rajesh Desai,Director,Inventory,rajesh.desai@hoj.com,+916435171875,Americas,India,2022-09-02,ACTIVE,emp_248.jpg,#FF6B6B,OLD248,248,1,emp_248,1,user_icon,GROUP8,BATCH_2024
+EMP00249,Arjun Nair,Coordinator,Inventory,arjun.nair@hoj.com,,Asia-East,UAE,2023-04-03,INACTIVE,emp_249.jpg,#45B7D1,OLD249,249,1,emp_249,0,user_icon,GROUP2,BATCH_2023
+EMP00250,Arjun Desai,Assistant,Operations,arjun.desai@hoj.com,+918489566514,Asia-East,Australia,2024-12-05,ACTIVE,emp_250.jpg,#4ECDC4,OLD250,250,1,emp_250,1,user_icon,GROUP2,BATCH_2024
+EMP00251,Deepika Verma,Analyst,Customer Service,deepika.verma@hoj.com,+919460139164,Middle East,UK,2025-01-08,INACTIVE,emp_251.jpg,#FF6B6B,OLD251,251,0,emp_251,0,user_icon,GROUP5,BATCH_2022
+EMP00252,Anjali Singh,Coordinator,IT,anjali.singh@hoj.com,+919444189306,Asia-East,UK,2025-12-27,INACTIVE,emp_252.jpg,#4ECDC4,OLD252,252,0,emp_252,1,user_icon,GROUP8,BATCH_2024
+EMP00253,Amit Verma,Store Manager,Inventory,amit.verma@hoj.com,+917929488174,Asia-East,USA,2022-10-10,INACTIVE,emp_253.jpg,#45B7D1,OLD253,253,0,emp_253,0,user_icon,GROUP3,BATCH_2021
+EMP00254,Rajesh Kumar,Store Manager,Sales,rajesh.kumar@hoj.com,+916611159177,Europe,UAE,2024-10-28,ACTIVE,emp_254.jpg,#FF6B6B,OLD254,254,1,emp_254,0,user_icon,GROUP4,BATCH_2022
+EMP00255,Deepika Verma,Assistant,HR,deepika.verma@hoj.com,+917936571758,Asia-East,UK,2026-05-12,ON_LEAVE,emp_255.jpg,#4ECDC4,OLD255,255,0,emp_255,0,user_icon,GROUP4,BATCH_2023
+EMP00256,Mohit Kumar,Analyst,Finance,mohit.kumar@hoj.com,+916419267295,Americas,UAE,2020-10-15,ON_LEAVE,emp_256.jpg,#4ECDC4,OLD256,256,1,emp_256,1,user_icon,GROUP10,BATCH_2023
+EMP00257,Deepika Gupta,Store Manager,Customer Service,deepika.gupta@hoj.com,+918106116440,Europe,USA,2025-09-17,INACTIVE,emp_257.jpg,#FF6B6B,OLD257,257,0,emp_257,1,user_icon,GROUP6,BATCH_2024
+EMP00258,Vikram Desai,Store Manager,Sales,vikram.desai@hoj.com,+919947283999,Asia-South,UAE,2025-07-16,ACTIVE,emp_258.jpg,#4ECDC4,OLD258,258,0,emp_258,1,user_icon,GROUP2,BATCH_2022
+EMP00259,Neha Reddy,Assistant,HR,neha.reddy@hoj.com,+918577033863,Asia-East,Singapore,2025-11-27,ACTIVE,emp_259.jpg,#45B7D1,OLD259,259,0,emp_259,0,user_icon,GROUP10,BATCH_2024
+EMP00260,Mohit Verma,Assistant,Customer Service,mohit.verma@hoj.com,+917816656823,Asia-South,Singapore,2021-11-04,ON_LEAVE,emp_260.jpg,#4ECDC4,OLD260,260,1,emp_260,1,user_icon,GROUP1,BATCH_2024
+EMP00261,Deepika Patel,Director,Customer Service,deepika.patel@hoj.com,+918903725011,Asia-East,UAE,2025-06-18,INACTIVE,emp_261.jpg,#4ECDC4,OLD261,261,1,emp_261,1,user_icon,GROUP7,BATCH_2026
+EMP00262,Arjun Reddy,Director,IT,arjun.reddy@hoj.com,,Asia-East,UAE,2024-06-19,ON_LEAVE,emp_262.jpg,#45B7D1,OLD262,262,1,emp_262,1,user_icon,GROUP2,BATCH_2026
+EMP00263,Deepika Joshi,Supervisor,Sales,deepika.joshi@hoj.com,+918016549022,Middle East,Singapore,2026-04-19,ACTIVE,emp_263.jpg,#4ECDC4,OLD263,263,0,emp_263,1,user_icon,GROUP9,BATCH_2022
+EMP00264,Priya Gupta,Supervisor,Finance,priya.gupta@hoj.com,+919063075366,Asia-South,India,2023-12-14,ON_LEAVE,emp_264.jpg,#45B7D1,OLD264,264,0,emp_264,1,user_icon,GROUP4,BATCH_2026
+EMP00265,Priya Gupta,Manager,IT,priya.gupta@hoj.com,+917292952477,Americas,UAE,2023-09-27,ACTIVE,emp_265.jpg,#45B7D1,OLD265,265,1,emp_265,1,user_icon,GROUP7,BATCH_2021
+EMP00266,Neha Nair,Supervisor,HR,neha.nair@hoj.com,+916228000049,Americas,USA,2022-02-14,INACTIVE,emp_266.jpg,#4ECDC4,OLD266,266,1,emp_266,0,user_icon,GROUP6,BATCH_2025
+EMP00267,Vikram Gupta,Analyst,HR,vikram.gupta@hoj.com,+916972375867,Middle East,India,2021-04-07,ACTIVE,emp_267.jpg,#45B7D1,OLD267,267,1,emp_267,0,user_icon,GROUP10,BATCH_2021
+EMP00268,Arjun Singh,Executive,HR,arjun.singh@hoj.com,+919431666419,Asia-South,Australia,2024-04-12,ON_LEAVE,emp_268.jpg,#45B7D1,OLD268,268,1,emp_268,0,user_icon,GROUP4,BATCH_2026
+EMP00269,Sneha Verma,Store Manager,Sales,sneha.verma@hoj.com,+916304758665,Americas,UAE,2025-09-01,INACTIVE,emp_269.jpg,#45B7D1,OLD269,269,1,emp_269,1,user_icon,GROUP4,BATCH_2025
+EMP00270,Arjun Joshi,Analyst,Operations,arjun.joshi@hoj.com,+918870716248,Middle East,Australia,2021-12-11,ON_LEAVE,emp_270.jpg,#4ECDC4,OLD270,270,0,emp_270,0,user_icon,GROUP4,BATCH_2023
+EMP00271,Vikram Kumar,Supervisor,Operations,vikram.kumar@hoj.com,+919259236976,Asia-East,Australia,2022-11-25,ACTIVE,emp_271.jpg,#FF6B6B,OLD271,271,0,emp_271,1,user_icon,GROUP8,BATCH_2024
+EMP00272,Mohit Singh,Store Manager,Operations,mohit.singh@hoj.com,+918581607898,Americas,UK,2025-01-26,ON_LEAVE,emp_272.jpg,#4ECDC4,OLD272,272,0,emp_272,1,user_icon,GROUP9,BATCH_2022
+EMP00273,Arjun Gupta,Director,HR,arjun.gupta@hoj.com,+918162427890,Asia-South,UAE,2021-12-12,ON_LEAVE,emp_273.jpg,#4ECDC4,OLD273,273,0,emp_273,0,user_icon,GROUP10,BATCH_2026
+EMP00274,Deepika Sharma,Analyst,Operations,deepika.sharma@hoj.com,+916283585141,Middle East,India,2026-01-07,INACTIVE,emp_274.jpg,#FF6B6B,OLD274,274,0,emp_274,1,user_icon,GROUP7,BATCH_2025
+EMP00275,Vikram Desai,Analyst,HR,vikram.desai@hoj.com,+917453820713,Europe,UK,2021-04-18,ON_LEAVE,emp_275.jpg,#45B7D1,OLD275,275,0,emp_275,1,user_icon,GROUP2,BATCH_2022
+EMP00276,Priya Kumar,Assistant,Inventory,priya.kumar@hoj.com,+917296148137,Asia-East,UAE,2021-06-29,ON_LEAVE,emp_276.jpg,#FF6B6B,OLD276,276,1,emp_276,1,user_icon,GROUP9,BATCH_2023
+EMP00277,Rajesh Patel,Manager,Finance,rajesh.patel@hoj.com,+919031811559,Asia-South,Singapore,2022-05-21,ACTIVE,emp_277.jpg,#FF6B6B,OLD277,277,1,emp_277,0,user_icon,GROUP5,BATCH_2022
+EMP00278,Amit Patel,Supervisor,Inventory,amit.patel@hoj.com,+916188330734,Europe,UK,2022-04-21,INACTIVE,emp_278.jpg,#45B7D1,OLD278,278,0,emp_278,1,user_icon,GROUP1,BATCH_2023
+EMP00279,Mohit Patel,Executive,Inventory,mohit.patel@hoj.com,+918344627595,Middle East,Australia,2026-01-13,INACTIVE,emp_279.jpg,#4ECDC4,OLD279,279,1,emp_279,0,user_icon,GROUP2,BATCH_2022
+EMP00280,Deepika Sharma,Store Manager,Inventory,deepika.sharma@hoj.com,+916986066886,Europe,Australia,2024-08-16,ON_LEAVE,emp_280.jpg,#4ECDC4,OLD280,280,0,emp_280,1,user_icon,GROUP8,BATCH_2022
+EMP00281,Sneha Patel,Director,Inventory,sneha.patel@hoj.com,+916803198021,Asia-East,UAE,2025-06-23,INACTIVE,emp_281.jpg,#45B7D1,OLD281,281,0,emp_281,0,user_icon,GROUP9,BATCH_2023
+EMP00282,Rajesh Verma,Supervisor,IT,rajesh.verma@hoj.com,+917037777393,Americas,India,2023-12-07,ON_LEAVE,emp_282.jpg,#45B7D1,OLD282,282,0,emp_282,0,user_icon,GROUP5,BATCH_2021
+EMP00283,Anjali Sharma,Supervisor,Customer Service,anjali.sharma@hoj.com,+919025723082,Europe,India,2022-06-15,INACTIVE,emp_283.jpg,#FF6B6B,OLD283,283,1,emp_283,1,user_icon,GROUP3,BATCH_2024
+EMP00284,Vikram Reddy,Store Manager,Sales,vikram.reddy@hoj.com,,Asia-East,Australia,2024-03-12,INACTIVE,emp_284.jpg,#4ECDC4,OLD284,284,0,emp_284,1,user_icon,GROUP6,BATCH_2026
+EMP00285,Mohit Reddy,Analyst,HR,mohit.reddy@hoj.com,+917708704414,Middle East,Singapore,2024-03-18,INACTIVE,emp_285.jpg,#FF6B6B,OLD285,285,0,emp_285,0,user_icon,GROUP4,BATCH_2024
+EMP00286,Priya Kumar,Supervisor,Finance,priya.kumar@hoj.com,+916656940434,Middle East,UK,2024-01-04,INACTIVE,emp_286.jpg,#45B7D1,OLD286,286,0,emp_286,1,user_icon,GROUP1,BATCH_2025
+EMP00287,Neha Verma,Supervisor,Inventory,neha.verma@hoj.com,+917289887155,Europe,UAE,2025-08-24,ACTIVE,emp_287.jpg,#4ECDC4,OLD287,287,0,emp_287,0,user_icon,GROUP9,BATCH_2022
+EMP00288,Neha Joshi,Coordinator,Inventory,neha.joshi@hoj.com,+919889558522,Asia-South,UK,2025-03-18,INACTIVE,emp_288.jpg,#4ECDC4,OLD288,288,0,emp_288,1,user_icon,GROUP4,BATCH_2026
+EMP00289,Anjali Gupta,Store Manager,HR,anjali.gupta@hoj.com,+918153706204,Asia-East,India,2023-05-18,ON_LEAVE,emp_289.jpg,#4ECDC4,OLD289,289,1,emp_289,0,user_icon,GROUP2,BATCH_2024
+EMP00290,Anjali Singh,Analyst,Sales,anjali.singh@hoj.com,+919423728556,Asia-South,USA,2025-09-25,ON_LEAVE,emp_290.jpg,#FF6B6B,OLD290,290,0,emp_290,1,user_icon,GROUP1,BATCH_2026
+EMP00291,Amit Joshi,Coordinator,Customer Service,amit.joshi@hoj.com,+917756825625,Europe,USA,2024-12-28,INACTIVE,emp_291.jpg,#4ECDC4,OLD291,291,1,emp_291,1,user_icon,GROUP10,BATCH_2025
+EMP00292,Neha Nair,Supervisor,Finance,neha.nair@hoj.com,+916679780145,Middle East,USA,2021-03-02,INACTIVE,emp_292.jpg,#4ECDC4,OLD292,292,1,emp_292,1,user_icon,GROUP6,BATCH_2024
+EMP00293,Anjali Kumar,Coordinator,Customer Service,anjali.kumar@hoj.com,+919481075013,Americas,Australia,2025-08-17,ON_LEAVE,emp_293.jpg,#45B7D1,OLD293,293,0,emp_293,1,user_icon,GROUP1,BATCH_2022
+EMP00294,Amit Nair,Store Manager,Operations,amit.nair@hoj.com,+917132699048,Americas,UK,2024-01-21,ON_LEAVE,emp_294.jpg,#45B7D1,OLD294,294,1,emp_294,0,user_icon,GROUP8,BATCH_2021
+EMP00295,Amit Patel,Supervisor,Customer Service,amit.patel@hoj.com,+917757925561,Asia-East,USA,2025-02-28,ON_LEAVE,emp_295.jpg,#45B7D1,OLD295,295,0,emp_295,0,user_icon,GROUP7,BATCH_2023
+EMP00296,Mohit Joshi,Executive,Sales,mohit.joshi@hoj.com,+918866327831,Asia-South,UK,2024-09-08,INACTIVE,emp_296.jpg,#45B7D1,OLD296,296,0,emp_296,0,user_icon,GROUP9,BATCH_2022
+EMP00297,Rajesh Sharma,Store Manager,Operations,rajesh.sharma@hoj.com,+919105509584,Europe,India,2022-08-06,INACTIVE,emp_297.jpg,#FF6B6B,OLD297,297,0,emp_297,0,user_icon,GROUP9,BATCH_2025
+EMP00298,Vikram Patel,Coordinator,Operations,vikram.patel@hoj.com,+917137783193,Europe,Singapore,2022-07-09,ON_LEAVE,emp_298.jpg,#4ECDC4,OLD298,298,1,emp_298,1,user_icon,GROUP10,BATCH_2021
+EMP00299,Arjun Singh,Coordinator,Operations,arjun.singh@hoj.com,+919451605237,Europe,Australia,2024-06-28,INACTIVE,emp_299.jpg,#45B7D1,OLD299,299,0,emp_299,1,user_icon,GROUP8,BATCH_2021
+EMP00300,Priya Sharma,Assistant,IT,priya.sharma@hoj.com,+918540252636,Middle East,UK,2026-02-21,ACTIVE,emp_300.jpg,#FF6B6B,OLD300,300,1,emp_300,1,user_icon,GROUP5,BATCH_2021
+EMP00301,Mohit Joshi,Director,HR,mohit.joshi@hoj.com,+916209132270,Europe,UK,2023-11-15,ACTIVE,emp_301.jpg,#FF6B6B,OLD301,301,1,emp_301,1,user_icon,GROUP1,BATCH_2021
+EMP00302,Mohit Patel,Executive,Finance,mohit.patel@hoj.com,+917334847541,Americas,India,2021-04-29,ON_LEAVE,emp_302.jpg,#4ECDC4,OLD302,302,1,emp_302,1,user_icon,GROUP1,BATCH_2023
+EMP00303,Mohit Joshi,Assistant,Customer Service,mohit.joshi@hoj.com,+916896949531,Asia-South,UAE,2023-12-29,ACTIVE,emp_303.jpg,#4ECDC4,OLD303,303,0,emp_303,0,user_icon,GROUP5,BATCH_2021
+EMP00304,Neha Desai,Manager,Operations,neha.desai@hoj.com,+919862536982,Middle East,UK,2022-02-27,INACTIVE,emp_304.jpg,#4ECDC4,OLD304,304,1,emp_304,0,user_icon,GROUP2,BATCH_2026
+EMP00305,Amit Joshi,Analyst,Inventory,amit.joshi@hoj.com,+916676856608,Middle East,Australia,2024-07-14,ACTIVE,emp_305.jpg,#45B7D1,OLD305,305,0,emp_305,0,user_icon,GROUP10,BATCH_2024
+EMP00306,Sneha Patel,Supervisor,Inventory,sneha.patel@hoj.com,+917498864935,Asia-East,Singapore,2023-11-20,INACTIVE,emp_306.jpg,#45B7D1,OLD306,306,1,emp_306,0,user_icon,GROUP7,BATCH_2021
+EMP00307,Vikram Reddy,Director,IT,vikram.reddy@hoj.com,+919791506431,Middle East,UAE,2022-02-02,ACTIVE,emp_307.jpg,#4ECDC4,OLD307,307,0,emp_307,0,user_icon,GROUP10,BATCH_2024
+EMP00308,Mohit Reddy,Assistant,Customer Service,mohit.reddy@hoj.com,+917674826092,Middle East,UK,2024-03-27,ON_LEAVE,emp_308.jpg,#4ECDC4,OLD308,308,0,emp_308,1,user_icon,GROUP7,BATCH_2021
+EMP00309,Deepika Singh,Analyst,Operations,deepika.singh@hoj.com,+919918767461,Middle East,Australia,2021-03-20,ACTIVE,emp_309.jpg,#45B7D1,OLD309,309,1,emp_309,0,user_icon,GROUP4,BATCH_2021
+EMP00310,Arjun Nair,Executive,Operations,arjun.nair@hoj.com,+916223520288,Middle East,Australia,2026-04-10,INACTIVE,emp_310.jpg,#FF6B6B,OLD310,310,0,emp_310,1,user_icon,GROUP9,BATCH_2025
+EMP00311,Arjun Nair,Director,Customer Service,arjun.nair@hoj.com,+916273752878,Asia-South,USA,2023-11-30,INACTIVE,emp_311.jpg,#45B7D1,OLD311,311,1,emp_311,0,user_icon,GROUP4,BATCH_2026
+EMP00312,Mohit Reddy,Coordinator,Operations,mohit.reddy@hoj.com,+917768958727,Europe,UK,2024-11-02,ON_LEAVE,emp_312.jpg,#45B7D1,OLD312,312,1,emp_312,0,user_icon,GROUP10,BATCH_2023
+EMP00313,Sneha Kumar,Director,IT,sneha.kumar@hoj.com,+916538939975,Asia-South,UK,2025-07-31,INACTIVE,emp_313.jpg,#45B7D1,OLD313,313,0,emp_313,1,user_icon,GROUP7,BATCH_2021
+EMP00314,Mohit Desai,Coordinator,Sales,mohit.desai@hoj.com,+918227445508,Americas,USA,2022-10-01,INACTIVE,emp_314.jpg,#45B7D1,OLD314,314,1,emp_314,0,user_icon,GROUP8,BATCH_2026
+EMP00315,Mohit Desai,Coordinator,Inventory,mohit.desai@hoj.com,+917094676299,Americas,USA,2026-03-21,ON_LEAVE,emp_315.jpg,#FF6B6B,OLD315,315,0,emp_315,1,user_icon,GROUP10,BATCH_2021
+EMP00316,Deepika Sharma,Director,Operations,,+918563983242,Europe,UAE,2022-09-06,ON_LEAVE,emp_316.jpg,#FF6B6B,OLD316,316,0,emp_316,1,user_icon,GROUP6,BATCH_2022
+EMP00317,Neha Verma,Supervisor,Customer Service,neha.verma@hoj.com,+918575210235,Asia-South,Singapore,2023-04-30,ACTIVE,emp_317.jpg,#4ECDC4,OLD317,317,1,emp_317,0,user_icon,GROUP10,BATCH_2022
+EMP00318,Priya Sharma,Executive,HR,priya.sharma@hoj.com,+916333763498,Americas,India,2024-12-21,INACTIVE,emp_318.jpg,#4ECDC4,OLD318,318,0,emp_318,0,user_icon,GROUP6,BATCH_2026
+EMP00319,Priya Gupta,Manager,Inventory,,+916822735190,Europe,India,2023-01-04,ACTIVE,emp_319.jpg,#4ECDC4,OLD319,319,1,emp_319,0,user_icon,GROUP1,BATCH_2021
+EMP00320,Vikram Desai,Director,IT,vikram.desai@hoj.com,+917685149751,Middle East,India,2022-01-08,ACTIVE,emp_320.jpg,#4ECDC4,OLD320,320,1,emp_320,0,user_icon,GROUP8,BATCH_2023
+EMP00321,Neha Reddy,Manager,IT,neha.reddy@hoj.com,+919374173193,Asia-South,India,2025-07-04,ON_LEAVE,emp_321.jpg,#FF6B6B,OLD321,321,1,emp_321,1,user_icon,GROUP8,BATCH_2022
+EMP00322,Mohit Patel,Supervisor,Inventory,mohit.patel@hoj.com,+916985839237,Europe,Australia,2021-12-17,INACTIVE,emp_322.jpg,#4ECDC4,OLD322,322,0,emp_322,0,user_icon,GROUP1,BATCH_2024
+EMP00323,Rajesh Kumar,Director,Sales,rajesh.kumar@hoj.com,+916189799495,Middle East,USA,2022-09-16,INACTIVE,emp_323.jpg,#45B7D1,OLD323,323,1,emp_323,0,user_icon,GROUP6,BATCH_2021
+EMP00324,Vikram Sharma,Executive,Operations,vikram.sharma@hoj.com,+916973789553,Asia-South,Australia,2021-07-12,ACTIVE,emp_324.jpg,#45B7D1,OLD324,324,0,emp_324,1,user_icon,GROUP5,BATCH_2022
+EMP00325,Deepika Kumar,Analyst,Sales,deepika.kumar@hoj.com,+918453608791,Asia-East,Australia,2024-07-23,INACTIVE,emp_325.jpg,#45B7D1,OLD325,325,0,emp_325,1,user_icon,GROUP1,BATCH_2026
+EMP00326,Sneha Patel,Manager,Finance,sneha.patel@hoj.com,+917992588399,Middle East,Australia,2021-04-09,ACTIVE,emp_326.jpg,#45B7D1,OLD326,326,0,emp_326,1,user_icon,GROUP5,BATCH_2022
+EMP00327,Neha Gupta,Supervisor,Operations,neha.gupta@hoj.com,+918428864416,Europe,Australia,2021-06-07,INACTIVE,emp_327.jpg,#FF6B6B,OLD327,327,1,emp_327,1,user_icon,GROUP6,BATCH_2026
+EMP00328,Anjali Joshi,Assistant,Inventory,anjali.joshi@hoj.com,+918094601599,Middle East,USA,2025-11-02,ON_LEAVE,emp_328.jpg,#4ECDC4,OLD328,328,0,emp_328,0,user_icon,GROUP7,BATCH_2022
+EMP00329,Arjun Patel,Executive,Inventory,arjun.patel@hoj.com,+916251117188,Asia-East,UAE,2022-11-20,ON_LEAVE,emp_329.jpg,#4ECDC4,OLD329,329,0,emp_329,1,user_icon,GROUP8,BATCH_2025
+EMP00330, Arjun Nair,Analyst,HR,arjun.nair@hoj.com,+917910113097,Middle East,UK,2024-03-28,ACTIVE,emp_330.jpg,#4ECDC4,OLD330,330,0,emp_330,0,user_icon,GROUP1,BATCH_2024
+EMP00331,Rajesh Patel,Executive,IT,rajesh.patel@hoj.com,+917599209613,Americas,UK,2021-04-09,INACTIVE,emp_331.jpg,#45B7D1,OLD331,331,1,emp_331,1,user_icon,GROUP4,BATCH_2021
+EMP00332,Rajesh Kumar,Manager,Finance,rajesh.kumar@hoj.com,+917423527495,Asia-South,Australia,2023-06-03,INACTIVE,emp_332.jpg,#4ECDC4,OLD332,332,1,emp_332,1,user_icon,GROUP9,BATCH_2025
+EMP00333,Deepika Reddy,Supervisor,IT,deepika.reddy@hoj.com,+917004695116,Americas,Australia,2022-07-15,INACTIVE,emp_333.jpg,#4ECDC4,OLD333,333,1,emp_333,1,user_icon,GROUP9,BATCH_2023
+EMP00334,Arjun Verma,Executive,Finance,arjun.verma@hoj.com,+919243938812,Europe,India,2025-11-14,ACTIVE,emp_334.jpg,#45B7D1,OLD334,334,0,emp_334,0,user_icon,GROUP7,BATCH_2024
+EMP00335,Amit Joshi,Executive,Customer Service,amit.joshi@hoj.com,+916406410798,Americas,UAE,2025-04-11,ACTIVE,emp_335.jpg,#4ECDC4,OLD335,335,0,emp_335,0,user_icon,GROUP8,BATCH_2023
+EMP00336,Anjali Desai,Manager,HR,anjali.desai@hoj.com,+917842969008,Asia-East,UAE,2025-12-17,INACTIVE,emp_336.jpg,#FF6B6B,OLD336,336,1,emp_336,1,user_icon,GROUP10,BATCH_2025
+EMP00337,Amit Kumar,Coordinator,Inventory,amit.kumar@hoj.com,+917163869857,Asia-South,USA,2023-06-07,ACTIVE,emp_337.jpg,#45B7D1,OLD337,337,0,emp_337,1,user_icon,GROUP1,BATCH_2023
+EMP00338,Anjali Reddy,Assistant,HR,anjali.reddy@hoj.com,+917073316098,Asia-South,Singapore,2023-03-25,INACTIVE,emp_338.jpg,#45B7D1,OLD338,338,1,emp_338,1,user_icon,GROUP7,BATCH_2022
+EMP00339,Vikram Kumar,Assistant,Customer Service,vikram.kumar@hoj.com,+916166702329,Asia-East,Singapore,2022-08-03,INACTIVE,emp_339.jpg,#45B7D1,OLD339,339,0,emp_339,0,user_icon,GROUP6,BATCH_2026
+EMP00340,Deepika Singh  Deepika Singh,Assistant,Finance,deepika.singh@hoj.com,+918202012471,Asia-East,USA,2022-11-10,INACTIVE,emp_340.jpg,#FF6B6B,OLD340,340,1,emp_340,0,user_icon,GROUP5,BATCH_2024
+EMP00341,Amit Singh,Assistant,IT,amit.singh@hoj.com,+917616176194,Americas,UAE,2022-11-30,ON_LEAVE,emp_341.jpg,#FF6B6B,OLD341,341,0,emp_341,0,user_icon,GROUP6,BATCH_2022
+EMP00342,Anjali Verma,Coordinator,IT,anjali.verma@hoj.com,+916453126124,Asia-South,UK,2024-01-07,ON_LEAVE,emp_342.jpg,#FF6B6B,OLD342,342,0,emp_342,0,user_icon,GROUP4,BATCH_2026
+EMP00343,Amit Nair,Coordinator,Finance,amit.nair@hoj.com,+918042818154,Europe,Australia,2021-05-05,INACTIVE,emp_343.jpg,#FF6B6B,OLD343,343,1,emp_343,1,user_icon,GROUP9,BATCH_2021
+EMP00344,Priya Nair,Store Manager,Inventory,priya.nair@hoj.com,+917310547434,Americas,Singapore,2024-03-08,ACTIVE,emp_344.jpg,#FF6B6B,OLD344,344,0,emp_344,0,user_icon,GROUP5,BATCH_2025
+EMP00345,Sneha Desai,Supervisor,Customer Service,sneha.desai@hoj.com,+918915113244,Asia-South,India,2022-10-04,ACTIVE,emp_345.jpg,#4ECDC4,OLD345,345,1,emp_345,0,user_icon,GROUP5,BATCH_2024
+EMP00346,Amit Nair,Store Manager,IT,amit.nair@hoj.com,+918187721502,Asia-East,Australia,2020-09-30,ON_LEAVE,emp_346.jpg,#45B7D1,OLD346,346,1,emp_346,0,user_icon,GROUP6,BATCH_2024
+EMP00347,Mohit Patel,Executive,Customer Service,mohit.patel@hoj.com,+917338929037,Asia-East,Singapore,2022-11-19,ON_LEAVE,emp_347.jpg,#4ECDC4,OLD347,347,1,emp_347,0,user_icon,GROUP10,BATCH_2022
+EMP00348,Neha Singh,Analyst,Inventory,neha.singh@hoj.com,+919001536350,Europe,USA,2023-04-22,INACTIVE,emp_348.jpg,#FF6B6B,OLD348,348,1,emp_348,0,user_icon,GROUP1,BATCH_2025
+EMP00349,Arjun Verma,Assistant,Inventory,arjun.verma@hoj.com,+919098818899,Asia-East,UK,2022-10-27,INACTIVE,emp_349.jpg,#4ECDC4,OLD349,349,1,emp_349,0,user_icon,GROUP2,BATCH_2021
+EMP00350,Mohit Verma,Manager,HR,mohit.verma@hoj.com,+918536246772,Americas,UAE,2022-02-26,INACTIVE,emp_350.jpg,#FF6B6B,OLD350,350,0,emp_350,1,user_icon,GROUP5,BATCH_2023
+EMP00351,Rajesh Patel,Assistant,IT,rajesh.patel@hoj.com,+917630479335,Asia-South,UK,2024-11-09,INACTIVE,emp_351.jpg,#45B7D1,OLD351,351,1,emp_351,1,user_icon,GROUP6,BATCH_2021
+EMP00352,Priya Desai,Executive,Finance,priya.desai@hoj.com,+917032733714,Americas,India,2025-11-16,INACTIVE,emp_352.jpg,#45B7D1,OLD352,352,0,emp_352,0,user_icon,GROUP5,BATCH_2026
+EMP00353,Deepika Joshi,Supervisor,HR,deepika.joshi@hoj.com,+916845121567,Middle East,Australia,2021-07-08,INACTIVE,emp_353.jpg,#45B7D1,OLD353,353,1,emp_353,1,user_icon,GROUP5,BATCH_2021
+EMP00354,Deepika Joshi,Executive,Sales,deepika.joshi@hoj.com,+916656355051,Middle East,USA,2021-02-18,ON_LEAVE,emp_354.jpg,#45B7D1,OLD354,354,1,emp_354,1,user_icon,GROUP2,BATCH_2024
+EMP00355,Priya Singh,Coordinator,Operations,priya.singh@hoj.com,+919868768618,Americas,Singapore,2025-01-17,ON_LEAVE,emp_355.jpg,#4ECDC4,OLD355,355,1,emp_355,0,user_icon,GROUP2,BATCH_2026
+EMP00356,Anjali Verma,Assistant,Finance,anjali.verma@hoj.com,+916344698499,Asia-East,USA,2022-06-27,ON_LEAVE,emp_356.jpg,#45B7D1,OLD356,356,1,emp_356,1,user_icon,GROUP1,BATCH_2024
+EMP00357,Amit Desai,Analyst,Finance,amit.desai@hoj.com,+919240480995,Asia-South,UK,2021-03-11,ACTIVE,emp_357.jpg,#4ECDC4,OLD357,357,1,emp_357,0,user_icon,GROUP5,BATCH_2022
+EMP00358,Vikram Desai,Supervisor,Customer Service,vikram.desai@hoj.com,+918052889874,Europe,Australia,2022-06-05,ON_LEAVE,emp_358.jpg,#45B7D1,OLD358,358,1,emp_358,0,user_icon,GROUP1,BATCH_2026
+EMP00359,Priya Kumar,Store Manager,IT,priya.kumar@hoj.com,+916426100893,Americas,Australia,2022-06-01,ON_LEAVE,emp_359.jpg,#45B7D1,OLD359,359,1,emp_359,0,user_icon,GROUP2,BATCH_2021
+EMP00360,Rajesh Kumar,Coordinator,Customer Service,rajesh.kumar@hoj.com,+917061552316,Middle East,UK,2025-12-18,ACTIVE,emp_360.jpg,#4ECDC4,OLD360,360,0,emp_360,0,user_icon,GROUP10,BATCH_2025
+EMP00361,Deepika Singh,Store Manager,HR,deepika.singh@hoj.com,+916247379067,Middle East,UK,2022-04-02,ON_LEAVE,emp_361.jpg,#45B7D1,OLD361,361,0,emp_361,1,user_icon,GROUP3,BATCH_2024
+EMP00362,Mohit Reddy,Supervisor,Operations,mohit.reddy@hoj.com,+917111021686,Middle East,UAE,2023-04-28,ACTIVE,emp_362.jpg,#4ECDC4,OLD362,362,0,emp_362,1,user_icon,GROUP7,BATCH_2023
+EMP00363,Mohit Desai,Store Manager,Operations,mohit.desai@hoj.com,+917033555546,Asia-East,UAE,2023-10-14,ON_LEAVE,emp_363.jpg,#45B7D1,OLD363,363,1,emp_363,0,user_icon,GROUP1,BATCH_2026
+EMP00364,Arjun Reddy,Manager,IT,arjun.reddy@hoj.com,+916237510311,Americas,Singapore,2024-01-22,ON_LEAVE,emp_364.jpg,#4ECDC4,OLD364,364,0,emp_364,0,user_icon,GROUP8,BATCH_2025
+EMP00365,Priya Gupta,Coordinator,IT,priya.gupta@hoj.com,+916246600533,Middle East,USA,2020-11-28,ON_LEAVE,emp_365.jpg,#4ECDC4,OLD365,365,1,emp_365,1,user_icon,GROUP6,BATCH_2025
+EMP00366,Arjun Reddy,Director,Customer Service,arjun.reddy@hoj.com,+916413092821,Americas,UK,2021-02-16,ACTIVE,emp_366.jpg,#45B7D1,OLD366,366,0,emp_366,1,user_icon,GROUP4,BATCH_2021
+EMP00367,Mohit Kumar,Store Manager,Finance,mohit.kumar@hoj.com,+917564115969,Europe,Australia,2024-03-26,ON_LEAVE,emp_367.jpg,#45B7D1,OLD367,367,1,emp_367,1,user_icon,GROUP1,BATCH_2022
+EMP00368,Priya Sharma,Assistant,Inventory,priya.sharma@hoj.com,+917211744407,Americas,Australia,2025-07-20,ON_LEAVE,emp_368.jpg,#FF6B6B,OLD368,368,1,emp_368,1,user_icon,GROUP7,BATCH_2023
+EMP00369,Amit Singh,Assistant,Sales,amit.singh@hoj.com,+918159927181,Asia-East,India,2025-07-16,ON_LEAVE,emp_369.jpg,#4ECDC4,OLD369,369,1,emp_369,0,user_icon,GROUP7,BATCH_2026
+EMP00370,Arjun Reddy,Director,Operations,arjun.reddy@hoj.com,+919772514557,Asia-East,India,2021-11-26,ON_LEAVE,emp_370.jpg,#FF6B6B,OLD370,370,0,emp_370,1,user_icon,GROUP6,BATCH_2024
+EMP00371,Amit Kumar,Director,Sales,amit.kumar@hoj.com,+919325485715,Middle East,India,2022-04-04,ACTIVE,emp_371.jpg,#45B7D1,OLD371,371,0,emp_371,0,user_icon,GROUP7,BATCH_2026
+EMP00372,Rajesh Nair,Supervisor,Inventory,rajesh.nair@hoj.com,+918652274288,Europe,India,2022-03-02,INACTIVE,emp_372.jpg,#4ECDC4,OLD372,372,1,emp_372,1,user_icon,GROUP9,BATCH_2021
+EMP00373,Mohit Joshi,Director,IT,mohit.joshi@hoj.com,+917120842133,Americas,USA,2021-03-07,INACTIVE,emp_373.jpg,#4ECDC4,OLD373,373,1,emp_373,0,user_icon,GROUP2,BATCH_2023
+EMP00374,Neha Joshi,Manager,Finance,neha.joshi@hoj.com,+919563509681,Asia-East,Australia,2022-05-20,INACTIVE,emp_374.jpg,#4ECDC4,OLD374,374,1,emp_374,1,user_icon,GROUP5,BATCH_2025
+EMP00375,Neha Joshi,Assistant,Inventory,neha.joshi@hoj.com,+919963240060,Europe,India,2024-09-30,ON_LEAVE,emp_375.jpg,#FF6B6B,OLD375,375,0,emp_375,1,user_icon,GROUP3,BATCH_2024
+EMP00376,Arjun Reddy,Coordinator,Inventory,arjun.reddy@hoj.com,+918077668508,Asia-East,Singapore,2024-03-02,ON_LEAVE,emp_376.jpg,#4ECDC4,OLD376,376,0,emp_376,0,user_icon,GROUP3,BATCH_2024
+EMP00377,Rajesh Verma,Coordinator,Inventory,rajesh.verma@hoj.com,+916995477081,Europe,USA,2023-07-08,ACTIVE,emp_377.jpg,#45B7D1,OLD377,377,1,emp_377,0,user_icon,GROUP5,BATCH_2021
+EMP00378,Priya Reddy,Analyst,IT,,+916166679943,Middle East,UAE,2026-05-10,ON_LEAVE,emp_378.jpg,#45B7D1,OLD378,378,1,emp_378,0,user_icon,GROUP4,BATCH_2025
+EMP00379,Neha Patel,Director,Finance,neha.patel@hoj.com,+919781341734,Middle East,Australia,2020-09-20,ACTIVE,emp_379.jpg,#45B7D1,OLD379,379,1,emp_379,0,user_icon,GROUP6,BATCH_2021
+EMP00380,Sneha Reddy,Assistant,Sales,sneha.reddy@hoj.com,+917355012481,Europe,UAE,2024-08-24,ON_LEAVE,emp_380.jpg,#45B7D1,OLD380,380,0,emp_380,0,user_icon,GROUP4,BATCH_2025
+EMP00381,Mohit Verma,Analyst,Sales,mohit.verma@hoj.com,+916798546594,Americas,UAE,2021-03-28,ON_LEAVE,emp_381.jpg,#FF6B6B,OLD381,381,0,emp_381,1,user_icon,GROUP8,BATCH_2024
+EMP00382,Sneha Desai,Manager,Inventory,,+917987529064,Asia-East,Singapore,2022-05-08,ON_LEAVE,emp_382.jpg,#45B7D1,OLD382,382,1,emp_382,0,user_icon,GROUP10,BATCH_2024
+EMP00383,Deepika Gupta,Supervisor,HR,,+918973992837,Asia-East,India,2022-07-13,INACTIVE,emp_383.jpg,#FF6B6B,OLD383,383,1,emp_383,0,user_icon,GROUP7,BATCH_2022
+EMP00384,Sneha Joshi,Analyst,HR,sneha.joshi@hoj.com,+917190151608,Europe,Singapore,2026-03-23,ON_LEAVE,emp_384.jpg,#45B7D1,OLD384,384,1,emp_384,0,user_icon,GROUP2,BATCH_2025
+EMP00385,Priya Gupta,Supervisor,Customer Service,priya.gupta@hoj.com,+917898644601,Europe,UK,2021-01-25,ACTIVE,emp_385.jpg,#4ECDC4,OLD385,385,0,emp_385,1,user_icon,GROUP10,BATCH_2026
+EMP00386,Arjun Sharma,Supervisor,Inventory,arjun.sharma@hoj.com,+919291651943,Asia-South,UK,2023-01-28,INACTIVE,emp_386.jpg,#45B7D1,OLD386,386,0,emp_386,1,user_icon,GROUP10,BATCH_2024
+EMP00387,Neha Gupta,Director,Finance,neha.gupta@hoj.com,+917423062379,Middle East,UK,2021-02-18,INACTIVE,emp_387.jpg,#FF6B6B,OLD387,387,1,emp_387,1,user_icon,GROUP5,BATCH_2022
+EMP00388,Sneha Patel,Store Manager,Operations,sneha.patel@hoj.com,+916122799520,Asia-East,UK,2024-10-22,ON_LEAVE,emp_388.jpg,#4ECDC4,OLD388,388,0,emp_388,1,user_icon,GROUP3,BATCH_2025
+EMP00389,Vikram Reddy,Analyst,Customer Service,vikram.reddy@hoj.com,+917329551198,Americas,UK,2023-11-25,ACTIVE,emp_389.jpg,#4ECDC4,OLD389,389,0,emp_389,1,user_icon,GROUP4,BATCH_2025
+EMP00390,Neha Singh,Assistant,IT,,+917709624135,Europe,UK,2021-09-01,INACTIVE,emp_390.jpg,#FF6B6B,OLD390,390,1,emp_390,0,user_icon,GROUP9,BATCH_2023
+EMP00391,Sneha Patel,Supervisor,HR,sneha.patel@hoj.com,,Middle East,UK,2025-07-22,INACTIVE,emp_391.jpg,#45B7D1,OLD391,391,0,emp_391,0,user_icon,GROUP1,BATCH_2021
+EMP00392,Anjali Patel,Analyst,Operations,anjali.patel@hoj.com,+919358582003,Asia-South,UK,2020-11-13,ON_LEAVE,emp_392.jpg,#FF6B6B,OLD392,392,1,emp_392,1,user_icon,GROUP8,BATCH_2026
+EMP00393,Mohit Kumar,Coordinator,Customer Service,mohit.kumar@hoj.com,+918833746859,Europe,Singapore,2023-10-28,ON_LEAVE,emp_393.jpg,#45B7D1,OLD393,393,0,emp_393,0,user_icon,GROUP1,BATCH_2025
+EMP00394,Sneha Gupta,Assistant,Customer Service,sneha.gupta@hoj.com,+916407416340,Asia-South,UK,2024-12-24,ON_LEAVE,emp_394.jpg,#FF6B6B,OLD394,394,0,emp_394,0,user_icon,GROUP6,BATCH_2021
+EMP00395,Amit Patel,Coordinator,IT,amit.patel@hoj.com,+916463856389,Americas,UK,2025-04-12,ON_LEAVE,emp_395.jpg,#45B7D1,OLD395,395,0,emp_395,0,user_icon,GROUP5,BATCH_2024
+EMP00396,Deepika Gupta,Director,Inventory,deepika.gupta@hoj.com,+916316762895,Middle East,Singapore,2022-04-30,ACTIVE,emp_396.jpg,#FF6B6B,OLD396,396,0,emp_396,1,user_icon,GROUP4,BATCH_2023
+EMP00397,Neha Joshi,Analyst,Inventory,neha.joshi@hoj.com,+917724724119,Asia-East,USA,2024-07-23,ACTIVE,emp_397.jpg,#45B7D1,OLD397,397,1,emp_397,0,user_icon,GROUP9,BATCH_2024
+EMP00398,Priya Sharma,Coordinator,Inventory,priya.sharma@hoj.com,+919692994672,Asia-South,UK,2025-11-27,INACTIVE,emp_398.jpg,#45B7D1,OLD398,398,0,emp_398,0,user_icon,GROUP2,BATCH_2022
+EMP00399,Mohit Gupta,Coordinator,HR,mohit.gupta@hoj.com,+918777259175,Middle East,India,2023-05-07,ACTIVE,emp_399.jpg,#FF6B6B,OLD399,399,0,emp_399,1,user_icon,GROUP9,BATCH_2026
+EMP00400,Sneha Nair,Analyst,IT,sneha.nair@hoj.com,+919942480926,Europe,USA,2021-10-04,ACTIVE,emp_400.jpg,#FF6B6B,OLD400,400,0,emp_400,0,user_icon,GROUP7,BATCH_2024
+EMP00401,Neha Singh,Coordinator,HR,neha.singh@hoj.com,+916299791887,Asia-East,India,2026-04-24,ACTIVE,emp_401.jpg,#FF6B6B,OLD401,401,0,emp_401,0,user_icon,GROUP2,BATCH_2023
+EMP00402,Mohit Patel,Assistant,HR,mohit.patel@hoj.com,+918309717694,Europe,India,2025-02-14,INACTIVE,emp_402.jpg,#45B7D1,OLD402,402,0,emp_402,1,user_icon,GROUP8,BATCH_2021
+EMP00403,Vikram Reddy,Analyst,Finance,vikram.reddy@hoj.com,+919320290467,Middle East,India,2026-03-30,INACTIVE,emp_403.jpg,#FF6B6B,OLD403,403,0,emp_403,1,user_icon,GROUP2,BATCH_2021
+EMP00404,Neha Kumar,Assistant,Customer Service,neha.kumar@hoj.com,,Middle East,USA,2026-04-08,ON_LEAVE,emp_404.jpg,#45B7D1,OLD404,404,1,emp_404,1,user_icon,GROUP5,BATCH_2024
+EMP00405,Neha Verma,Coordinator,Inventory,neha.verma@hoj.com,+916743113096,Middle East,Australia,2024-01-30,ON_LEAVE,emp_405.jpg,#4ECDC4,OLD405,405,1,emp_405,1,user_icon,GROUP3,BATCH_2026
+EMP00406,Arjun Sharma,Supervisor,Finance,arjun.sharma@hoj.com,+916494508472,Asia-South,UAE,2022-10-07,INACTIVE,emp_406.jpg,#FF6B6B,OLD406,406,1,emp_406,1,user_icon,GROUP6,BATCH_2024
+EMP00407,Neha Kumar,Analyst,Customer Service,neha.kumar@hoj.com,+919392938426,Asia-East,USA,2022-09-27,INACTIVE,emp_407.jpg,#45B7D1,OLD407,407,0,emp_407,0,user_icon,GROUP8,BATCH_2026
+EMP00408,Mohit Singh,Manager,Inventory,,+916380071384,Asia-South,India,2022-02-11,INACTIVE,emp_408.jpg,#FF6B6B,OLD408,408,0,emp_408,1,user_icon,GROUP9,BATCH_2025
+EMP00409,Anjali Singh,Analyst,Inventory,anjali.singh@hoj.com,+918423577858,Europe,USA,2023-01-09,ACTIVE,emp_409.jpg,#FF6B6B,OLD409,409,0,emp_409,1,user_icon,GROUP5,BATCH_2025
+EMP00410,Sneha Verma,Executive,Customer Service,sneha.verma@hoj.com,+918199502423,Asia-South,India,2021-06-30,INACTIVE,emp_410.jpg,#4ECDC4,OLD410,410,0,emp_410,1,user_icon,GROUP7,BATCH_2021
+EMP00411,Rajesh Verma,Store Manager,Finance,rajesh.verma@hoj.com,+916805539287,Middle East,Australia,2020-10-03,ACTIVE,emp_411.jpg,#4ECDC4,OLD411,411,0,emp_411,1,user_icon,GROUP5,BATCH_2023
+EMP00412,Amit Sharma,Analyst,Operations,amit.sharma@hoj.com,+918572177033,Europe,Singapore,2025-04-05,INACTIVE,emp_412.jpg,#FF6B6B,OLD412,412,1,emp_412,0,user_icon,GROUP7,BATCH_2026
+EMP00413,Neha Sharma,Coordinator,Customer Service,neha.sharma@hoj.com,+918723492334,Americas,UAE,2021-03-24,INACTIVE,emp_413.jpg,#45B7D1,OLD413,413,0,emp_413,0,user_icon,GROUP9,BATCH_2026
+EMP00414,Deepika Patel,Manager,IT,deepika.patel@hoj.com,+916388242235,Americas,Singapore,2025-10-09,ON_LEAVE,emp_414.jpg,#4ECDC4,OLD414,414,1,emp_414,0,user_icon,GROUP6,BATCH_2023
+EMP00415,Amit Gupta,Analyst,Sales,amit.gupta@hoj.com,+917932376350,Middle East,India,2024-05-15,ON_LEAVE,emp_415.jpg,#4ECDC4,OLD415,415,0,emp_415,0,user_icon,GROUP7,BATCH_2022
+EMP00416,Amit Singh,Manager,Operations,amit.singh@hoj.com,+917615401652,Asia-East,Singapore,2024-05-21,ON_LEAVE,emp_416.jpg,#4ECDC4,OLD416,416,1,emp_416,0,user_icon,GROUP8,BATCH_2022
+EMP00417,Vikram Patel,Assistant,HR,vikram.patel@hoj.com,+918199236064,Middle East,UK,2021-02-02,ACTIVE,emp_417.jpg,#FF6B6B,OLD417,417,1,emp_417,1,user_icon,GROUP4,BATCH_2025
+EMP00418,Anjali Singh,Director,Operations,anjali.singh@hoj.com,+919838275203,Asia-East,USA,2022-05-16,INACTIVE,emp_418.jpg,#FF6B6B,OLD418,418,1,emp_418,0,user_icon,GROUP6,BATCH_2022
+EMP00419,Mohit Nair,Executive,Customer Service,mohit.nair@hoj.com,+917686855505,Europe,UAE,2023-12-25,INACTIVE,emp_419.jpg,#45B7D1,OLD419,419,0,emp_419,0,user_icon,GROUP3,BATCH_2023
+EMP00420,Neha Joshi,Executive,Finance,neha.joshi@hoj.com,+918007744956,Middle East,USA,2021-10-06,INACTIVE,emp_420.jpg,#4ECDC4,OLD420,420,1,emp_420,1,user_icon,GROUP4,BATCH_2026
+EMP00421,Priya Joshi,Manager,Finance,priya.joshi@hoj.com,+919020251077,Asia-East,USA,2020-09-18,INACTIVE,emp_421.jpg,#FF6B6B,OLD421,421,1,emp_421,1,user_icon,GROUP2,BATCH_2021
+EMP00422,Arjun Nair,Executive,Inventory,arjun.nair@hoj.com,+916375248408,Americas,UK,2026-03-07,ACTIVE,emp_422.jpg,#4ECDC4,OLD422,422,0,emp_422,0,user_icon,GROUP9,BATCH_2022
+EMP00423,Neha Patel,Director,IT,neha.patel@hoj.com,+917676097108,Asia-East,India,2026-04-23,ON_LEAVE,emp_423.jpg,#FF6B6B,OLD423,423,1,emp_423,1,user_icon,GROUP4,BATCH_2022
+EMP00424,"Neha Sharma,extra",Assistant,Sales,neha.sharma@hoj.com,+918948927770,Asia-South,Singapore,2021-02-13,INACTIVE,emp_424.jpg,#4ECDC4,OLD424,424,0,emp_424,0,user_icon,GROUP2,BATCH_2025
+EMP00425,Rajesh Kumar,Coordinator,Customer Service,rajesh.kumar@hoj.com,+919173495062,Asia-South,India,2025-09-07,INACTIVE,emp_425.jpg,#4ECDC4,OLD425,425,1,emp_425,0,user_icon,GROUP3,BATCH_2026
+EMP00426,Priya Desai,Manager,Customer Service,priya.desai@hoj.com,+918089082194,Middle East,Australia,2020-10-30,ACTIVE,emp_426.jpg,#45B7D1,OLD426,426,1,emp_426,1,user_icon,GROUP3,BATCH_2026
+EMP00427,Deepika Singh,Assistant,Finance,deepika.singh@hoj.com,+916871522476,Middle East,USA,2022-05-18,ON_LEAVE,emp_427.jpg,#4ECDC4,OLD427,427,0,emp_427,0,user_icon,GROUP5,BATCH_2024
+EMP00428,Mohit Nair,Executive,Customer Service,mohit.nair@hoj.com,+918496903240,Europe,Singapore,2021-03-02,ACTIVE,emp_428.jpg,#FF6B6B,OLD428,428,1,emp_428,1,user_icon,GROUP9,BATCH_2026
+EMP00429,Rajesh Joshi,Assistant,Sales,rajesh.joshi@hoj.com,+918348019330,Asia-South,Singapore,2023-11-25,INACTIVE,emp_429.jpg,#45B7D1,OLD429,429,0,emp_429,1,user_icon,GROUP2,BATCH_2025
+EMP00430,Sneha Joshi,Director,IT,sneha.joshi@hoj.com,+916399172003,Americas,UK,2025-10-30,ON_LEAVE,emp_430.jpg,#4ECDC4,OLD430,430,1,emp_430,1,user_icon,GROUP10,BATCH_2022
+EMP00431,Sneha Reddy,Analyst,HR,sneha.reddy@hoj.com,+916555579595,Asia-East,India,2020-11-08,ON_LEAVE,emp_431.jpg,#FF6B6B,OLD431,431,1,emp_431,1,user_icon,GROUP2,BATCH_2024
+EMP00432,Neha Verma,Supervisor,Customer Service,neha.verma@hoj.com,+916373604099,Asia-South,UK,2023-10-22,INACTIVE,emp_432.jpg,#45B7D1,OLD432,432,1,emp_432,1,user_icon,GROUP6,BATCH_2022
+EMP00433,Sneha Singh,Director,IT,,+919319270252,Asia-South,Singapore,2021-02-17,ON_LEAVE,emp_433.jpg,#FF6B6B,OLD433,433,0,emp_433,1,user_icon,GROUP2,BATCH_2024
+EMP00434,Amit Verma,Coordinator,Customer Service,,+916021267212,Asia-South,Australia,2022-12-22,INACTIVE,emp_434.jpg,#45B7D1,OLD434,434,0,emp_434,0,user_icon,GROUP8,BATCH_2022
+EMP00435,Deepika Singh,Assistant,Sales,deepika.singh@hoj.com,+918929708613,Europe,India,2021-07-29,INACTIVE,emp_435.jpg,#45B7D1,OLD435,435,0,emp_435,0,user_icon,GROUP8,BATCH_2023
+EMP00436,Deepika Gupta,Store Manager,Sales,deepika.gupta@hoj.com,+917731427769,Middle East,Australia,2023-05-04,ON_LEAVE,emp_436.jpg,#45B7D1,OLD436,436,1,emp_436,0,user_icon,GROUP10,BATCH_2022
+EMP00437,Priya Kumar,Assistant,Finance,,+916415639869,Asia-East,India,2025-06-01,ON_LEAVE,emp_437.jpg,#45B7D1,OLD437,437,0,emp_437,0,user_icon,GROUP4,BATCH_2026
+EMP00438,Vikram Desai,Supervisor,Operations,vikram.desai@hoj.com,+916209339125,Middle East,UAE,2024-10-26,ACTIVE,emp_438.jpg,#4ECDC4,OLD438,438,0,emp_438,0,user_icon,GROUP5,BATCH_2023
+EMP00439,Mohit Reddy,Executive,HR,mohit.reddy@hoj.com,+919055959312,Asia-South,Singapore,2021-01-07,ACTIVE,emp_439.jpg,#45B7D1,OLD439,439,0,emp_439,0,user_icon,GROUP5,BATCH_2022
+EMP00440,Vikram Sharma,Executive,Operations,vikram.sharma@hoj.com,+919743817250,Asia-East,USA,2020-08-07,ACTIVE,emp_440.jpg,#4ECDC4,OLD440,440,0,emp_440,0,user_icon,GROUP4,BATCH_2021
+EMP00441,Sneha Reddy,Store Manager,IT,,+918745181262,Asia-South,UK,2021-07-08,ACTIVE,emp_441.jpg,#45B7D1,OLD441,441,1,emp_441,0,user_icon,GROUP4,BATCH_2023
+EMP00442,Deepika Joshi,Executive,Inventory,deepika.joshi@hoj.com,+917794763799,Europe,UAE,2021-11-24,INACTIVE,emp_442.jpg,#4ECDC4,OLD442,442,0,emp_442,1,user_icon,GROUP8,BATCH_2026
+EMP00443, Priya Desai,Manager,Customer Service,priya.desai@hoj.com,+918708260565,Americas,UAE,2024-01-20,ON_LEAVE,emp_443.jpg,#FF6B6B,OLD443,443,0,emp_443,1,user_icon,GROUP9,BATCH_2021
+EMP00444,Vikram Singh,Director,Customer Service,vikram.singh@hoj.com,+917914770283,Middle East,UK,2024-11-28,ACTIVE,emp_444.jpg,#FF6B6B,OLD444,444,1,emp_444,0,user_icon,GROUP7,BATCH_2026
+EMP00445,Deepika Gupta ,Supervisor,Customer Service,deepika.gupta@hoj.com,+917675852901,Americas,Singapore,2024-12-15,INACTIVE,emp_445.jpg,#45B7D1,OLD445,445,0,emp_445,1,user_icon,GROUP4,BATCH_2021
+EMP00446,Deepika Joshi,Coordinator,Operations,deepika.joshi@hoj.com,+919043995773,Europe,UAE,2024-02-07,ACTIVE,emp_446.jpg,#FF6B6B,OLD446,446,1,emp_446,0,user_icon,GROUP4,BATCH_2021
+EMP00447,Priya Nair,Director,HR,priya.nair@hoj.com,+918118929607,Americas,UAE,2025-01-13,INACTIVE,emp_447.jpg,#FF6B6B,OLD447,447,0,emp_447,1,user_icon,GROUP1,BATCH_2024
+EMP00448,Arjun Gupta,Manager,Inventory,arjun.gupta@hoj.com,+918650866135,Americas,USA,2025-08-08,ACTIVE,emp_448.jpg,#4ECDC4,OLD448,448,1,emp_448,1,user_icon,GROUP2,BATCH_2025
+EMP00449,Rajesh Nair,Analyst,Customer Service,rajesh.nair@hoj.com,+918278978449,Europe,UK,2026-04-09,ACTIVE,emp_449.jpg,#4ECDC4,OLD449,449,1,emp_449,1,user_icon,GROUP2,BATCH_2026
+EMP00450,Rajesh Kumar,Store Manager,Sales,rajesh.kumar@hoj.com,+919819197752,Americas,UK,2023-06-30,INACTIVE,emp_450.jpg,#4ECDC4,OLD450,450,0,emp_450,0,user_icon,GROUP3,BATCH_2021
+EMP00451,Arjun Verma,Executive,IT,arjun.verma@hoj.com,+917628549838,Europe,USA,2022-07-26,INACTIVE,emp_451.jpg,#4ECDC4,OLD451,451,1,emp_451,1,user_icon,GROUP10,BATCH_2021
+EMP00452,Mohit Reddy,Supervisor,Sales,mohit.reddy@hoj.com,+918154306676,Asia-South,USA,2021-08-26,INACTIVE,emp_452.jpg,#FF6B6B,OLD452,452,0,emp_452,1,user_icon,GROUP6,BATCH_2025
+EMP00453,Mohit Sharma,Supervisor,Inventory,mohit.sharma@hoj.com,+918956243827,Americas,Australia,2026-03-05,ACTIVE,emp_453.jpg,#45B7D1,OLD453,453,1,emp_453,0,user_icon,GROUP1,BATCH_2021
+EMP00454,Deepika Sharma,Director,Sales,deepika.sharma@hoj.com,+919008581148,Asia-South,UK,2021-08-25,ON_LEAVE,emp_454.jpg,#45B7D1,OLD454,454,1,emp_454,1,user_icon,GROUP9,BATCH_2021
+EMP00455,Anjali Desai,Assistant,Sales,anjali.desai@hoj.com,,Asia-East,India,2022-08-15,ON_LEAVE,emp_455.jpg,#4ECDC4,OLD455,455,1,emp_455,0,user_icon,GROUP3,BATCH_2026
+EMP00456,Neha Kumar,Assistant,IT,neha.kumar@hoj.com,+917993802632,Asia-East,USA,2020-12-08,ACTIVE,emp_456.jpg,#FF6B6B,OLD456,456,1,emp_456,0,user_icon,GROUP7,BATCH_2024
+EMP00457,Amit Kumar,Store Manager,Customer Service,amit.kumar@hoj.com,+918258991971,Middle East,UAE,2020-10-11,INACTIVE,emp_457.jpg,#FF6B6B,OLD457,457,1,emp_457,1,user_icon,GROUP2,BATCH_2021
+EMP00458,Deepika Verma,Supervisor,Operations,deepika.verma@hoj.com,+918152474387,Asia-East,Singapore,2020-11-27,INACTIVE,emp_458.jpg,#4ECDC4,OLD458,458,1,emp_458,0,user_icon,GROUP9,BATCH_2024
+EMP00459,Sneha Kumar,Coordinator,Operations,sneha.kumar@hoj.com,+919963461555,Europe,India,2022-08-07,ON_LEAVE,emp_459.jpg,#FF6B6B,OLD459,459,0,emp_459,1,user_icon,GROUP5,BATCH_2024
+EMP00460,Neha Verma,Assistant,Inventory,neha.verma@hoj.com,+919585819208,Americas,Australia,2023-05-18,INACTIVE,emp_460.jpg,#FF6B6B,OLD460,460,1,emp_460,1,user_icon,GROUP10,BATCH_2024
+EMP00461,Mohit Kumar,Analyst,Inventory,mohit.kumar@hoj.com,+917066808449,Asia-East,USA,2025-05-16,INACTIVE,emp_461.jpg,#45B7D1,OLD461,461,1,emp_461,0,user_icon,GROUP4,BATCH_2021
+EMP00462,Mohit Gupta,Coordinator,Sales,,+918478166338,Asia-South,India,2024-03-27,ACTIVE,emp_462.jpg,#FF6B6B,OLD462,462,0,emp_462,1,user_icon,GROUP9,BATCH_2022
+EMP00463,Anjali Singh,Store Manager,Sales,anjali.singh@hoj.com,+916103910930,Middle East,India,2023-05-12,ON_LEAVE,emp_463.jpg,#FF6B6B,OLD463,463,0,emp_463,1,user_icon,GROUP10,BATCH_2021
+EMP00464,Sneha Sharma,Executive,Customer Service,sneha.sharma@hoj.com,+916039285459,Middle East,UK,2022-06-03,ON_LEAVE,emp_464.jpg,#FF6B6B,OLD464,464,1,emp_464,0,user_icon,GROUP8,BATCH_2021
+EMP00465,Mohit Desai,Supervisor,Customer Service,mohit.desai@hoj.com,+917412457413,Asia-South,Singapore,2023-07-31,ACTIVE,emp_465.jpg,#45B7D1,OLD465,465,1,emp_465,0,user_icon,GROUP9,BATCH_2026
+EMP00466,Deepika Kumar,Supervisor,IT,deepika.kumar@hoj.com,+918586350853,Europe,USA,2023-12-01,ACTIVE,emp_466.jpg,#4ECDC4,OLD466,466,1,emp_466,0,user_icon,GROUP8,BATCH_2022
+EMP00467,Rajesh Singh,Store Manager,Customer Service,rajesh.singh@hoj.com,+916068358610,Americas,Australia,2025-08-28,INACTIVE,emp_467.jpg,#45B7D1,OLD467,467,1,emp_467,1,user_icon,GROUP5,BATCH_2025
+EMP00468,Sneha Kumar,Manager,Customer Service,sneha.kumar@hoj.com,+917874156101,Middle East,UAE,2021-04-21,ON_LEAVE,emp_468.jpg,#45B7D1,OLD468,468,0,emp_468,0,user_icon,GROUP8,BATCH_2025
+EMP00469,Amit Gupta,Store Manager,IT,amit.gupta@hoj.com,+918932229259,Americas,UK,2025-06-28,ON_LEAVE,emp_469.jpg,#FF6B6B,OLD469,469,1,emp_469,1,user_icon,GROUP10,BATCH_2022
+EMP00470,Neha Patel,Executive,Customer Service,neha.patel@hoj.com,+918534918936,Europe,UK,2024-07-23,INACTIVE,emp_470.jpg,#4ECDC4,OLD470,470,1,emp_470,0,user_icon,GROUP5,BATCH_2026
+EMP00471,Arjun Desai,Store Manager,IT,arjun.desai@hoj.com,+919896764176,Asia-South,UK,2023-02-03,ACTIVE,emp_471.jpg,#45B7D1,OLD471,471,0,emp_471,0,user_icon,GROUP7,BATCH_2022
+EMP00472,Vikram Patel,Store Manager,IT,vikram.patel@hoj.com,,Americas,India,2025-10-31,ON_LEAVE,emp_472.jpg,#45B7D1,OLD472,472,1,emp_472,1,user_icon,GROUP10,BATCH_2024
+EMP00473,Sneha Sharma,Coordinator,IT,sneha.sharma@hoj.com,+918966063509,Asia-East,UAE,2021-07-06,ACTIVE,emp_473.jpg,#45B7D1,OLD473,473,0,emp_473,0,user_icon,GROUP1,BATCH_2026
+EMP00474,Deepika Gupta,Director,HR,deepika.gupta@hoj.com,+919836712786,Asia-East,USA,2022-05-21,ON_LEAVE,emp_474.jpg,#FF6B6B,OLD474,474,1,emp_474,0,user_icon,GROUP5,BATCH_2024
+EMP00475,Amit Joshi,Assistant,Customer Service,amit.joshi@hoj.com,+916051560119,Asia-South,India,2022-01-22,ON_LEAVE,emp_475.jpg,#FF6B6B,OLD475,475,0,emp_475,1,user_icon,GROUP8,BATCH_2022
+EMP00476,Sneha Joshi,Executive,Finance,sneha.joshi@hoj.com,+917141603833,Asia-East,UK,2020-10-22,ON_LEAVE,emp_476.jpg,#FF6B6B,OLD476,476,0,emp_476,1,user_icon,GROUP7,BATCH_2023
+EMP00477,Amit Gupta,Assistant,Sales,amit.gupta@hoj.com,+918180683521,Asia-East,Australia,2021-10-16,INACTIVE,emp_477.jpg,#45B7D1,OLD477,477,0,emp_477,1,user_icon,GROUP6,BATCH_2025
+EMP00478,Neha Desai,Store Manager,Operations,neha.desai@hoj.com,+918574943828,Middle East,USA,2026-05-02,ON_LEAVE,emp_478.jpg,#FF6B6B,OLD478,478,0,emp_478,1,user_icon,GROUP2,BATCH_2021
+EMP00479,Amit Desai,Director,IT,amit.desai@hoj.com,+916195336767,Europe,India,2022-10-07,ACTIVE,emp_479.jpg,#4ECDC4,OLD479,479,0,emp_479,1,user_icon,GROUP9,BATCH_2022
+EMP00480,Vikram Kumar,Executive,Finance,vikram.kumar@hoj.com,+916841135277,Europe,UK,2024-02-29,INACTIVE,emp_480.jpg,#45B7D1,OLD480,480,0,emp_480,0,user_icon,GROUP10,BATCH_2025
+EMP00481,Anjali Kumar,Supervisor,Customer Service,anjali.kumar@hoj.com,+917268573430,Asia-East,UAE,2020-08-25,INACTIVE,emp_481.jpg,#FF6B6B,OLD481,481,0,emp_481,1,user_icon,GROUP9,BATCH_2026
+EMP00482,Priya Nair,Assistant,Operations,priya.nair@hoj.com,+918987059378,Middle East,Australia,2025-12-08,ON_LEAVE,emp_482.jpg,#FF6B6B,OLD482,482,1,emp_482,1,user_icon,GROUP2,BATCH_2025
+EMP00483,Vikram Joshi,Assistant,Operations,,+917521746654,Asia-South,UK,2022-07-25,INACTIVE,emp_483.jpg,#45B7D1,OLD483,483,0,emp_483,0,user_icon,GROUP9,BATCH_2021
+EMP00484,Neha Desai,Director,Customer Service,neha.desai@hoj.com,+916190142563,Asia-South,USA,2021-07-03,INACTIVE,emp_484.jpg,#45B7D1,OLD484,484,0,emp_484,1,user_icon,GROUP7,BATCH_2025
+EMP00485,Mohit Desai,Assistant,Inventory,mohit.desai@hoj.com,+917265185926,Asia-East,USA,2023-02-09,INACTIVE,emp_485.jpg,#4ECDC4,OLD485,485,1,emp_485,1,user_icon,GROUP1,BATCH_2025
+EMP00486,Priya Patel,Analyst,IT,priya.patel@hoj.com,+917472996185,Asia-East,USA,2021-10-28,INACTIVE,emp_486.jpg,#45B7D1,OLD486,486,1,emp_486,1,user_icon,GROUP6,BATCH_2024
+EMP00487,Neha Kumar,Director,Inventory,neha.kumar@hoj.com,+917100483221,Middle East,UK,2023-11-14,INACTIVE,emp_487.jpg,#4ECDC4,OLD487,487,0,emp_487,0,user_icon,GROUP3,BATCH_2024
+EMP00488,Vikram Verma,Executive,Customer Service,vikram.verma@hoj.com,+917188002519,Asia-East,USA,2024-06-29,ACTIVE,emp_488.jpg,#4ECDC4,OLD488,488,0,emp_488,0,user_icon,GROUP4,BATCH_2022
+EMP00489,Neha Joshi,Manager,IT,neha.joshi@hoj.com,+918209284976,Europe,India,2022-11-12,INACTIVE,emp_489.jpg,#4ECDC4,OLD489,489,0,emp_489,0,user_icon,GROUP3,BATCH_2022
+EMP00490,Neha Nair,Manager,Finance,neha.nair@hoj.com,+916196605732,Americas,India,2021-04-23,INACTIVE,emp_490.jpg,#FF6B6B,OLD490,490,1,emp_490,0,user_icon,GROUP9,BATCH_2022
+EMP00491,Priya Desai,Store Manager,Operations,priya.desai@hoj.com,+917677733855,Asia-South,Singapore,2024-03-24,ON_LEAVE,emp_491.jpg,#4ECDC4,OLD491,491,1,emp_491,0,user_icon,GROUP5,BATCH_2025
+EMP00492,Vikram Sharma,Manager,IT,vikram.sharma@hoj.com,+919207269873,Middle East,India,2021-04-18,INACTIVE,emp_492.jpg,#45B7D1,OLD492,492,0,emp_492,0,user_icon,GROUP5,BATCH_2021
+EMP00493,Arjun Singh,Manager,Customer Service,arjun.singh@hoj.com,+919145712009,Asia-East,USA,2022-08-05,ACTIVE,emp_493.jpg,#45B7D1,OLD493,493,1,emp_493,1,user_icon,GROUP2,BATCH_2023
+EMP00494,Amit Nair,Manager,Operations,amit.nair@hoj.com,+917408967108,Asia-East,UK,2025-02-06,ON_LEAVE,emp_494.jpg,#FF6B6B,OLD494,494,0,emp_494,1,user_icon,GROUP3,BATCH_2023
+EMP00495,Arjun Kumar,Assistant,IT,arjun.kumar@hoj.com,+918830610916,Americas,UAE,2020-12-13,INACTIVE,emp_495.jpg,#45B7D1,OLD495,495,0,emp_495,0,user_icon,GROUP3,BATCH_2022
+EMP00496,Anjali Reddy,Executive,Operations,anjali.reddy@hoj.com,+917593097426,Asia-East,India,2025-09-09,ACTIVE,emp_496.jpg,#45B7D1,OLD496,496,0,emp_496,1,user_icon,GROUP2,BATCH_2025
+EMP00497,Deepika Verma,Director,IT,deepika.verma@hoj.com,+917734365538,Asia-South,UK,2021-10-17,ACTIVE,emp_497.jpg,#FF6B6B,OLD497,497,0,emp_497,0,user_icon,GROUP7,BATCH_2026
+EMP00498,Neha Verma,Manager,IT,neha.verma@hoj.com,+918655818997,Americas,Singapore,2023-04-21,INACTIVE,emp_498.jpg,#FF6B6B,OLD498,498,1,emp_498,1,user_icon,GROUP5,BATCH_2026
+EMP00499,Anjali Joshi,Executive,IT,anjali.joshi@hoj.com,+916259937221,Asia-South,Singapore,2025-03-13,ACTIVE,emp_499.jpg,#4ECDC4,OLD499,499,1,emp_499,1,user_icon,GROUP1,BATCH_2024
+EMP00500,Rajesh Reddy,Coordinator,Sales,rajesh.reddy@hoj.com,+918647517475,Americas,Singapore,2025-04-01,INACTIVE,emp_500.jpg,#FF6B6B,OLD500,500,1,emp_500,0,user_icon,GROUP8,BATCH_2023
+EMP00501,Anjali Desai,Executive,Finance,anjali.desai@hoj.com,+917217738066,Asia-South,USA,2021-04-08,ON_LEAVE,emp_501.jpg,#FF6B6B,OLD501,501,0,emp_501,1,user_icon,GROUP8,BATCH_2024
+EMP00502,Sneha Kumar,Executive,Finance,sneha.kumar@hoj.com,+918370217197,Americas,UK,2024-01-23,ON_LEAVE,emp_502.jpg,#FF6B6B,OLD502,502,1,emp_502,0,user_icon,GROUP8,BATCH_2025
+EMP00503,Arjun Patel,Manager,Inventory,arjun.patel@hoj.com,+919360287354,Americas,Australia,2022-05-23,INACTIVE,emp_503.jpg,#FF6B6B,OLD503,503,1,emp_503,0,user_icon,GROUP3,BATCH_2024
+EMP00504,Priya Sharma,Analyst,IT,priya.sharma@hoj.com,+916087337202,Europe,Australia,2024-04-23,ON_LEAVE,emp_504.jpg,#4ECDC4,OLD504,504,1,emp_504,1,user_icon,GROUP5,BATCH_2021
+EMP00505,Sneha Sharma,Store Manager,Customer Service,sneha.sharma@hoj.com,+919528665883,Middle East,USA,2024-02-10,ACTIVE,emp_505.jpg,#45B7D1,OLD505,505,0,emp_505,1,user_icon,GROUP7,BATCH_2023
+EMP00506, Vikram Reddy,Director,Inventory,vikram.reddy@hoj.com,+917983987046,Middle East,India,2022-11-23,ON_LEAVE,emp_506.jpg,#45B7D1,OLD506,506,0,emp_506,1,user_icon,GROUP1,BATCH_2026
+EMP00507,Priya Reddy,Supervisor,HR,priya.reddy@hoj.com,+917340273943,Americas,UAE,2024-09-26,ON_LEAVE,emp_507.jpg,#FF6B6B,OLD507,507,1,emp_507,0,user_icon,GROUP3,BATCH_2023
+EMP00508,Amit Nair,Director,HR,amit.nair@hoj.com,+916994550784,Asia-East,UK,2025-06-19,ACTIVE,emp_508.jpg,#45B7D1,OLD508,508,0,emp_508,0,user_icon,GROUP4,BATCH_2023
+EMP00509,Arjun Singh,Supervisor,Finance,arjun.singh@hoj.com,+916806411388,Asia-East,USA,2020-06-24,ACTIVE,emp_509.jpg,#4ECDC4,OLD509,509,1,emp_509,0,user_icon,GROUP2,BATCH_2026
+EMP00510,Priya Joshi,Analyst,IT,priya.joshi@hoj.com,+919935378798,Asia-East,Australia,2024-12-17,ACTIVE,emp_510.jpg,#45B7D1,OLD510,510,1,emp_510,0,user_icon,GROUP8,BATCH_2023
+EMP00511,Deepika Patel,Assistant,HR,deepika.patel@hoj.com,+916379302071,Europe,UK,2025-12-27,ACTIVE,emp_511.jpg,#FF6B6B,OLD511,511,1,emp_511,1,user_icon,GROUP9,BATCH_2024
+EMP00512,Anjali Sharma,Analyst,IT,anjali.sharma@hoj.com,+916573807743,Middle East,India,2025-08-23,INACTIVE,emp_512.jpg,#FF6B6B,OLD512,512,0,emp_512,1,user_icon,GROUP3,BATCH_2024
+EMP00513,Deepika Desai,Assistant,Operations,deepika.desai@hoj.com,+916216512896,Asia-South,UAE,2021-01-31,ACTIVE,emp_513.jpg,#45B7D1,OLD513,513,0,emp_513,0,user_icon,GROUP5,BATCH_2025
+EMP00514,Deepika Gupta,Director,Operations,deepika.gupta@hoj.com,+919665611028,Americas,UK,2024-11-13,INACTIVE,emp_514.jpg,#FF6B6B,OLD514,514,0,emp_514,0,user_icon,GROUP10,BATCH_2024
+EMP00515,Rajesh Nair,Supervisor,Operations,rajesh.nair@hoj.com,+917737528068,Middle East,USA,2023-07-11,ON_LEAVE,emp_515.jpg,#4ECDC4,OLD515,515,1,emp_515,0,user_icon,GROUP6,BATCH_2025
+EMP00516,Neha Singh,Assistant,IT,neha.singh@hoj.com,+916500842324,Asia-East,UK,2022-01-29,ON_LEAVE,emp_516.jpg,#4ECDC4,OLD516,516,0,emp_516,0,user_icon,GROUP2,BATCH_2022
+EMP00517,Vikram Kumar,Store Manager,Operations,vikram.kumar@hoj.com,+918752986924,Europe,India,2021-06-22,ON_LEAVE,emp_517.jpg,#FF6B6B,OLD517,517,1,emp_517,1,user_icon,GROUP9,BATCH_2026
+EMP00518,Amit Verma,Store Manager,HR,amit.verma@hoj.com,+919421825934,Asia-South,Australia,2022-07-03,ACTIVE,emp_518.jpg,#FF6B6B,OLD518,518,0,emp_518,0,user_icon,GROUP6,BATCH_2021
+EMP00519,RAJESh nair,Supervisor,HR,rajesh.nair@hoj.com,+919934440018,Asia-East,USA,2021-01-29,ON_LEAVE,emp_519.jpg,#FF6B6B,OLD519,519,0,emp_519,1,user_icon,GROUP4,BATCH_2025
+EMP00520,Arjun Joshi,Manager,Operations,arjun.joshi@hoj.com,+919296683027,Middle East,USA,2022-11-23,ON_LEAVE,emp_520.jpg,#4ECDC4,OLD520,520,0,emp_520,1,user_icon,GROUP5,BATCH_2026
+EMP00521,Deepika Kumar,Manager,Inventory,deepika.kumar@hoj.com,+916496942118,Asia-South,Australia,2021-10-02,ACTIVE,emp_521.jpg,#45B7D1,OLD521,521,0,emp_521,1,user_icon,GROUP3,BATCH_2024
+EMP00522,Vikram Verma,Supervisor,Inventory,vikram.verma@hoj.com,+916341386749,Asia-South,Singapore,2023-07-28,ON_LEAVE,emp_522.jpg,#FF6B6B,OLD522,522,0,emp_522,0,user_icon,GROUP6,BATCH_2022
+EMP00523,Arjun Patel,Director,IT,arjun.patel@hoj.com,+916210946951,Americas,India,2021-05-26,ON_LEAVE,emp_523.jpg,#4ECDC4,OLD523,523,1,emp_523,1,user_icon,GROUP3,BATCH_2021
+EMP00524,Neha Singh,Director,Sales,neha.singh@hoj.com,+917658513997,Asia-East,UAE,2020-11-07,INACTIVE,emp_524.jpg,#4ECDC4,OLD524,524,1,emp_524,1,user_icon,GROUP3,BATCH_2023
+EMP00525,Amit Joshi ,Manager,HR,amit.joshi@hoj.com,+916764730959,Asia-East,UAE,2020-08-08,ON_LEAVE,emp_525.jpg,#4ECDC4,OLD525,525,0,emp_525,0,user_icon,GROUP5,BATCH_2021
+EMP00526,Sneha Gupta,Executive,Finance,sneha.gupta@hoj.com,+916252418238,Europe,Australia,2025-04-01,INACTIVE,emp_526.jpg,#45B7D1,OLD526,526,0,emp_526,1,user_icon,GROUP8,BATCH_2026
+EMP00527,Anjali Nair,Director,Sales,anjali.nair@hoj.com,+917293280689,Americas,UAE,2024-09-22,ACTIVE,emp_527.jpg,#4ECDC4,OLD527,527,1,emp_527,0,user_icon,GROUP5,BATCH_2024
+EMP00528,Amit Sharma,Director,Operations,amit.sharma@hoj.com,+918673529150,Asia-East,USA,2023-05-27,ON_LEAVE,emp_528.jpg,#45B7D1,OLD528,528,1,emp_528,1,user_icon,GROUP7,BATCH_2026
+EMP00529,Mohit Gupta,Executive,Inventory,mohit.gupta@hoj.com,+919251500025,Americas,USA,2022-04-07,ON_LEAVE,emp_529.jpg,#4ECDC4,OLD529,529,0,emp_529,0,user_icon,GROUP6,BATCH_2023
+EMP00530,Anjali Patel,Assistant,Customer Service,anjali.patel@hoj.com,+916917480685,Americas,UK,2020-08-22,ACTIVE,emp_530.jpg,#4ECDC4,OLD530,530,1,emp_530,0,user_icon,GROUP6,BATCH_2023
+EMP00531,Neha Nair,Supervisor,HR,neha.nair@hoj.com,,Asia-South,Australia,2025-02-17,INACTIVE,emp_531.jpg,#FF6B6B,OLD531,531,1,emp_531,1,user_icon,GROUP5,BATCH_2023
+EMP00532,Anjali Joshi,Executive,Inventory,anjali.joshi@hoj.com,,Americas,UK,2025-09-17,ACTIVE,emp_532.jpg,#45B7D1,OLD532,532,1,emp_532,0,user_icon,GROUP10,BATCH_2023
+EMP00533,Sneha Joshi,Coordinator,Finance,sneha.joshi@hoj.com,+919000015151,Asia-South,UK,2026-05-19,ON_LEAVE,emp_533.jpg,#45B7D1,OLD533,533,1,emp_533,0,user_icon,GROUP10,BATCH_2026
+EMP00534,Amit Gupta,Coordinator,Operations,amit.gupta@hoj.com,+918793947452,Asia-East,UK,2021-01-29,ACTIVE,emp_534.jpg,#FF6B6B,OLD534,534,0,emp_534,1,user_icon,GROUP7,BATCH_2022
+EMP00535,Anjali Sharma,Analyst,HR,anjali.sharma@hoj.com,+916030993001,Middle East,India,2023-03-31,ON_LEAVE,emp_535.jpg,#45B7D1,OLD535,535,0,emp_535,1,user_icon,GROUP10,BATCH_2026
+EMP00536,Priya Sharma,Coordinator,Inventory,priya.sharma@hoj.com,+916874095473,Europe,UAE,2024-04-03,ACTIVE,emp_536.jpg,#45B7D1,OLD536,536,0,emp_536,1,user_icon,GROUP5,BATCH_2025
+EMP00537,Vikram Sharma,Executive,Sales,vikram.sharma@hoj.com,+916944509061,Europe,India,2022-02-05,ACTIVE,emp_537.jpg,#FF6B6B,OLD537,537,0,emp_537,0,user_icon,GROUP4,BATCH_2026
+EMP00538,Amit Patel,Supervisor,Finance,amit.patel@hoj.com,+918736908661,Americas,India,2026-01-20,ON_LEAVE,emp_538.jpg,#45B7D1,OLD538,538,1,emp_538,1,user_icon,GROUP2,BATCH_2022
+EMP00539,Sneha Gupta,Executive,Inventory,,+918254267707,Asia-South,Singapore,2025-04-19,ACTIVE,emp_539.jpg,#FF6B6B,OLD539,539,0,emp_539,0,user_icon,GROUP5,BATCH_2022
+EMP00540,Mohit Patel,Coordinator,IT,mohit.patel@hoj.com,+919404520773,Asia-South,Singapore,2023-08-25,ON_LEAVE,emp_540.jpg,#4ECDC4,OLD540,540,1,emp_540,1,user_icon,GROUP5,BATCH_2024
+EMP00541,Deepika Patel,Analyst,Sales,deepika.patel@hoj.com,+916367095585,Asia-South,USA,2024-01-06,ACTIVE,emp_541.jpg,#FF6B6B,OLD541,541,1,emp_541,1,user_icon,GROUP8,BATCH_2025
+EMP00542,Arjun Gupta,Manager,Sales,arjun.gupta@hoj.com,+917308913688,Asia-East,India,2021-05-27,ON_LEAVE,emp_542.jpg,#FF6B6B,OLD542,542,1,emp_542,0,user_icon,GROUP7,BATCH_2025
+EMP00543,Mohit Gupta,Analyst,IT,mohit.gupta@hoj.com,+917324943685,Asia-South,UAE,2020-10-17,INACTIVE,emp_543.jpg,#45B7D1,OLD543,543,0,emp_543,0,user_icon,GROUP9,BATCH_2024
+EMP00544,Anjali Gupta,Analyst,HR,anjali.gupta@hoj.com,+918278643165,Asia-South,USA,2023-02-22,ON_LEAVE,emp_544.jpg,#45B7D1,OLD544,544,0,emp_544,0,user_icon,GROUP7,BATCH_2022
+EMP00545,Sneha Gupta,Manager,Sales,sneha.gupta@hoj.com,+917589543256,Americas,Australia,2026-05-11,ON_LEAVE,emp_545.jpg,#4ECDC4,OLD545,545,1,emp_545,1,user_icon,GROUP9,BATCH_2021
+EMP00546,Rajesh Joshi,Executive,Sales,rajesh.joshi@hoj.com,+918990919114,Asia-East,Australia,2023-12-19,ACTIVE,emp_546.jpg,#FF6B6B,OLD546,546,1,emp_546,1,user_icon,GROUP3,BATCH_2021
+EMP00547,Neha Patel,Director,IT,neha.patel@hoj.com,+919139379200,Asia-South,UAE,2024-01-18,ACTIVE,emp_547.jpg,#FF6B6B,OLD547,547,1,emp_547,1,user_icon,GROUP7,BATCH_2025
+EMP00548,Priya Singh,Analyst,Sales,priya.singh@hoj.com,+917662108901,Americas,USA,2020-07-17,ON_LEAVE,emp_548.jpg,#4ECDC4,OLD548,548,0,emp_548,0,user_icon,GROUP8,BATCH_2023
+EMP00549,Vikram Nair,Supervisor,HR,vikram.nair@hoj.com,+919194343234,Americas,UK,2022-12-01,ON_LEAVE,emp_549.jpg,#4ECDC4,OLD549,549,0,emp_549,1,user_icon,GROUP3,BATCH_2021
+EMP00550,Vikram Verma,Supervisor,Operations,vikram.verma@hoj.com,+919348902720,Americas,Australia,2021-07-15,INACTIVE,emp_550.jpg,#45B7D1,OLD550,550,1,emp_550,0,user_icon,GROUP2,BATCH_2024
+EMP00551,Neha Singh,Store Manager,Inventory,neha.singh@hoj.com,+917732612286,Asia-East,USA,2021-05-30,ACTIVE,emp_551.jpg,#4ECDC4,OLD551,551,0,emp_551,0,user_icon,GROUP1,BATCH_2021
+EMP00552,Neha Gupta,Coordinator,Finance,neha.gupta@hoj.com,+916297608955,Americas,India,2024-07-22,INACTIVE,emp_552.jpg,#4ECDC4,OLD552,552,1,emp_552,0,user_icon,GROUP8,BATCH_2022
+EMP00553,Priya Gupta,Executive,Customer Service,priya.gupta@hoj.com,+917814272798,Americas,India,2023-04-08,INACTIVE,emp_553.jpg,#45B7D1,OLD553,553,0,emp_553,1,user_icon,GROUP10,BATCH_2024
+EMP00554,Rajesh Gupta,Coordinator,Operations,,+916775241493,Asia-East,USA,2025-10-23,ACTIVE,emp_554.jpg,#45B7D1,OLD554,554,1,emp_554,1,user_icon,GROUP1,BATCH_2022
+EMP00555,Neha Gupta,Coordinator,Operations,neha.gupta@hoj.com,+916356852658,Asia-East,India,2024-06-01,INACTIVE,emp_555.jpg,#45B7D1,OLD555,555,1,emp_555,0,user_icon,GROUP5,BATCH_2024
+EMP00556,Rajesh Verma,Executive,Operations,rajesh.verma@hoj.com,+919552261301,Asia-South,Australia,2021-09-05,INACTIVE,emp_556.jpg,#45B7D1,OLD556,556,1,emp_556,0,user_icon,GROUP2,BATCH_2021
+EMP00557,Deepika Singh,Assistant,Inventory,deepika.singh@hoj.com,+919338947676,Asia-East,Singapore,2022-05-15,ACTIVE,emp_557.jpg,#FF6B6B,OLD557,557,0,emp_557,1,user_icon,GROUP6,BATCH_2022
+EMP00558,Anjali Patel,Assistant,HR,anjali.patel@hoj.com,+916270789673,Americas,UAE,2024-11-30,ACTIVE,emp_558.jpg,#4ECDC4,OLD558,558,0,emp_558,1,user_icon,GROUP9,BATCH_2023
+EMP00559,Vikram Reddy,Executive,Finance,vikram.reddy@hoj.com,+916466222979,Americas,UAE,2022-12-19,INACTIVE,emp_559.jpg,#45B7D1,OLD559,559,0,emp_559,1,user_icon,GROUP3,BATCH_2024
+EMP00560,Anjali Sharma,Coordinator,HR,anjali.sharma@hoj.com,+919442955381,Americas,India,2021-05-26,ON_LEAVE,emp_560.jpg,#FF6B6B,OLD560,560,0,emp_560,1,user_icon,GROUP8,BATCH_2023
+EMP00561,Vikram Joshi,Assistant,Finance,vikram.joshi@hoj.com,+918730974058,Europe,India,2024-06-10,ON_LEAVE,emp_561.jpg,#4ECDC4,OLD561,561,1,emp_561,1,user_icon,GROUP7,BATCH_2021
+EMP00562,Sneha Joshi,Director,Finance,sneha.joshi@hoj.com,+916891215313,Europe,India,2025-06-01,ON_LEAVE,emp_562.jpg,#45B7D1,OLD562,562,0,emp_562,0,user_icon,GROUP2,BATCH_2022
+EMP00563,Anjali Desai,Store Manager,HR,anjali.desai@hoj.com,+918372078346,Europe,Singapore,2020-07-26,ACTIVE,emp_563.jpg,#FF6B6B,OLD563,563,1,emp_563,0,user_icon,GROUP8,BATCH_2022
+EMP00564,Amit Patel,Manager,Operations,amit.patel@hoj.com,,Middle East,USA,2024-07-03,ON_LEAVE,emp_564.jpg,#4ECDC4,OLD564,564,1,emp_564,1,user_icon,GROUP3,BATCH_2025
+EMP00565,Amit Verma,Manager,Operations,amit.verma@hoj.com,+916793850883,Europe,UAE,2021-10-05,ACTIVE,emp_565.jpg,#45B7D1,OLD565,565,0,emp_565,1,user_icon,GROUP5,BATCH_2024
+EMP00566,Mohit Nair,Supervisor,IT,mohit.nair@hoj.com,+919244947010,Middle East,USA,2022-08-03,INACTIVE,emp_566.jpg,#45B7D1,OLD566,566,0,emp_566,1,user_icon,GROUP8,BATCH_2022
+EMP00567,Deepika Reddy,Executive,Operations,deepika.reddy@hoj.com,+918310421516,Asia-South,UK,2022-06-25,INACTIVE,emp_567.jpg,#4ECDC4,OLD567,567,0,emp_567,1,user_icon,GROUP6,BATCH_2025
+EMP00568,Neha Singh,Supervisor,Inventory,neha.singh@hoj.com,+917873890458,Asia-South,Australia,2025-09-09,ACTIVE,emp_568.jpg,#45B7D1,OLD568,568,1,emp_568,0,user_icon,GROUP2,BATCH_2023
+EMP00569,Neha Sharma,Analyst,HR,neha.sharma@hoj.com,+919495445505,Middle East,Australia,2023-09-10,ON_LEAVE,emp_569.jpg,#FF6B6B,OLD569,569,0,emp_569,0,user_icon,GROUP9,BATCH_2026
+EMP00570,Anjali Gupta,Director,Operations,anjali.gupta@hoj.com,+917209976553,Middle East,UAE,2026-05-10,ON_LEAVE,emp_570.jpg,#4ECDC4,OLD570,570,0,emp_570,1,user_icon,GROUP6,BATCH_2021
+EMP00571,Mohit Singh,Supervisor,IT,mohit.singh@hoj.com,+917405228403,Asia-East,India,2024-12-16,INACTIVE,emp_571.jpg,#45B7D1,OLD571,571,1,emp_571,0,user_icon,GROUP7,BATCH_2025
+EMP00572,Rajesh Gupta,Assistant,Inventory,rajesh.gupta@hoj.com,+916170169561,Asia-East,UK,2021-11-18,ON_LEAVE,emp_572.jpg,#FF6B6B,OLD572,572,0,emp_572,1,user_icon,GROUP10,BATCH_2021
+EMP00573,Sneha Kumar,Analyst,Operations,sneha.kumar@hoj.com,+919488326616,Americas,UK,2023-03-25,INACTIVE,emp_573.jpg,#4ECDC4,OLD573,573,1,emp_573,0,user_icon,GROUP6,BATCH_2023
+EMP00574,Rajesh Kumar,Executive,HR,rajesh.kumar@hoj.com,+919403996350,Asia-East,USA,2026-05-03,ON_LEAVE,emp_574.jpg,#45B7D1,OLD574,574,0,emp_574,0,user_icon,GROUP1,BATCH_2024
+EMP00575,Amit Patel,Executive,Sales,amit.patel@hoj.com,+919772171164,Americas,UK,2020-09-25,ON_LEAVE,emp_575.jpg,#45B7D1,OLD575,575,1,emp_575,0,user_icon,GROUP6,BATCH_2021
+EMP00576,Mohit Joshi,Analyst,Finance,,+919037623123,Asia-East,UAE,2023-07-07,ON_LEAVE,emp_576.jpg,#FF6B6B,OLD576,576,0,emp_576,1,user_icon,GROUP8,BATCH_2024
+EMP00577,Deepika Desai,Director,IT,deepika.desai@hoj.com,+919752810499,Asia-South,USA,2020-08-14,ACTIVE,emp_577.jpg,#4ECDC4,OLD577,577,0,emp_577,0,user_icon,GROUP7,BATCH_2024
+EMP00578,Amit Gupta,Store Manager,Customer Service,amit.gupta@hoj.com,+918445802053,Europe,USA,2020-12-22,ACTIVE,emp_578.jpg,#4ECDC4,OLD578,578,0,emp_578,0,user_icon,GROUP1,BATCH_2025
+EMP00579,Arjun Kumar,Analyst,Inventory,arjun.kumar@hoj.com,+919488562683,Europe,India,2021-02-25,INACTIVE,emp_579.jpg,#4ECDC4,OLD579,579,0,emp_579,1,user_icon,GROUP8,BATCH_2026
+EMP00580,Anjali Desai,Coordinator,Finance,,+919037134775,Asia-East,UK,2025-10-18,INACTIVE,emp_580.jpg,#45B7D1,OLD580,580,1,emp_580,0,user_icon,GROUP5,BATCH_2022
+EMP00581,Priya Gupta,Assistant,HR,priya.gupta@hoj.com,+917044608307,Middle East,USA,2024-02-16,INACTIVE,emp_581.jpg,#45B7D1,OLD581,581,0,emp_581,1,user_icon,GROUP1,BATCH_2021
+EMP00582,Amit Joshi,Coordinator,Inventory,amit.joshi@hoj.com,+917641496852,Europe,India,2022-04-21,ACTIVE,emp_582.jpg,#4ECDC4,OLD582,582,1,emp_582,1,user_icon,GROUP10,BATCH_2024
+EMP00583,Vikram Verma,Analyst,IT,vikram.verma@hoj.com,+918388312257,Americas,USA,2025-05-13,INACTIVE,emp_583.jpg,#FF6B6B,OLD583,583,0,emp_583,0,user_icon,GROUP4,BATCH_2021
+EMP00584,Amit Nair,Coordinator,Inventory,amit.nair@hoj.com,+919940555263,Europe,Australia,2024-05-18,ON_LEAVE,emp_584.jpg,#FF6B6B,OLD584,584,1,emp_584,1,user_icon,GROUP8,BATCH_2024
+EMP00585,Amit Singh,Director,Operations,amit.singh@hoj.com,+919038033379,Europe,Australia,2023-12-14,ON_LEAVE,emp_585.jpg,#45B7D1,OLD585,585,0,emp_585,1,user_icon,GROUP8,BATCH_2023
+EMP00586,Rajesh Gupta,Manager,Inventory,rajesh.gupta@hoj.com,+916352820552,Europe,USA,2025-07-19,ON_LEAVE,emp_586.jpg,#45B7D1,OLD586,586,0,emp_586,1,user_icon,GROUP3,BATCH_2025
+EMP00587,Mohit Nair,Executive,Customer Service,mohit.nair@hoj.com,+918367045864,Americas,India,2023-04-16,ON_LEAVE,emp_587.jpg,#FF6B6B,OLD587,587,0,emp_587,1,user_icon,GROUP6,BATCH_2022
+EMP00588,Rajesh Reddy,Executive,Customer Service,rajesh.reddy@hoj.com,+918393059836,Asia-East,India,2024-11-17,ACTIVE,emp_588.jpg,#4ECDC4,OLD588,588,0,emp_588,0,user_icon,GROUP8,BATCH_2021
+EMP00589,Deepika Reddy,Assistant,Customer Service,deepika.reddy@hoj.com,+917475451233,Asia-East,UAE,2023-02-23,ON_LEAVE,emp_589.jpg,#4ECDC4,OLD589,589,1,emp_589,1,user_icon,GROUP10,BATCH_2022
+EMP00590,Mohit Kumar,Store Manager,Customer Service,mohit.kumar@hoj.com,+918341920961,Asia-South,USA,2023-05-20,INACTIVE,emp_590.jpg,#45B7D1,OLD590,590,0,emp_590,1,user_icon,GROUP6,BATCH_2022
+EMP00591,Sneha Verma,Director,IT,sneha.verma@hoj.com,+918816032980,Americas,USA,2022-11-06,ON_LEAVE,emp_591.jpg,#FF6B6B,OLD591,591,0,emp_591,0,user_icon,GROUP1,BATCH_2022
+EMP00592,Vikram Gupta,Executive,IT,vikram.gupta@hoj.com,+918748869158,Americas,India,2024-09-09,ACTIVE,emp_592.jpg,#45B7D1,OLD592,592,1,emp_592,1,user_icon,GROUP2,BATCH_2022
+EMP00593,Priya Verma,Analyst,Operations,priya.verma@hoj.com,+916260939812,Asia-South,Australia,2025-05-24,ACTIVE,emp_593.jpg,#45B7D1,OLD593,593,1,emp_593,1,user_icon,GROUP10,BATCH_2023
+EMP00594,Arjun Kumar,Supervisor,IT,arjun.kumar@hoj.com,+918810639389,Asia-East,Australia,2023-09-05,ON_LEAVE,emp_594.jpg,#45B7D1,OLD594,594,0,emp_594,0,user_icon,GROUP9,BATCH_2021
+EMP00595,Sneha Desai,Coordinator,HR,sneha.desai@hoj.com,+919874804058,Americas,Singapore,2024-01-24,ON_LEAVE,emp_595.jpg,#FF6B6B,OLD595,595,0,emp_595,0,user_icon,GROUP1,BATCH_2023
+EMP00596,Rajesh Desai,Store Manager,HR,rajesh.desai@hoj.com,+916179741510,Europe,UK,2022-09-27,INACTIVE,emp_596.jpg,#FF6B6B,OLD596,596,0,emp_596,0,user_icon,GROUP10,BATCH_2023
+EMP00597,Rajesh Reddy,Coordinator,HR,rajesh.reddy@hoj.com,+919628661326,Asia-South,USA,2024-01-20,ON_LEAVE,emp_597.jpg,#4ECDC4,OLD597,597,0,emp_597,0,user_icon,GROUP9,BATCH_2023
+EMP00598,deepika kumar,Director,Operations,,+918274783205,Asia-South,India,2022-06-24,INACTIVE,emp_598.jpg,#45B7D1,OLD598,598,0,emp_598,0,user_icon,GROUP5,BATCH_2026
+EMP00599,Arjun Reddy,Store Manager,Finance,arjun.reddy@hoj.com,+919637269722,Asia-East,UK,2021-07-11,ON_LEAVE,emp_599.jpg,#45B7D1,OLD599,599,0,emp_599,1,user_icon,GROUP7,BATCH_2021
+EMP00600,Deepika Singh,Coordinator,Operations,deepika.singh@hoj.com,+919456481221,Asia-East,India,2021-07-08,ACTIVE,emp_600.jpg,#45B7D1,OLD600,600,1,emp_600,1,user_icon,GROUP10,BATCH_2024
+EMP00601,Arjun Singh,Assistant,Customer Service,arjun.singh@hoj.com,+919114989428,Asia-South,UK,2020-12-17,INACTIVE,emp_601.jpg,#FF6B6B,OLD601,601,1,emp_601,0,user_icon,GROUP6,BATCH_2023
+EMP00602,Amit Sharma,Executive,IT,amit.sharma@hoj.com,+918260582381,Asia-East,India,2025-12-31,INACTIVE,emp_602.jpg,#45B7D1,OLD602,602,0,emp_602,1,user_icon,GROUP4,BATCH_2024
+EMP00603,Mohit Patel,Store Manager,Operations,mohit.patel@hoj.com,+918691289469,Americas,UK,2020-07-03,ACTIVE,emp_603.jpg,#4ECDC4,OLD603,603,1,emp_603,1,user_icon,GROUP7,BATCH_2023
+EMP00604,Sneha Verma,Supervisor,Operations,sneha.verma@hoj.com,+917609155740,Asia-East,USA,2024-09-23,ON_LEAVE,emp_604.jpg,#4ECDC4,OLD604,604,0,emp_604,0,user_icon,GROUP10,BATCH_2023
+EMP00605,Arjun Nair,Manager,IT,arjun.nair@hoj.com,+917295170277,Asia-South,Australia,2025-01-06,ON_LEAVE,emp_605.jpg,#FF6B6B,OLD605,605,0,emp_605,1,user_icon,GROUP7,BATCH_2026
+EMP00606,Vikram Joshi,Coordinator,IT,vikram.joshi@hoj.com,+918162400614,Asia-South,UK,2023-06-17,ON_LEAVE,emp_606.jpg,#4ECDC4,OLD606,606,1,emp_606,1,user_icon,GROUP1,BATCH_2026
+EMP00607,Rajesh Kumar,Executive,Sales,rajesh.kumar@hoj.com,+918333609152,Middle East,UAE,2023-08-21,ON_LEAVE,emp_607.jpg,#4ECDC4,OLD607,607,1,emp_607,0,user_icon,GROUP2,BATCH_2023
+EMP00608,Arjun Gupta,Assistant,Customer Service,arjun.gupta@hoj.com,+916934811552,Asia-East,Australia,2021-04-24,ACTIVE,emp_608.jpg,#4ECDC4,OLD608,608,1,emp_608,1,user_icon,GROUP4,BATCH_2025
+EMP00609,Deepika Reddy,Coordinator,Customer Service,deepika.reddy@hoj.com,+918344343900,Middle East,USA,2025-10-25,ACTIVE,emp_609.jpg,#FF6B6B,OLD609,609,0,emp_609,0,user_icon,GROUP9,BATCH_2023
+EMP00610,Arjun Nair,Coordinator,IT,arjun.nair@hoj.com,+917009483965,Europe,UAE,2023-05-01,ON_LEAVE,emp_610.jpg,#FF6B6B,OLD610,610,1,emp_610,0,user_icon,GROUP9,BATCH_2022
+EMP00611,Deepika Gupta,Executive,Operations,deepika.gupta@hoj.com,,Middle East,Singapore,2025-06-21,INACTIVE,emp_611.jpg,#4ECDC4,OLD611,611,0,emp_611,0,user_icon,GROUP2,BATCH_2022
+EMP00612,Amit Gupta,Executive,Inventory,amit.gupta@hoj.com,+919520803513,Middle East,UAE,2020-07-04,INACTIVE,emp_612.jpg,#4ECDC4,OLD612,612,1,emp_612,0,user_icon,GROUP9,BATCH_2025
+EMP00613,Amit Reddy,Coordinator,Sales,amit.reddy@hoj.com,+916552652784,Americas,India,2025-07-16,INACTIVE,emp_613.jpg,#45B7D1,OLD613,613,0,emp_613,1,user_icon,GROUP1,BATCH_2026
+EMP00614,Anjali Kumar,Coordinator,Customer Service,anjali.kumar@hoj.com,+917315261458,Americas,Australia,2022-12-24,INACTIVE,emp_614.jpg,#4ECDC4,OLD614,614,0,emp_614,0,user_icon,GROUP8,BATCH_2021
+EMP00615,Priya Nair,Store Manager,Inventory,priya.nair@hoj.com,+916698895744,Middle East,Australia,2024-11-19,ACTIVE,emp_615.jpg,#45B7D1,OLD615,615,1,emp_615,0,user_icon,GROUP3,BATCH_2024
+EMP00616,Sneha Kumar,Assistant,Customer Service,sneha.kumar@hoj.com,+916357228211,Europe,UAE,2022-05-25,ON_LEAVE,emp_616.jpg,#45B7D1,OLD616,616,1,emp_616,0,user_icon,GROUP4,BATCH_2023
+EMP00617,Sneha Reddy,Supervisor,Customer Service,sneha.reddy@hoj.com,+917212898945,Asia-South,UK,2024-08-31,INACTIVE,emp_617.jpg,#FF6B6B,OLD617,617,0,emp_617,0,user_icon,GROUP5,BATCH_2025
+EMP00618,Priya Singh,Store Manager,Operations,priya.singh@hoj.com,+917802804966,Asia-East,USA,2025-03-22,INACTIVE,emp_618.jpg,#4ECDC4,OLD618,618,0,emp_618,0,user_icon,GROUP9,BATCH_2026
+EMP00619,Arjun Desai,Supervisor,Inventory,,+917186866462,Middle East,UK,2020-10-12,INACTIVE,emp_619.jpg,#4ECDC4,OLD619,619,0,emp_619,1,user_icon,GROUP8,BATCH_2026
+EMP00620,Sneha Kumar,Assistant,HR,sneha.kumar@hoj.com,,Middle East,UAE,2024-11-25,ON_LEAVE,emp_620.jpg,#45B7D1,OLD620,620,1,emp_620,1,user_icon,GROUP1,BATCH_2024
+EMP00621,Anjali Gupta,Store Manager,Customer Service,anjali.gupta@hoj.com,+917717936173,Asia-South,Australia,2023-10-05,INACTIVE,emp_621.jpg,#45B7D1,OLD621,621,0,emp_621,0,user_icon,GROUP3,BATCH_2026
+EMP00622,Neha Reddy,Executive,Customer Service,neha.reddy@hoj.com,+918075637349,Asia-East,Singapore,2022-06-12,ON_LEAVE,emp_622.jpg,#FF6B6B,OLD622,622,1,emp_622,0,user_icon,GROUP6,BATCH_2022
+EMP00623,Amit Joshi,Analyst,Sales,amit.joshi@hoj.com,+919246222716,Middle East,Australia,2025-03-28,ON_LEAVE,emp_623.jpg,#45B7D1,OLD623,623,0,emp_623,0,user_icon,GROUP1,BATCH_2023
+EMP00624,Mohit Patel,Analyst,Operations,mohit.patel@hoj.com,+917976544842,Middle East,Australia,2025-11-11,ON_LEAVE,emp_624.jpg,#45B7D1,OLD624,624,1,emp_624,1,user_icon,GROUP5,BATCH_2023
+EMP00625,Arjun Verma,Assistant,Customer Service,arjun.verma@hoj.com,+916016199610,Asia-East,UK,2020-07-11,ON_LEAVE,emp_625.jpg,#FF6B6B,OLD625,625,0,emp_625,0,user_icon,GROUP10,BATCH_2023
+EMP00626,Mohit Sharma,Analyst,Finance,mohit.sharma@hoj.com,+918800778686,Asia-South,USA,2020-12-02,INACTIVE,emp_626.jpg,#4ECDC4,OLD626,626,0,emp_626,0,user_icon,GROUP2,BATCH_2023
+EMP00627,Vikram Patel,Analyst,Sales,vikram.patel@hoj.com,+918024855547,Americas,Singapore,2023-11-20,ACTIVE,emp_627.jpg,#FF6B6B,OLD627,627,1,emp_627,0,user_icon,GROUP7,BATCH_2021
+EMP00628,Anjali Kumar,Manager,Finance,anjali.kumar@hoj.com,+919833169859,Middle East,UK,2023-01-18,ON_LEAVE,emp_628.jpg,#FF6B6B,OLD628,628,1,emp_628,1,user_icon,GROUP7,BATCH_2026
+EMP00629,Rajesh Singh,Store Manager,Sales,rajesh.singh@hoj.com,+916278477962,Asia-East,USA,2021-07-14,ACTIVE,emp_629.jpg,#FF6B6B,OLD629,629,1,emp_629,1,user_icon,GROUP9,BATCH_2024
+EMP00630,Vikram Kumar,Analyst,Customer Service,vikram.kumar@hoj.com,+918587691582,Americas,Singapore,2020-08-14,ACTIVE,emp_630.jpg,#FF6B6B,OLD630,630,0,emp_630,0,user_icon,GROUP5,BATCH_2023
+EMP00631,Vikram Kumar,Director,Inventory,vikram.kumar@hoj.com,+918619479061,Europe,Australia,2024-09-29,INACTIVE,emp_631.jpg,#FF6B6B,OLD631,631,0,emp_631,1,user_icon,GROUP8,BATCH_2022
+EMP00632,Deepika Joshi,Supervisor,Operations,deepika.joshi@hoj.com,+917055825939,Europe,UK,2022-07-28,INACTIVE,emp_632.jpg,#45B7D1,OLD632,632,0,emp_632,1,user_icon,GROUP7,BATCH_2025
+EMP00633,Anjali Desai,Store Manager,Finance,anjali.desai@hoj.com,+917301733729,Middle East,Australia,2021-05-19,INACTIVE,emp_633.jpg,#FF6B6B,OLD633,633,0,emp_633,1,user_icon,GROUP3,BATCH_2023
+EMP00634,Priya Nair,Supervisor,Inventory,priya.nair@hoj.com,+918712837612,Europe,Singapore,2024-05-27,ACTIVE,emp_634.jpg,#4ECDC4,OLD634,634,1,emp_634,0,user_icon,GROUP7,BATCH_2025
+EMP00635,Amit Nair,Supervisor,HR,amit.nair@hoj.com,+916500028211,Europe,UAE,2024-10-06,INACTIVE,emp_635.jpg,#45B7D1,OLD635,635,0,emp_635,1,user_icon,GROUP3,BATCH_2026
+EMP00636,Anjali Nair,Director,IT,anjali.nair@hoj.com,+918030358106,Europe,Australia,2026-01-10,ON_LEAVE,emp_636.jpg,#FF6B6B,OLD636,636,0,emp_636,1,user_icon,GROUP1,BATCH_2026
+EMP00637,Amit Singh,Director,Sales,amit.singh@hoj.com,+919120702995,Americas,Australia,2025-12-30,ON_LEAVE,emp_637.jpg,#45B7D1,OLD637,637,0,emp_637,0,user_icon,GROUP10,BATCH_2024
+EMP00638,Neha Reddy,Assistant,IT,neha.reddy@hoj.com,+919897326957,Asia-East,UAE,2024-03-31,ACTIVE,emp_638.jpg,#45B7D1,OLD638,638,0,emp_638,0,user_icon,GROUP9,BATCH_2023
+EMP00639,Arjun Kumar,Director,HR,arjun.kumar@hoj.com,+917724074148,Asia-East,Singapore,2024-09-15,ACTIVE,emp_639.jpg,#4ECDC4,OLD639,639,0,emp_639,0,user_icon,GROUP1,BATCH_2026
+EMP00640,Amit Nair,Coordinator,Operations,amit.nair@hoj.com,+918359277296,Asia-East,Australia,2022-06-27,ON_LEAVE,emp_640.jpg,#FF6B6B,OLD640,640,0,emp_640,0,user_icon,GROUP10,BATCH_2021
+EMP00641,Neha Singh,Analyst,Finance,neha.singh@hoj.com,+916436833267,Asia-South,UAE,2021-11-18,ON_LEAVE,emp_641.jpg,#4ECDC4,OLD641,641,0,emp_641,1,user_icon,GROUP5,BATCH_2025
+EMP00642,sneha desai,Supervisor,Customer Service,sneha.desai@hoj.com,+916435624688,Middle East,Australia,2023-08-28,ON_LEAVE,emp_642.jpg,#FF6B6B,OLD642,642,0,emp_642,1,user_icon,GROUP1,BATCH_2024
+EMP00643,Amit Joshi,Manager,Customer Service,amit.joshi@hoj.com,+918283728771,Middle East,Singapore,2024-01-05,ON_LEAVE,emp_643.jpg,#45B7D1,OLD643,643,0,emp_643,1,user_icon,GROUP1,BATCH_2025
+EMP00644,Anjali Desai,Executive,Sales,anjali.desai@hoj.com,+916428533455,Asia-South,USA,2021-01-07,INACTIVE,emp_644.jpg,#45B7D1,OLD644,644,0,emp_644,1,user_icon,GROUP7,BATCH_2024
+EMP00645,Neha Sharma,Manager,IT,neha.sharma@hoj.com,+919376046675,Asia-South,UAE,2025-10-20,ON_LEAVE,emp_645.jpg,#4ECDC4,OLD645,645,1,emp_645,0,user_icon,GROUP10,BATCH_2021
+EMP00646,Sneha Joshi,Supervisor,Finance,sneha.joshi@hoj.com,+917773331084,Asia-East,UAE,2023-01-24,INACTIVE,emp_646.jpg,#45B7D1,OLD646,646,1,emp_646,1,user_icon,GROUP3,BATCH_2025
+EMP00647,Anjali Joshi,Director,Finance,anjali.joshi@hoj.com,+919076203509,Asia-East,USA,2024-02-28,ACTIVE,emp_647.jpg,#45B7D1,OLD647,647,0,emp_647,0,user_icon,GROUP7,BATCH_2022
+EMP00648,Deepika Gupta,Supervisor,Customer Service,deepika.gupta@hoj.com,+919408191165,Asia-South,USA,2022-07-10,ON_LEAVE,emp_648.jpg,#FF6B6B,OLD648,648,0,emp_648,1,user_icon,GROUP9,BATCH_2025
+EMP00649,Vikram Singh,Director,Customer Service,vikram.singh@hoj.com,+917273746023,Asia-South,USA,2021-01-03,ON_LEAVE,emp_649.jpg,#FF6B6B,OLD649,649,0,emp_649,0,user_icon,GROUP6,BATCH_2025
+EMP00650,Arjun Reddy,Supervisor,HR,arjun.reddy@hoj.com,+918441985628,Americas,USA,2021-04-13,ON_LEAVE,emp_650.jpg,#FF6B6B,OLD650,650,1,emp_650,0,user_icon,GROUP7,BATCH_2026
+EMP00651,Neha Verma,Supervisor,Sales,neha.verma@hoj.com,+918800018176,Asia-East,Australia,2025-12-31,ON_LEAVE,emp_651.jpg,#4ECDC4,OLD651,651,0,emp_651,1,user_icon,GROUP2,BATCH_2023
+EMP00652,Sneha Singh,Supervisor,Sales,sneha.singh@hoj.com,+919525331261,Middle East,Singapore,2021-10-18,ACTIVE,emp_652.jpg,#4ECDC4,OLD652,652,1,emp_652,0,user_icon,GROUP8,BATCH_2023
+EMP00653,Deepika Nair,Store Manager,Customer Service,deepika.nair@hoj.com,+916289268257,Americas,USA,2021-12-01,ACTIVE,emp_653.jpg,#FF6B6B,OLD653,653,1,emp_653,1,user_icon,GROUP7,BATCH_2024
+EMP00654,Neha Desai,Assistant,Finance,neha.desai@hoj.com,+918227056993,Asia-South,Australia,2020-07-22,ON_LEAVE,emp_654.jpg,#FF6B6B,OLD654,654,0,emp_654,1,user_icon,GROUP10,BATCH_2024
+EMP00655,Arjun Gupta,Supervisor,Operations,arjun.gupta@hoj.com,+918355133460,Americas,UK,2023-01-04,INACTIVE,emp_655.jpg,#FF6B6B,OLD655,655,1,emp_655,1,user_icon,GROUP10,BATCH_2021
+EMP00656,Rajesh Verma,Director,IT,rajesh.verma@hoj.com,+917187720020,Americas,UK,2024-04-18,ON_LEAVE,emp_656.jpg,#45B7D1,OLD656,656,1,emp_656,0,user_icon,GROUP1,BATCH_2022
+EMP00657,Vikram Singh,Coordinator,Sales,vikram.singh@hoj.com,+917539627686,Asia-East,India,2022-01-21,INACTIVE,emp_657.jpg,#4ECDC4,OLD657,657,1,emp_657,1,user_icon,GROUP2,BATCH_2026
+EMP00658,Amit Patel,Executive,Customer Service,amit.patel@hoj.com,+917129613931,Europe,UK,2025-02-03,ON_LEAVE,emp_658.jpg,#FF6B6B,OLD658,658,1,emp_658,0,user_icon,GROUP3,BATCH_2021
+EMP00659,Rajesh Patel,Director,Sales,rajesh.patel@hoj.com,+918489373778,Asia-South,Australia,2025-11-03,ACTIVE,emp_659.jpg,#4ECDC4,OLD659,659,1,emp_659,1,user_icon,GROUP3,BATCH_2021
+EMP00660,Sneha Sharma,Executive,Operations,,+918938671545,Middle East,UK,2022-03-05,ON_LEAVE,emp_660.jpg,#45B7D1,OLD660,660,0,emp_660,0,user_icon,GROUP9,BATCH_2026
+EMP00661,Amit Sharma,Executive,Customer Service,amit.sharma@hoj.com,+919276871538,Asia-South,Australia,2023-08-08,ACTIVE,emp_661.jpg,#4ECDC4,OLD661,661,1,emp_661,1,user_icon,GROUP10,BATCH_2026
+EMP00662,Deepika Joshi,Assistant,Customer Service,deepika.joshi@hoj.com,+919621215297,Asia-East,Singapore,2022-09-18,INACTIVE,emp_662.jpg,#4ECDC4,OLD662,662,0,emp_662,1,user_icon,GROUP4,BATCH_2023
+EMP00663, Neha Patel,Coordinator,Customer Service,neha.patel@hoj.com,,Middle East,UK,2023-04-04,ON_LEAVE,emp_663.jpg,#FF6B6B,OLD663,663,1,emp_663,0,user_icon,GROUP9,BATCH_2024
+EMP00664,Deepika Patel,Analyst,HR,deepika.patel@hoj.com,+918881106905,Middle East,India,2025-01-15,ON_LEAVE,emp_664.jpg,#4ECDC4,OLD664,664,1,emp_664,0,user_icon,GROUP1,BATCH_2021
+EMP00665,Arjun Desai,Director,Customer Service,arjun.desai@hoj.com,+919152794561,Europe,India,2021-10-27,ON_LEAVE,emp_665.jpg,#45B7D1,OLD665,665,1,emp_665,0,user_icon,GROUP9,BATCH_2025
+EMP00666,Rajesh Singh,Executive,Sales,rajesh.singh@hoj.com,+919083162112,Americas,India,2021-01-18,ACTIVE,emp_666.jpg,#4ECDC4,OLD666,666,0,emp_666,0,user_icon,GROUP3,BATCH_2023
+EMP00667,Mohit Patel,Supervisor,Inventory,mohit.patel@hoj.com,+916768366849,Middle East,UAE,2025-02-02,ACTIVE,emp_667.jpg,#FF6B6B,OLD667,667,1,emp_667,1,user_icon,GROUP10,BATCH_2024
+EMP00668,Amit Singh,Supervisor,Customer Service,amit.singh@hoj.com,+917962608420,Middle East,UAE,2022-03-04,ACTIVE,emp_668.jpg,#FF6B6B,OLD668,668,0,emp_668,0,user_icon,GROUP7,BATCH_2024
+EMP00669,Amit Sharma  Amit Sharma,Assistant,Customer Service,amit.sharma@hoj.com,+918827529176,Europe,Singapore,2023-01-29,ON_LEAVE,emp_669.jpg,#4ECDC4,OLD669,669,0,emp_669,1,user_icon,GROUP4,BATCH_2021
+EMP00670,Sneha Kumar,Executive,Inventory,sneha.kumar@hoj.com,+918894353956,Asia-South,UAE,2022-07-11,ON_LEAVE,emp_670.jpg,#4ECDC4,OLD670,670,1,emp_670,0,user_icon,GROUP5,BATCH_2022
+EMP00671,Neha Reddy,Manager,Inventory,neha.reddy@hoj.com,+916630564019,Asia-South,India,2023-01-24,INACTIVE,emp_671.jpg,#45B7D1,OLD671,671,1,emp_671,0,user_icon,GROUP8,BATCH_2021
+EMP00672,Rajesh Nair,Coordinator,Inventory,rajesh.nair@hoj.com,+917151417030,Europe,UAE,2022-02-13,ACTIVE,emp_672.jpg,#45B7D1,OLD672,672,0,emp_672,0,user_icon,GROUP7,BATCH_2021
+EMP00673,Sneha Patel,Executive,Inventory,sneha.patel@hoj.com,+918510003206,Asia-South,India,2020-07-11,ACTIVE,emp_673.jpg,#45B7D1,OLD673,673,0,emp_673,0,user_icon,GROUP9,BATCH_2022
+EMP00674,Rajesh Patel,Executive,Finance,rajesh.patel@hoj.com,+919318047497,Asia-East,Singapore,2022-06-04,ACTIVE,emp_674.jpg,#FF6B6B,OLD674,674,1,emp_674,1,user_icon,GROUP7,BATCH_2025
+EMP00675,Mohit Sharma,Store Manager,Inventory,mohit.sharma@hoj.com,+917093520481,Asia-East,UAE,2021-10-04,INACTIVE,emp_675.jpg,#FF6B6B,OLD675,675,1,emp_675,1,user_icon,GROUP2,BATCH_2022
+EMP00676,Mohit Patel,Supervisor,Sales,mohit.patel@hoj.com,+917958152183,Europe,India,2021-09-11,ACTIVE,emp_676.jpg,#45B7D1,OLD676,676,1,emp_676,1,user_icon,GROUP10,BATCH_2025
+EMP00677,Neha Gupta,Director,Customer Service,neha.gupta@hoj.com,+918313837999,Asia-South,UK,2022-12-17,ON_LEAVE,emp_677.jpg,#FF6B6B,OLD677,677,0,emp_677,0,user_icon,GROUP9,BATCH_2021
+EMP00678,Arjun Nair,Coordinator,HR,arjun.nair@hoj.com,+918009462611,Europe,UK,2022-06-20,ACTIVE,emp_678.jpg,#FF6B6B,OLD678,678,0,emp_678,1,user_icon,GROUP7,BATCH_2026
+EMP00679,Neha Reddy,Manager,Inventory,neha.reddy@hoj.com,+917402951963,Middle East,UK,2024-09-15,INACTIVE,emp_679.jpg,#45B7D1,OLD679,679,1,emp_679,1,user_icon,GROUP9,BATCH_2022
+EMP00680,Deepika Verma,Executive,HR,deepika.verma@hoj.com,+917760446150,Asia-South,Singapore,2021-01-14,ACTIVE,emp_680.jpg,#45B7D1,OLD680,680,0,emp_680,1,user_icon,GROUP8,BATCH_2021
+EMP00681,Priya Desai,Manager,Finance,priya.desai@hoj.com,+919918167407,Asia-South,UAE,2025-07-31,ON_LEAVE,emp_681.jpg,#4ECDC4,OLD681,681,1,emp_681,0,user_icon,GROUP8,BATCH_2026
+EMP00682,Neha Singh,Manager,HR,,+919939165659,Asia-East,India,2020-06-27,INACTIVE,emp_682.jpg,#FF6B6B,OLD682,682,0,emp_682,1,user_icon,GROUP6,BATCH_2025
+EMP00683,Neha Joshi,Coordinator,Inventory,neha.joshi@hoj.com,+918923305924,Asia-East,UK,2024-06-28,INACTIVE,emp_683.jpg,#4ECDC4,OLD683,683,0,emp_683,0,user_icon,GROUP6,BATCH_2022
+EMP00684,Mohit Sharma,Executive,HR,mohit.sharma@hoj.com,+916127803706,Middle East,Singapore,2021-08-26,ON_LEAVE,emp_684.jpg,#45B7D1,OLD684,684,1,emp_684,1,user_icon,GROUP10,BATCH_2025
+EMP00685,ARJUN joshi,Supervisor,IT,arjun.joshi@hoj.com,,Americas,Singapore,2020-10-26,INACTIVE,emp_685.jpg,#45B7D1,OLD685,685,1,emp_685,1,user_icon,GROUP4,BATCH_2023
+EMP00686,Arjun Joshi,Manager,Sales,arjun.joshi@hoj.com,+916008694140,Asia-South,India,2022-06-11,ON_LEAVE,emp_686.jpg,#FF6B6B,OLD686,686,0,emp_686,0,user_icon,GROUP5,BATCH_2026
+EMP00687,Anjali Verma,Executive,Operations,anjali.verma@hoj.com,+916822385635,Asia-East,India,2020-12-24,ON_LEAVE,emp_687.jpg,#45B7D1,OLD687,687,0,emp_687,0,user_icon,GROUP9,BATCH_2022
+EMP00688,Deepika Nair,Supervisor,IT,deepika.nair@hoj.com,+917531068292,Middle East,Singapore,2021-12-17,ACTIVE,emp_688.jpg,#45B7D1,OLD688,688,0,emp_688,1,user_icon,GROUP3,BATCH_2024
+EMP00689,Mohit Patel,Analyst,IT,mohit.patel@hoj.com,+917261978817,Asia-South,Australia,2025-06-02,ON_LEAVE,emp_689.jpg,#45B7D1,OLD689,689,1,emp_689,1,user_icon,GROUP6,BATCH_2021
+EMP00690,Vikram Singh,Supervisor,Sales,vikram.singh@hoj.com,+919059380286,Europe,India,2021-01-18,INACTIVE,emp_690.jpg,#4ECDC4,OLD690,690,1,emp_690,0,user_icon,GROUP6,BATCH_2025
+EMP00691,Priya Singh,Analyst,HR,priya.singh@hoj.com,+918741659927,Middle East,UAE,2025-01-27,ACTIVE,emp_691.jpg,#45B7D1,OLD691,691,1,emp_691,0,user_icon,GROUP5,BATCH_2023
+EMP00692,Neha Sharma,Director,Operations,neha.sharma@hoj.com,+916189199130,Asia-South,UK,2025-06-11,ACTIVE,emp_692.jpg,#4ECDC4,OLD692,692,1,emp_692,1,user_icon,GROUP5,BATCH_2021
+EMP00693,Mohit Reddy,Director,Inventory,mohit.reddy@hoj.com,+919398412443,Americas,Australia,2023-08-28,INACTIVE,emp_693.jpg,#FF6B6B,OLD693,693,1,emp_693,1,user_icon,GROUP1,BATCH_2025
+EMP00694,Deepika Reddy,Director,Operations,deepika.reddy@hoj.com,+916326151569,Asia-South,India,2022-10-26,ACTIVE,emp_694.jpg,#4ECDC4,OLD694,694,1,emp_694,1,user_icon,GROUP7,BATCH_2021
+EMP00695,Mohit Verma,Analyst,Customer Service,mohit.verma@hoj.com,+918435076658,Asia-South,USA,2025-06-19,ACTIVE,emp_695.jpg,#4ECDC4,OLD695,695,1,emp_695,0,user_icon,GROUP10,BATCH_2025
+EMP00696,Arjun Gupta,Executive,HR,arjun.gupta@hoj.com,+916601554601,Asia-South,USA,2022-05-20,INACTIVE,emp_696.jpg,#FF6B6B,OLD696,696,1,emp_696,0,user_icon,GROUP5,BATCH_2026
+EMP00697,Vikram Reddy,Analyst,IT,,+918560273796,Middle East,USA,2022-08-15,ON_LEAVE,emp_697.jpg,#FF6B6B,OLD697,697,1,emp_697,0,user_icon,GROUP8,BATCH_2021
+EMP00698,Neha Sharma,Manager,Sales,neha.sharma@hoj.com,+916976763543,Europe,UK,2025-08-26,ACTIVE,emp_698.jpg,#4ECDC4,OLD698,698,0,emp_698,0,user_icon,GROUP3,BATCH_2023
+EMP00699,Amit Reddy,Analyst,IT,amit.reddy@hoj.com,+919982085556,Europe,Singapore,2024-03-17,ACTIVE,emp_699.jpg,#45B7D1,OLD699,699,1,emp_699,1,user_icon,GROUP5,BATCH_2023
+EMP00700,Vikram Joshi,Coordinator,IT,vikram.joshi@hoj.com,+917620047142,Europe,India,2025-11-17,ON_LEAVE,emp_700.jpg,#4ECDC4,OLD700,700,1,emp_700,1,user_icon,GROUP9,BATCH_2024
+EMP00701,Arjun Singh,Coordinator,IT,arjun.singh@hoj.com,+918308448425,Americas,Australia,2022-12-04,ACTIVE,emp_701.jpg,#4ECDC4,OLD701,701,1,emp_701,1,user_icon,GROUP6,BATCH_2023
+EMP00702,Sneha Nair,Supervisor,Finance,sneha.nair@hoj.com,+916167972710,Americas,India,2021-03-24,INACTIVE,emp_702.jpg,#45B7D1,OLD702,702,0,emp_702,0,user_icon,GROUP2,BATCH_2023
+EMP00703,Neha Joshi,Executive,Finance,neha.joshi@hoj.com,+917774884148,Middle East,UAE,2021-09-16,INACTIVE,emp_703.jpg,#45B7D1,OLD703,703,1,emp_703,1,user_icon,GROUP8,BATCH_2021
+EMP00704,Rajesh Gupta,Analyst,Sales,rajesh.gupta@hoj.com,+917409180659,Asia-South,UAE,2026-03-18,ON_LEAVE,emp_704.jpg,#4ECDC4,OLD704,704,0,emp_704,1,user_icon,GROUP7,BATCH_2026
+EMP00705,Priya Verma,Store Manager,HR,priya.verma@hoj.com,+916331666874,Europe,Singapore,2022-09-20,INACTIVE,emp_705.jpg,#45B7D1,OLD705,705,0,emp_705,1,user_icon,GROUP3,BATCH_2025
+EMP00706,Vikram Verma,Store Manager,Sales,vikram.verma@hoj.com,+916259839921,Europe,Singapore,2024-11-25,ON_LEAVE,emp_706.jpg,#FF6B6B,OLD706,706,1,emp_706,0,user_icon,GROUP10,BATCH_2024
+EMP00707,Vikram Kumar,Assistant,Customer Service,vikram.kumar@hoj.com,+919092237445,Americas,UAE,2020-10-17,ACTIVE,emp_707.jpg,#45B7D1,OLD707,707,1,emp_707,1,user_icon,GROUP1,BATCH_2025
+EMP00708,Amit Gupta,Manager,Finance,amit.gupta@hoj.com,+918714823450,Asia-East,Singapore,2021-05-07,INACTIVE,emp_708.jpg,#4ECDC4,OLD708,708,0,emp_708,1,user_icon,GROUP2,BATCH_2025
+EMP00709,Rajesh Reddy,Store Manager,Operations,rajesh.reddy@hoj.com,+919738876165,Asia-South,Australia,2026-01-15,ACTIVE,emp_709.jpg,#4ECDC4,OLD709,709,1,emp_709,1,user_icon,GROUP10,BATCH_2026
+EMP00710,Deepika Desai,Supervisor,Operations,deepika.desai@hoj.com,+916539290264,Europe,UK,2022-01-21,ON_LEAVE,emp_710.jpg,#45B7D1,OLD710,710,1,emp_710,1,user_icon,GROUP10,BATCH_2021
+EMP00711,Vikram Reddy,Analyst,Finance,vikram.reddy@hoj.com,+917054879252,Asia-East,UAE,2021-10-19,ACTIVE,emp_711.jpg,#4ECDC4,OLD711,711,0,emp_711,1,user_icon,GROUP2,BATCH_2022
+EMP00712,Priya Singh,Supervisor,Customer Service,priya.singh@hoj.com,+919373787881,Europe,India,2025-04-28,INACTIVE,emp_712.jpg,#FF6B6B,OLD712,712,0,emp_712,0,user_icon,GROUP9,BATCH_2026
+EMP00713,Amit Joshi,Director,Finance,amit.joshi@hoj.com,+917914920182,Middle East,India,2023-10-22,ON_LEAVE,emp_713.jpg,#4ECDC4,OLD713,713,0,emp_713,1,user_icon,GROUP2,BATCH_2024
+EMP00714,Deepika Patel,Manager,HR,deepika.patel@hoj.com,+916465648391,Europe,India,2020-12-23,ON_LEAVE,emp_714.jpg,#FF6B6B,OLD714,714,0,emp_714,0,user_icon,GROUP4,BATCH_2025
+EMP00715,Arjun Verma,Store Manager,Inventory,arjun.verma@hoj.com,+917310624659,Asia-East,Australia,2026-04-12,ACTIVE,emp_715.jpg,#4ECDC4,OLD715,715,1,emp_715,0,user_icon,GROUP9,BATCH_2024
+EMP00716,Amit Reddy,Director,Customer Service,amit.reddy@hoj.com,+918309419431,Americas,India,2026-04-11,ACTIVE,emp_716.jpg,#4ECDC4,OLD716,716,1,emp_716,1,user_icon,GROUP9,BATCH_2025
+EMP00717,Neha Sharma,Executive,Operations,neha.sharma@hoj.com,+919139769829,Asia-South,Singapore,2023-06-18,INACTIVE,emp_717.jpg,#FF6B6B,OLD717,717,1,emp_717,0,user_icon,GROUP2,BATCH_2026
+EMP00718,Mohit Verma,Director,Sales,mohit.verma@hoj.com,+916462735208,Asia-South,Australia,2021-08-06,INACTIVE,emp_718.jpg,#45B7D1,OLD718,718,1,emp_718,0,user_icon,GROUP3,BATCH_2024
+EMP00719,Mohit Gupta,Manager,HR,mohit.gupta@hoj.com,+916591995050,Americas,UAE,2022-07-01,ON_LEAVE,emp_719.jpg,#4ECDC4,OLD719,719,1,emp_719,1,user_icon,GROUP9,BATCH_2025
+EMP00720,Anjali Patel,Store Manager,HR,anjali.patel@hoj.com,+917191247751,Middle East,UAE,2020-12-02,ON_LEAVE,emp_720.jpg,#FF6B6B,OLD720,720,0,emp_720,0,user_icon,GROUP8,BATCH_2026
+EMP00721,Amit Joshi,Coordinator,Operations,amit.joshi@hoj.com,,Asia-South,India,2024-10-18,ON_LEAVE,emp_721.jpg,#4ECDC4,OLD721,721,1,emp_721,1,user_icon,GROUP10,BATCH_2023
+EMP00722,Arjun Patel,Manager,Inventory,arjun.patel@hoj.com,+916545305726,Europe,USA,2023-01-26,ACTIVE,emp_722.jpg,#4ECDC4,OLD722,722,0,emp_722,1,user_icon,GROUP8,BATCH_2021
+EMP00723,Anjali Gupta,Executive,Operations,anjali.gupta@hoj.com,+919613858339,Middle East,USA,2022-02-19,INACTIVE,emp_723.jpg,#4ECDC4,OLD723,723,1,emp_723,1,user_icon,GROUP1,BATCH_2024
+EMP00724,Sneha Reddy,Coordinator,Inventory,,+919775829247,Middle East,UAE,2021-11-21,INACTIVE,emp_724.jpg,#4ECDC4,OLD724,724,1,emp_724,0,user_icon,GROUP5,BATCH_2025
+EMP00725,Deepika Reddy,Analyst,Sales,deepika.reddy@hoj.com,+919781330657,Middle East,Australia,2021-03-25,INACTIVE,emp_725.jpg,#4ECDC4,OLD725,725,1,emp_725,1,user_icon,GROUP7,BATCH_2024
+EMP00726,Rajesh Verma,Analyst,Inventory,rajesh.verma@hoj.com,+916574208975,Middle East,Singapore,2022-11-08,ACTIVE,emp_726.jpg,#45B7D1,OLD726,726,0,emp_726,0,user_icon,GROUP2,BATCH_2023
+EMP00727,ARJUN SHARMA,Supervisor,Inventory,arjun.sharma@hoj.com,+919012479653,Middle East,Singapore,2021-05-25,ACTIVE,emp_727.jpg,#FF6B6B,OLD727,727,1,emp_727,1,user_icon,GROUP10,BATCH_2022
+EMP00728,NEHA gupta,Supervisor,Inventory,neha.gupta@hoj.com,+917557131842,Americas,India,2026-05-12,INACTIVE,emp_728.jpg,#FF6B6B,OLD728,728,0,emp_728,1,user_icon,GROUP9,BATCH_2025
+EMP00729,Anjali Desai,Assistant,Inventory,anjali.desai@hoj.com,+919307632731,Asia-South,Singapore,2025-04-25,ON_LEAVE,emp_729.jpg,#FF6B6B,OLD729,729,0,emp_729,1,user_icon,GROUP2,BATCH_2022
+EMP00730,Amit Desai,Assistant,IT,amit.desai@hoj.com,+916251242770,Americas,UAE,2024-05-17,ACTIVE,emp_730.jpg,#45B7D1,OLD730,730,0,emp_730,0,user_icon,GROUP6,BATCH_2026
+EMP00731,Deepika Patel,Director,HR,deepika.patel@hoj.com,+918162627759,Asia-East,Australia,2024-09-28,ON_LEAVE,emp_731.jpg,#4ECDC4,OLD731,731,1,emp_731,0,user_icon,GROUP4,BATCH_2021
+EMP00732,Arjun Reddy,Supervisor,Operations,arjun.reddy@hoj.com,+916530908724,Middle East,India,2021-02-03,ACTIVE,emp_732.jpg,#45B7D1,OLD732,732,0,emp_732,1,user_icon,GROUP5,BATCH_2024
+EMP00733,Mohit Joshi,Coordinator,HR,mohit.joshi@hoj.com,+919704725878,Asia-East,UAE,2023-06-22,INACTIVE,emp_733.jpg,#FF6B6B,OLD733,733,0,emp_733,1,user_icon,GROUP9,BATCH_2024
+EMP00734,Arjun Kumar,Manager,Operations,arjun.kumar@hoj.com,+919274896842,Asia-East,USA,2023-02-18,ON_LEAVE,emp_734.jpg,#FF6B6B,OLD734,734,0,emp_734,1,user_icon,GROUP7,BATCH_2025
+EMP00735,Vikram Joshi,Analyst,IT,vikram.joshi@hoj.com,,Middle East,UK,2024-05-31,ACTIVE,emp_735.jpg,#45B7D1,OLD735,735,0,emp_735,0,user_icon,GROUP9,BATCH_2022
+EMP00736,Deepika Desai,Analyst,Operations,deepika.desai@hoj.com,+917716183579,Asia-South,Australia,2023-05-01,ACTIVE,emp_736.jpg,#45B7D1,OLD736,736,1,emp_736,1,user_icon,GROUP9,BATCH_2022
+EMP00737,Deepika Sharma,Executive,Sales,deepika.sharma@hoj.com,+919263134837,Middle East,UK,2024-07-01,ACTIVE,emp_737.jpg,#45B7D1,OLD737,737,0,emp_737,0,user_icon,GROUP8,BATCH_2025
+EMP00738,Amit Kumar,Store Manager,Sales,amit.kumar@hoj.com,+917305293133,Middle East,Australia,2023-11-02,ON_LEAVE,emp_738.jpg,#4ECDC4,OLD738,738,1,emp_738,0,user_icon,GROUP10,BATCH_2024
+EMP00739,Priya Desai,Manager,Finance,priya.desai@hoj.com,+918802225441,Europe,UK,2024-02-07,INACTIVE,emp_739.jpg,#4ECDC4,OLD739,739,1,emp_739,1,user_icon,GROUP5,BATCH_2021
+EMP00740,Anjali Nair,Manager,Inventory,anjali.nair@hoj.com,,Americas,UAE,2022-10-30,INACTIVE,emp_740.jpg,#FF6B6B,OLD740,740,0,emp_740,1,user_icon,GROUP7,BATCH_2021
+EMP00741,Vikram Singh,Executive,Sales,vikram.singh@hoj.com,+916378363662,Europe,USA,2022-07-05,ON_LEAVE,emp_741.jpg,#4ECDC4,OLD741,741,0,emp_741,1,user_icon,GROUP10,BATCH_2022
+EMP00742,Amit Joshi,Director,Finance,amit.joshi@hoj.com,+918945613983,Middle East,Singapore,2022-07-25,ON_LEAVE,emp_742.jpg,#FF6B6B,OLD742,742,1,emp_742,1,user_icon,GROUP5,BATCH_2021
+EMP00743,Neha Kumar,Store Manager,Inventory,,+919708709877,Europe,UAE,2021-07-07,ACTIVE,emp_743.jpg,#45B7D1,OLD743,743,0,emp_743,1,user_icon,GROUP2,BATCH_2026
+EMP00744,Amit Singh,Supervisor,IT,amit.singh@hoj.com,+919061018310,Americas,Singapore,2024-11-26,INACTIVE,emp_744.jpg,#45B7D1,OLD744,744,0,emp_744,0,user_icon,GROUP2,BATCH_2023
+EMP00745,Deepika Gupta,Supervisor,Customer Service,deepika.gupta@hoj.com,+917101251653,Asia-South,Australia,2024-10-07,ON_LEAVE,emp_745.jpg,#45B7D1,OLD745,745,0,emp_745,1,user_icon,GROUP10,BATCH_2021
+EMP00746,Amit Singh,Store Manager,Operations,amit.singh@hoj.com,+917196326497,Middle East,USA,2022-02-05,ACTIVE,emp_746.jpg,#4ECDC4,OLD746,746,0,emp_746,1,user_icon,GROUP1,BATCH_2025
+EMP00747,Mohit Sharma,Director,Finance,mohit.sharma@hoj.com,+919480373929,Europe,UK,2022-12-01,ON_LEAVE,emp_747.jpg,#FF6B6B,OLD747,747,1,emp_747,1,user_icon,GROUP4,BATCH_2025
+EMP00748,Deepika Gupta,Executive,IT,deepika.gupta@hoj.com,+919352312491,Europe,UAE,2023-10-08,ACTIVE,emp_748.jpg,#4ECDC4,OLD748,748,0,emp_748,0,user_icon,GROUP9,BATCH_2023
+EMP00749,Vikram Patel,Store Manager,Inventory,vikram.patel@hoj.com,+917548854469,Asia-South,Singapore,2020-07-11,ON_LEAVE,emp_749.jpg,#45B7D1,OLD749,749,1,emp_749,1,user_icon,GROUP8,BATCH_2025
+EMP00750,Rajesh Patel,Executive,Customer Service,rajesh.patel@hoj.com,+916899391737,Asia-East,UK,2023-01-17,INACTIVE,emp_750.jpg,#FF6B6B,OLD750,750,1,emp_750,1,user_icon,GROUP1,BATCH_2023
+EMP00751,Arjun Gupta,Coordinator,Operations,arjun.gupta@hoj.com,+917709402836,Europe,India,2021-06-15,INACTIVE,emp_751.jpg,#FF6B6B,OLD751,751,0,emp_751,1,user_icon,GROUP10,BATCH_2024
+EMP00752,Anjali Joshi,Manager,Sales,anjali.joshi@hoj.com,+918560899210,Americas,India,2021-11-21,ON_LEAVE,emp_752.jpg,#FF6B6B,OLD752,752,0,emp_752,1,user_icon,GROUP3,BATCH_2021
+EMP00753,Deepika Nair,Store Manager,Customer Service,deepika.nair@hoj.com,+917287813684,Middle East,USA,2024-07-17,INACTIVE,emp_753.jpg,#4ECDC4,OLD753,753,0,emp_753,0,user_icon,GROUP1,BATCH_2024
+EMP00754,Anjali Desai,Director,Sales,anjali.desai@hoj.com,+917920703122,Asia-South,UK,2024-08-09,ON_LEAVE,emp_754.jpg,#45B7D1,OLD754,754,1,emp_754,0,user_icon,GROUP4,BATCH_2025
+EMP00755,Anjali Desai,Store Manager,Operations,anjali.desai@hoj.com,+917307662816,Middle East,UK,2021-07-06,ON_LEAVE,emp_755.jpg,#FF6B6B,OLD755,755,1,emp_755,0,user_icon,GROUP7,BATCH_2023
+EMP00756,Deepika Kumar,Analyst,Operations,deepika.kumar@hoj.com,+918064336907,Asia-South,Singapore,2022-10-12,ON_LEAVE,emp_756.jpg,#4ECDC4,OLD756,756,1,emp_756,1,user_icon,GROUP6,BATCH_2024
+EMP00757,Neha Sharma,Analyst,Inventory,neha.sharma@hoj.com,+918411077825,Middle East,USA,2025-03-13,ACTIVE,emp_757.jpg,#45B7D1,OLD757,757,1,emp_757,1,user_icon,GROUP3,BATCH_2023
+EMP00758,Neha Joshi,Coordinator,Finance,neha.joshi@hoj.com,+918826414896,Asia-East,Australia,2023-04-09,ON_LEAVE,emp_758.jpg,#FF6B6B,OLD758,758,0,emp_758,0,user_icon,GROUP9,BATCH_2023
+EMP00759,Amit Sharma,Manager,Customer Service,amit.sharma@hoj.com,+917175665129,Middle East,USA,2024-10-27,INACTIVE,emp_759.jpg,#4ECDC4,OLD759,759,1,emp_759,0,user_icon,GROUP6,BATCH_2024
+EMP00760,Priya Joshi,Assistant,Finance,priya.joshi@hoj.com,+918270832140,Asia-East,UK,2023-09-15,ON_LEAVE,emp_760.jpg,#45B7D1,OLD760,760,1,emp_760,1,user_icon,GROUP4,BATCH_2023
+EMP00761,Sneha Nair,Assistant,HR,sneha.nair@hoj.com,+916702396527,Asia-East,UAE,2026-01-06,INACTIVE,emp_761.jpg,#FF6B6B,OLD761,761,0,emp_761,1,user_icon,GROUP5,BATCH_2023
+EMP00762,Mohit Desai,Director,HR,mohit.desai@hoj.com,+919472530660,Asia-East,UAE,2025-07-01,ACTIVE,emp_762.jpg,#45B7D1,OLD762,762,1,emp_762,0,user_icon,GROUP4,BATCH_2022
+EMP00763,Amit Singh,Analyst,Inventory,amit.singh@hoj.com,+918075969743,Asia-East,Australia,2020-08-16,ACTIVE,emp_763.jpg,#45B7D1,OLD763,763,0,emp_763,0,user_icon,GROUP7,BATCH_2021
+EMP00764,Anjali Nair,Coordinator,Finance,anjali.nair@hoj.com,+918483882174,Asia-South,UAE,2022-03-06,ACTIVE,emp_764.jpg,#FF6B6B,OLD764,764,1,emp_764,0,user_icon,GROUP6,BATCH_2022
+EMP00765,Mohit Singh,Executive,HR,mohit.singh@hoj.com,+916524128296,Asia-South,UK,2024-10-29,ACTIVE,emp_765.jpg,#45B7D1,OLD765,765,1,emp_765,1,user_icon,GROUP5,BATCH_2024
+EMP00766,Anjali Reddy,Director,Operations,anjali.reddy@hoj.com,+916728629794,Middle East,Australia,2024-07-15,ON_LEAVE,emp_766.jpg,#45B7D1,OLD766,766,1,emp_766,0,user_icon,GROUP2,BATCH_2021
+EMP00767,Neha Kumar,Executive,Sales,neha.kumar@hoj.com,+918407096965,Americas,UK,2023-02-26,ACTIVE,emp_767.jpg,#45B7D1,OLD767,767,1,emp_767,1,user_icon,GROUP5,BATCH_2022
+EMP00768,Neha Desai,Analyst,Finance,neha.desai@hoj.com,+919042878741,Europe,USA,2022-10-02,ACTIVE,emp_768.jpg,#FF6B6B,OLD768,768,0,emp_768,0,user_icon,GROUP9,BATCH_2021
+EMP00769,Mohit Joshi,Supervisor,Customer Service,mohit.joshi@hoj.com,+917408155210,Asia-East,UK,2021-12-15,ACTIVE,emp_769.jpg,#4ECDC4,OLD769,769,0,emp_769,0,user_icon,GROUP4,BATCH_2024
+EMP00770,Arjun Reddy,Executive,Customer Service,arjun.reddy@hoj.com,+916859816363,Americas,UK,2025-09-25,ACTIVE,emp_770.jpg,#4ECDC4,OLD770,770,0,emp_770,1,user_icon,GROUP2,BATCH_2021
+EMP00771,Amit Kumar,Analyst,Inventory,amit.kumar@hoj.com,+919296866972,Europe,Singapore,2023-09-29,INACTIVE,emp_771.jpg,#4ECDC4,OLD771,771,0,emp_771,1,user_icon,GROUP5,BATCH_2023
+EMP00772,"Deepika Joshi,extra",Coordinator,Inventory,deepika.joshi@hoj.com,+916541545431,Asia-South,Australia,2020-07-18,ON_LEAVE,emp_772.jpg,#4ECDC4,OLD772,772,0,emp_772,1,user_icon,GROUP10,BATCH_2021
+EMP00773,Arjun Verma,Director,Customer Service,arjun.verma@hoj.com,+919897629315,Middle East,USA,2022-01-19,ACTIVE,emp_773.jpg,#4ECDC4,OLD773,773,0,emp_773,1,user_icon,GROUP4,BATCH_2023
+EMP00774,Vikram Desai,Assistant,IT,vikram.desai@hoj.com,+918052279042,Asia-East,India,2024-07-03,ON_LEAVE,emp_774.jpg,#4ECDC4,OLD774,774,1,emp_774,0,user_icon,GROUP3,BATCH_2023
+EMP00775,Anjali Verma,Coordinator,Sales,anjali.verma@hoj.com,+916782669288,Middle East,India,2026-03-16,ACTIVE,emp_775.jpg,#4ECDC4,OLD775,775,0,emp_775,1,user_icon,GROUP1,BATCH_2024
+EMP00776,Vikram Nair,Coordinator,Inventory,vikram.nair@hoj.com,+918329782761,Europe,UK,2026-03-08,ON_LEAVE,emp_776.jpg,#45B7D1,OLD776,776,1,emp_776,1,user_icon,GROUP2,BATCH_2021
+EMP00777,Neha Reddy,Director,Customer Service,neha.reddy@hoj.com,+917562632716,Americas,USA,2025-05-16,INACTIVE,emp_777.jpg,#4ECDC4,OLD777,777,1,emp_777,0,user_icon,GROUP9,BATCH_2025
+EMP00778,Amit Gupta,Manager,Operations,amit.gupta@hoj.com,+917993135727,Asia-South,India,2025-02-10,ACTIVE,emp_778.jpg,#45B7D1,OLD778,778,1,emp_778,1,user_icon,GROUP4,BATCH_2025
+EMP00779,Deepika Gupta,Supervisor,Customer Service,,+917889530002,Asia-East,Singapore,2021-05-15,INACTIVE,emp_779.jpg,#4ECDC4,OLD779,779,0,emp_779,0,user_icon,GROUP5,BATCH_2021
+EMP00780,Anjali Singh,Director,Operations,anjali.singh@hoj.com,+917421219356,Europe,Australia,2021-12-16,INACTIVE,emp_780.jpg,#4ECDC4,OLD780,780,0,emp_780,0,user_icon,GROUP4,BATCH_2026
+EMP00781,Priya Joshi,Supervisor,Sales,priya.joshi@hoj.com,+918150277735,Americas,India,2023-06-29,INACTIVE,emp_781.jpg,#4ECDC4,OLD781,781,1,emp_781,0,user_icon,GROUP9,BATCH_2022
+EMP00782,Deepika Sharma,Store Manager,Finance,deepika.sharma@hoj.com,+916099586862,Asia-East,Australia,2021-06-20,INACTIVE,emp_782.jpg,#FF6B6B,OLD782,782,0,emp_782,0,user_icon,GROUP9,BATCH_2021
+EMP00783,Anjali Kumar,Assistant,HR,anjali.kumar@hoj.com,+919645194263,Asia-South,India,2024-07-27,INACTIVE,emp_783.jpg,#FF6B6B,OLD783,783,0,emp_783,1,user_icon,GROUP6,BATCH_2023
+EMP00784,Vikram Gupta,Director,HR,vikram.gupta@hoj.com,+919326698158,Europe,Singapore,2023-11-16,ON_LEAVE,emp_784.jpg,#4ECDC4,OLD784,784,0,emp_784,0,user_icon,GROUP5,BATCH_2021
+EMP00785,Deepika Reddy,Store Manager,HR,,+919766257650,Americas,UK,2022-10-31,ON_LEAVE,emp_785.jpg,#FF6B6B,OLD785,785,1,emp_785,0,user_icon,GROUP1,BATCH_2021
+EMP00786,Priya Verma,Store Manager,IT,priya.verma@hoj.com,+918491292988,Asia-East,UK,2023-10-25,ON_LEAVE,emp_786.jpg,#45B7D1,OLD786,786,0,emp_786,0,user_icon,GROUP1,BATCH_2025
+EMP00787,Arjun Gupta,Store Manager,Sales,arjun.gupta@hoj.com,+917313904358,Americas,USA,2024-03-23,INACTIVE,emp_787.jpg,#4ECDC4,OLD787,787,0,emp_787,0,user_icon,GROUP4,BATCH_2025
+EMP00788,Mohit Gupta,Analyst,HR,mohit.gupta@hoj.com,+918637904738,Americas,UAE,2025-01-26,INACTIVE,emp_788.jpg,#45B7D1,OLD788,788,0,emp_788,1,user_icon,GROUP7,BATCH_2023
+EMP00789,Deepika Singh,Executive,IT,deepika.singh@hoj.com,+919967733144,Middle East,UAE,2020-08-13,ACTIVE,emp_789.jpg,#45B7D1,OLD789,789,1,emp_789,1,user_icon,GROUP10,BATCH_2023
+EMP00790,Rajesh Singh ,Assistant,Sales,rajesh.singh@hoj.com,+916438970127,Americas,Australia,2023-08-14,INACTIVE,emp_790.jpg,#45B7D1,OLD790,790,0,emp_790,1,user_icon,GROUP3,BATCH_2024
+EMP00791,"Vikram Gupta,extra",Assistant,Finance,vikram.gupta@hoj.com,+916102080421,Middle East,UAE,2022-02-07,ACTIVE,emp_791.jpg,#FF6B6B,OLD791,791,1,emp_791,1,user_icon,GROUP9,BATCH_2021
+EMP00792,Neha Kumar,Analyst,Operations,neha.kumar@hoj.com,+919469810833,Asia-East,Australia,2025-09-28,INACTIVE,emp_792.jpg,#45B7D1,OLD792,792,0,emp_792,0,user_icon,GROUP10,BATCH_2021
+EMP00793,Mohit Sharma,Coordinator,IT,mohit.sharma@hoj.com,+919521926531,Asia-South,UK,2020-09-18,INACTIVE,emp_793.jpg,#FF6B6B,OLD793,793,0,emp_793,0,user_icon,GROUP3,BATCH_2026
+EMP00794,Priya Sharma,Manager,Finance,priya.sharma@hoj.com,+918380378737,Asia-South,UAE,2021-01-04,ON_LEAVE,emp_794.jpg,#FF6B6B,OLD794,794,0,emp_794,1,user_icon,GROUP3,BATCH_2021
+EMP00795,Arjun Joshi,Supervisor,HR,,+917435351568,Asia-South,Australia,2025-02-09,ON_LEAVE,emp_795.jpg,#4ECDC4,OLD795,795,1,emp_795,0,user_icon,GROUP5,BATCH_2024
+EMP00796,Mohit Gupta,Executive,Operations,mohit.gupta@hoj.com,+916277424589,Middle East,Australia,2020-06-23,ACTIVE,emp_796.jpg,#45B7D1,OLD796,796,1,emp_796,0,user_icon,GROUP1,BATCH_2022
+EMP00797,Mohit Gupta,Executive,Inventory,mohit.gupta@hoj.com,+916399931695,Asia-South,UAE,2023-11-25,ON_LEAVE,emp_797.jpg,#FF6B6B,OLD797,797,0,emp_797,0,user_icon,GROUP7,BATCH_2021
+EMP00798,Rajesh Desai,Store Manager,IT,rajesh.desai@hoj.com,+919480760812,Americas,UAE,2022-12-14,ON_LEAVE,emp_798.jpg,#45B7D1,OLD798,798,0,emp_798,1,user_icon,GROUP4,BATCH_2026
+EMP00799,Priya Reddy,Assistant,Operations,priya.reddy@hoj.com,+916096854178,Asia-East,Australia,2023-12-11,ACTIVE,emp_799.jpg,#4ECDC4,OLD799,799,1,emp_799,1,user_icon,GROUP1,BATCH_2023
+EMP00800,Anjali Desai,Store Manager,Finance,anjali.desai@hoj.com,+918248166437,Middle East,UK,2021-09-06,ACTIVE,emp_800.jpg,#4ECDC4,OLD800,800,0,emp_800,1,user_icon,GROUP4,BATCH_2025
+EMP00801,Anjali Singh,Analyst,Sales,anjali.singh@hoj.com,+919827836116,Middle East,UAE,2021-03-06,ON_LEAVE,emp_801.jpg,#45B7D1,OLD801,801,1,emp_801,1,user_icon,GROUP2,BATCH_2023
+EMP00802,Deepika Nair,Coordinator,Operations,deepika.nair@hoj.com,+916492779845,Americas,Australia,2022-11-07,ON_LEAVE,emp_802.jpg,#4ECDC4,OLD802,802,0,emp_802,1,user_icon,GROUP8,BATCH_2025
+EMP00803,Vikram Nair,Executive,Finance,vikram.nair@hoj.com,+918192037189,Europe,Singapore,2023-02-09,ACTIVE,emp_803.jpg,#4ECDC4,OLD803,803,1,emp_803,0,user_icon,GROUP1,BATCH_2025
+EMP00804,Amit Gupta,Analyst,IT,amit.gupta@hoj.com,+916712549438,Middle East,USA,2023-06-21,ACTIVE,emp_804.jpg,#4ECDC4,OLD804,804,0,emp_804,1,user_icon,GROUP7,BATCH_2021
+EMP00805,Vikram Desai,Analyst,HR,vikram.desai@hoj.com,+917054679459,Middle East,Australia,2024-10-17,ACTIVE,emp_805.jpg,#45B7D1,OLD805,805,1,emp_805,0,user_icon,GROUP4,BATCH_2026
+EMP00806,Deepika Nair,Executive,Operations,deepika.nair@hoj.com,+919556430296,Asia-East,USA,2025-01-08,ACTIVE,emp_806.jpg,#FF6B6B,OLD806,806,0,emp_806,1,user_icon,GROUP2,BATCH_2025
+EMP00807,Arjun Joshi,Supervisor,HR,arjun.joshi@hoj.com,+917424642251,Asia-South,Australia,2026-01-15,ON_LEAVE,emp_807.jpg,#45B7D1,OLD807,807,1,emp_807,1,user_icon,GROUP7,BATCH_2026
+EMP00808,Neha Kumar,Executive,Customer Service,neha.kumar@hoj.com,+917214491225,Asia-South,USA,2025-10-10,ON_LEAVE,emp_808.jpg,#45B7D1,OLD808,808,0,emp_808,1,user_icon,GROUP5,BATCH_2021
+EMP00809,Amit Verma,Store Manager,HR,amit.verma@hoj.com,+917391697819,Asia-East,Singapore,2026-04-24,ACTIVE,emp_809.jpg,#FF6B6B,OLD809,809,1,emp_809,1,user_icon,GROUP2,BATCH_2023
+EMP00810,Mohit Singh,Coordinator,Sales,mohit.singh@hoj.com,+916454121482,Americas,USA,2023-07-22,ACTIVE,emp_810.jpg,#FF6B6B,OLD810,810,0,emp_810,0,user_icon,GROUP6,BATCH_2026
+EMP00811,Anjali Reddy,Assistant,Finance,anjali.reddy@hoj.com,+917774018955,Asia-East,USA,2021-09-01,ACTIVE,emp_811.jpg,#4ECDC4,OLD811,811,0,emp_811,0,user_icon,GROUP9,BATCH_2025
+EMP00812,Amit Patel,Supervisor,Sales,amit.patel@hoj.com,+917377537307,Middle East,USA,2022-12-16,ON_LEAVE,emp_812.jpg,#FF6B6B,OLD812,812,0,emp_812,0,user_icon,GROUP8,BATCH_2025
+EMP00813,Neha Verma,Director,Sales,neha.verma@hoj.com,+916448745891,Europe,India,2022-07-31,ACTIVE,emp_813.jpg,#FF6B6B,OLD813,813,0,emp_813,0,user_icon,GROUP3,BATCH_2026
+EMP00814,Rajesh Sharma,Executive,Inventory,rajesh.sharma@hoj.com,+919819553798,Americas,India,2021-03-01,INACTIVE,emp_814.jpg,#4ECDC4,OLD814,814,0,emp_814,0,user_icon,GROUP9,BATCH_2021
+EMP00815,Mohit Joshi,Manager,Customer Service,mohit.joshi@hoj.com,+916893245973,Asia-South,USA,2025-08-20,ON_LEAVE,emp_815.jpg,#45B7D1,OLD815,815,0,emp_815,1,user_icon,GROUP7,BATCH_2022
+EMP00816,Rajesh Verma,Analyst,Sales,rajesh.verma@hoj.com,+919050031351,Asia-East,USA,2020-11-15,ON_LEAVE,emp_816.jpg,#4ECDC4,OLD816,816,1,emp_816,1,user_icon,GROUP1,BATCH_2025
+EMP00817,Deepika Nair,Director,HR,deepika.nair@hoj.com,+916254799113,Middle East,USA,2021-01-05,ACTIVE,emp_817.jpg,#FF6B6B,OLD817,817,1,emp_817,1,user_icon,GROUP2,BATCH_2023
+EMP00818,Deepika Sharma,Manager,Inventory,deepika.sharma@hoj.com,+917401037171,Asia-East,USA,2023-08-05,INACTIVE,emp_818.jpg,#4ECDC4,OLD818,818,1,emp_818,0,user_icon,GROUP9,BATCH_2026
+EMP00819,Vikram Joshi,Coordinator,Operations,vikram.joshi@hoj.com,+919323731289,Americas,UAE,2022-09-16,ON_LEAVE,emp_819.jpg,#45B7D1,OLD819,819,0,emp_819,0,user_icon,GROUP9,BATCH_2026
+EMP00820,Priya Gupta,Coordinator,Customer Service,priya.gupta@hoj.com,+916576151421,Americas,Australia,2022-07-28,ON_LEAVE,emp_820.jpg,#4ECDC4,OLD820,820,1,emp_820,0,user_icon,GROUP7,BATCH_2023
+EMP00821,Rajesh Desai,Assistant,Inventory,rajesh.desai@hoj.com,+917191555896,Europe,UAE,2023-10-04,ACTIVE,emp_821.jpg,#45B7D1,OLD821,821,1,emp_821,1,user_icon,GROUP6,BATCH_2022
+EMP00822,Neha Kumar,Supervisor,Customer Service,neha.kumar@hoj.com,+916629463456,Europe,Singapore,2022-11-08,INACTIVE,emp_822.jpg,#FF6B6B,OLD822,822,1,emp_822,1,user_icon,GROUP4,BATCH_2026
+EMP00823,Sneha Kumar,Manager,IT,sneha.kumar@hoj.com,+919147521071,Middle East,Australia,2024-03-02,ACTIVE,emp_823.jpg,#FF6B6B,OLD823,823,0,emp_823,0,user_icon,GROUP6,BATCH_2024
+EMP00824,Anjali Gupta,Manager,Customer Service,anjali.gupta@hoj.com,+916914796270,Middle East,Australia,2025-07-11,ACTIVE,emp_824.jpg,#4ECDC4,OLD824,824,1,emp_824,0,user_icon,GROUP8,BATCH_2021
+EMP00825,Arjun Joshi,Manager,Inventory,arjun.joshi@hoj.com,+916716445526,Asia-East,India,2023-04-07,ON_LEAVE,emp_825.jpg,#FF6B6B,OLD825,825,1,emp_825,0,user_icon,GROUP1,BATCH_2021
+EMP00826,Sneha Sharma,Store Manager,Finance,sneha.sharma@hoj.com,+916203690041,Asia-South,UK,2023-01-20,ACTIVE,emp_826.jpg,#45B7D1,OLD826,826,0,emp_826,1,user_icon,GROUP6,BATCH_2022
+EMP00827,Rajesh Singh,Assistant,Customer Service,rajesh.singh@hoj.com,+919088301426,Americas,Singapore,2025-03-05,INACTIVE,emp_827.jpg,#4ECDC4,OLD827,827,1,emp_827,0,user_icon,GROUP9,BATCH_2026
+EMP00828,Neha Singh,Executive,Operations,neha.singh@hoj.com,+916634279414,Asia-East,USA,2025-06-03,INACTIVE,emp_828.jpg,#4ECDC4,OLD828,828,1,emp_828,0,user_icon,GROUP5,BATCH_2021
+EMP00829,Deepika Singh,Executive,IT,deepika.singh@hoj.com,+917222373296,Americas,UAE,2022-09-01,ACTIVE,emp_829.jpg,#45B7D1,OLD829,829,1,emp_829,1,user_icon,GROUP8,BATCH_2023
+EMP00830,Arjun Verma,Coordinator,Sales,arjun.verma@hoj.com,+918097682947,Asia-South,UAE,2023-01-31,INACTIVE,emp_830.jpg,#45B7D1,OLD830,830,0,emp_830,0,user_icon,GROUP8,BATCH_2026
+EMP00831,Arjun Desai,Supervisor,Finance,arjun.desai@hoj.com,+919179889891,Europe,UAE,2023-01-04,ON_LEAVE,emp_831.jpg,#4ECDC4,OLD831,831,0,emp_831,1,user_icon,GROUP1,BATCH_2021
+EMP00832,Rajesh Verma,Supervisor,Finance,rajesh.verma@hoj.com,+918459673417,Asia-South,Australia,2021-11-23,INACTIVE,emp_832.jpg,#4ECDC4,OLD832,832,1,emp_832,0,user_icon,GROUP9,BATCH_2024
+EMP00833,Anjali Desai,Assistant,Customer Service,anjali.desai@hoj.com,+918237425344,Asia-South,India,2024-04-08,INACTIVE,emp_833.jpg,#45B7D1,OLD833,833,0,emp_833,0,user_icon,GROUP5,BATCH_2022
+EMP00834,Sneha Patel,Analyst,HR,sneha.patel@hoj.com,+919548083309,Asia-South,UK,2024-03-30,ON_LEAVE,emp_834.jpg,#45B7D1,OLD834,834,1,emp_834,0,user_icon,GROUP1,BATCH_2025
+EMP00835,Vikram Patel,Director,Finance,vikram.patel@hoj.com,+917517166878,Asia-South,UK,2023-07-23,ON_LEAVE,emp_835.jpg,#45B7D1,OLD835,835,1,emp_835,1,user_icon,GROUP7,BATCH_2021
+EMP00836,Deepika Reddy,Director,Sales,deepika.reddy@hoj.com,+918109144296,Middle East,India,2025-10-25,ACTIVE,emp_836.jpg,#4ECDC4,OLD836,836,1,emp_836,1,user_icon,GROUP5,BATCH_2023
+EMP00837,Anjali Patel,Store Manager,Finance,anjali.patel@hoj.com,+918362442298,Middle East,USA,2024-06-20,INACTIVE,emp_837.jpg,#4ECDC4,OLD837,837,1,emp_837,1,user_icon,GROUP2,BATCH_2023
+EMP00838,Arjun Patel,Assistant,Operations,arjun.patel@hoj.com,+919563104767,Middle East,India,2023-12-12,INACTIVE,emp_838.jpg,#FF6B6B,OLD838,838,1,emp_838,1,user_icon,GROUP8,BATCH_2023
+EMP00839,Sneha Gupta,Assistant,Sales,sneha.gupta@hoj.com,+919802632339,Middle East,India,2023-12-27,INACTIVE,emp_839.jpg,#FF6B6B,OLD839,839,1,emp_839,1,user_icon,GROUP1,BATCH_2023
+EMP00840,Sneha Sharma,Manager,Finance,sneha.sharma@hoj.com,+917982423554,Asia-East,Australia,2024-03-28,ACTIVE,emp_840.jpg,#45B7D1,OLD840,840,1,emp_840,1,user_icon,GROUP10,BATCH_2022
+EMP00841,Rajesh Reddy,Store Manager,Inventory,rajesh.reddy@hoj.com,+916328445222,Americas,UK,2025-11-04,ON_LEAVE,emp_841.jpg,#FF6B6B,OLD841,841,0,emp_841,0,user_icon,GROUP1,BATCH_2025
+EMP00842,Arjun Sharma,Executive,Sales,arjun.sharma@hoj.com,+919427012897,Middle East,UK,2025-01-03,INACTIVE,emp_842.jpg,#FF6B6B,OLD842,842,1,emp_842,1,user_icon,GROUP8,BATCH_2023
+EMP00843,Priya Verma,Manager,Customer Service,priya.verma@hoj.com,+916399226057,Europe,Australia,2026-03-24,ON_LEAVE,emp_843.jpg,#FF6B6B,OLD843,843,0,emp_843,1,user_icon,GROUP6,BATCH_2024
+EMP00844,Mohit Desai,Supervisor,Operations,mohit.desai@hoj.com,+917741516179,Americas,India,2022-01-02,ACTIVE,emp_844.jpg,#4ECDC4,OLD844,844,0,emp_844,1,user_icon,GROUP3,BATCH_2024
+EMP00845,Priya Kumar,Coordinator,HR,priya.kumar@hoj.com,+918826066959,Americas,India,2021-01-08,ACTIVE,emp_845.jpg,#4ECDC4,OLD845,845,1,emp_845,1,user_icon,GROUP10,BATCH_2023
+EMP00846,Amit Reddy,Manager,Customer Service,amit.reddy@hoj.com,+918431888467,Asia-South,Australia,2025-07-20,ON_LEAVE,emp_846.jpg,#45B7D1,OLD846,846,1,emp_846,0,user_icon,GROUP1,BATCH_2023
+EMP00847,Deepika Kumar,Assistant,Finance,deepika.kumar@hoj.com,+918120813966,Europe,UK,2020-11-27,ACTIVE,emp_847.jpg,#FF6B6B,OLD847,847,1,emp_847,1,user_icon,GROUP7,BATCH_2022
+EMP00848,Priya Nair,Assistant,Sales,priya.nair@hoj.com,+917534079632,Americas,UK,2023-06-02,ACTIVE,emp_848.jpg,#45B7D1,OLD848,848,0,emp_848,0,user_icon,GROUP1,BATCH_2021
+EMP00849,Amit Kumar,Store Manager,HR,amit.kumar@hoj.com,+919495792966,Middle East,Australia,2022-06-01,ACTIVE,emp_849.jpg,#4ECDC4,OLD849,849,1,emp_849,1,user_icon,GROUP8,BATCH_2025
+EMP00850,Anjali Desai,Assistant,IT,anjali.desai@hoj.com,+917378503153,Americas,Australia,2024-04-25,ON_LEAVE,emp_850.jpg,#45B7D1,OLD850,850,1,emp_850,0,user_icon,GROUP5,BATCH_2024
+EMP00851,Vikram Kumar,Store Manager,HR,vikram.kumar@hoj.com,+916031500889,Europe,Australia,2025-10-21,ACTIVE,emp_851.jpg,#4ECDC4,OLD851,851,1,emp_851,0,user_icon,GROUP8,BATCH_2026
+EMP00852,Arjun Kumar,Analyst,Finance,arjun.kumar@hoj.com,+918460955039,Asia-East,Singapore,2021-05-28,INACTIVE,emp_852.jpg,#4ECDC4,OLD852,852,0,emp_852,0,user_icon,GROUP5,BATCH_2025
+EMP00853,Rajesh Desai,Analyst,IT,rajesh.desai@hoj.com,+916422093136,Europe,Singapore,2024-07-27,ON_LEAVE,emp_853.jpg,#FF6B6B,OLD853,853,1,emp_853,1,user_icon,GROUP7,BATCH_2023
+EMP00854,Rajesh Joshi,Analyst,Sales,rajesh.joshi@hoj.com,+917916732739,Europe,India,2021-04-09,ACTIVE,emp_854.jpg,#FF6B6B,OLD854,854,1,emp_854,1,user_icon,GROUP6,BATCH_2022
+EMP00855,Rajesh Desai,Executive,Sales,rajesh.desai@hoj.com,+918047495706,Americas,UK,2020-06-21,ON_LEAVE,emp_855.jpg,#FF6B6B,OLD855,855,0,emp_855,0,user_icon,GROUP1,BATCH_2021
+EMP00856,Neha Reddy,Manager,IT,neha.reddy@hoj.com,+916122074572,Europe,USA,2022-06-16,INACTIVE,emp_856.jpg,#45B7D1,OLD856,856,0,emp_856,1,user_icon,GROUP4,BATCH_2023
+EMP00857,Sneha Gupta,Supervisor,Sales,sneha.gupta@hoj.com,+919414960569,Asia-South,Australia,2022-08-15,ACTIVE,emp_857.jpg,#FF6B6B,OLD857,857,0,emp_857,0,user_icon,GROUP5,BATCH_2022
+EMP00858,Neha Desai,Store Manager,Sales,neha.desai@hoj.com,+917120539436,Asia-East,India,2021-07-15,ACTIVE,emp_858.jpg,#FF6B6B,OLD858,858,1,emp_858,0,user_icon,GROUP8,BATCH_2024
+EMP00859,Mohit Verma,Store Manager,Finance,mohit.verma@hoj.com,,Asia-South,UAE,2025-12-13,ON_LEAVE,emp_859.jpg,#45B7D1,OLD859,859,1,emp_859,1,user_icon,GROUP4,BATCH_2024
+EMP00860,Mohit Singh,Executive,IT,mohit.singh@hoj.com,+916421211433,Asia-East,USA,2025-05-30,INACTIVE,emp_860.jpg,#45B7D1,OLD860,860,0,emp_860,0,user_icon,GROUP4,BATCH_2024
+EMP00861,Anjali Desai,Store Manager,Customer Service,anjali.desai@hoj.com,+917198128725,Americas,Australia,2024-01-17,INACTIVE,emp_861.jpg,#FF6B6B,OLD861,861,0,emp_861,1,user_icon,GROUP2,BATCH_2023
+EMP00862,Amit Singh,Store Manager,Inventory,amit.singh@hoj.com,,Americas,USA,2023-10-27,ON_LEAVE,emp_862.jpg,#FF6B6B,OLD862,862,1,emp_862,0,user_icon,GROUP7,BATCH_2021
+EMP00863,Deepika Desai,Executive,HR,deepika.desai@hoj.com,+918473541565,Americas,India,2024-03-22,INACTIVE,emp_863.jpg,#45B7D1,OLD863,863,0,emp_863,1,user_icon,GROUP9,BATCH_2025
+EMP00864,Neha Kumar,Assistant,HR,neha.kumar@hoj.com,+917081506218,Asia-East,Singapore,2025-09-02,ACTIVE,emp_864.jpg,#4ECDC4,OLD864,864,0,emp_864,0,user_icon,GROUP7,BATCH_2026
+EMP00865,Deepika Patel,Store Manager,Sales,deepika.patel@hoj.com,+918812665294,Americas,UAE,2022-01-01,ON_LEAVE,emp_865.jpg,#4ECDC4,OLD865,865,0,emp_865,0,user_icon,GROUP2,BATCH_2026
+EMP00866,Rajesh Kumar,Executive,HR,rajesh.kumar@hoj.com,+918508704881,Asia-South,UK,2021-04-30,ON_LEAVE,emp_866.jpg,#FF6B6B,OLD866,866,0,emp_866,1,user_icon,GROUP4,BATCH_2026
+EMP00867,Sneha Singh,Analyst,Sales,sneha.singh@hoj.com,+916932220830,Europe,UAE,2020-08-17,ON_LEAVE,emp_867.jpg,#4ECDC4,OLD867,867,1,emp_867,0,user_icon,GROUP5,BATCH_2026
+EMP00868,"Neha Reddy,extra",Supervisor,Sales,neha.reddy@hoj.com,+919913282377,Asia-South,Singapore,2023-06-01,INACTIVE,emp_868.jpg,#FF6B6B,OLD868,868,0,emp_868,1,user_icon,GROUP2,BATCH_2026
+EMP00869,Amit Patel,Analyst,Sales,amit.patel@hoj.com,+916477771728,Middle East,USA,2022-08-17,ACTIVE,emp_869.jpg,#45B7D1,OLD869,869,1,emp_869,0,user_icon,GROUP10,BATCH_2026
+EMP00870,Anjali Kumar,Store Manager,Inventory,anjali.kumar@hoj.com,+919031924413,Americas,Singapore,2024-05-10,ON_LEAVE,emp_870.jpg,#4ECDC4,OLD870,870,0,emp_870,0,user_icon,GROUP6,BATCH_2024
+EMP00871,Priya Verma,Store Manager,Sales,priya.verma@hoj.com,+917058304198,Asia-East,UAE,2022-11-10,ACTIVE,emp_871.jpg,#4ECDC4,OLD871,871,1,emp_871,0,user_icon,GROUP3,BATCH_2024
+EMP00872,Anjali Gupta,Store Manager,Operations,anjali.gupta@hoj.com,+918084596753,Middle East,Australia,2020-09-22,INACTIVE,emp_872.jpg,#45B7D1,OLD872,872,0,emp_872,0,user_icon,GROUP3,BATCH_2025
+EMP00873,Neha Desai,Executive,Sales,neha.desai@hoj.com,+916561490019,Asia-East,Singapore,2021-11-22,INACTIVE,emp_873.jpg,#FF6B6B,OLD873,873,1,emp_873,1,user_icon,GROUP5,BATCH_2024
+EMP00874,Mohit Patel,Supervisor,Finance,mohit.patel@hoj.com,+919772739137,Asia-South,UAE,2023-01-20,INACTIVE,emp_874.jpg,#4ECDC4,OLD874,874,0,emp_874,0,user_icon,GROUP4,BATCH_2026
+EMP00875,Amit Reddy,Supervisor,Operations,amit.reddy@hoj.com,+916804687519,Asia-East,UAE,2023-11-25,INACTIVE,emp_875.jpg,#FF6B6B,OLD875,875,1,emp_875,1,user_icon,GROUP5,BATCH_2021
+EMP00876,Amit Joshi,Store Manager,HR,amit.joshi@hoj.com,+917544057992,Asia-East,India,2021-08-20,INACTIVE,emp_876.jpg,#4ECDC4,OLD876,876,0,emp_876,1,user_icon,GROUP1,BATCH_2023
+EMP00877,neha reddy,Store Manager,IT,neha.reddy@hoj.com,+919326347578,Asia-East,UAE,2026-02-05,ACTIVE,emp_877.jpg,#FF6B6B,OLD877,877,1,emp_877,1,user_icon,GROUP1,BATCH_2023
+EMP00878,Neha Nair,Manager,HR,neha.nair@hoj.com,+918405711604,Europe,UAE,2021-08-25,ACTIVE,emp_878.jpg,#45B7D1,OLD878,878,1,emp_878,1,user_icon,GROUP8,BATCH_2024
+EMP00879,Arjun Patel,Coordinator,Inventory,arjun.patel@hoj.com,+917548757284,Americas,UK,2022-11-22,INACTIVE,emp_879.jpg,#4ECDC4,OLD879,879,0,emp_879,0,user_icon,GROUP10,BATCH_2022
+EMP00880,Amit Sharma,Director,Customer Service,,+919691770130,Asia-East,UK,2022-01-14,ACTIVE,emp_880.jpg,#4ECDC4,OLD880,880,1,emp_880,0,user_icon,GROUP10,BATCH_2026
+EMP00881,Deepika Sharma,Analyst,HR,deepika.sharma@hoj.com,+917648044605,Europe,USA,2025-02-01,ON_LEAVE,emp_881.jpg,#4ECDC4,OLD881,881,0,emp_881,0,user_icon,GROUP10,BATCH_2022
+EMP00882,Anjali Kumar,Coordinator,Inventory,anjali.kumar@hoj.com,+919105886029,Americas,UK,2024-08-25,INACTIVE,emp_882.jpg,#FF6B6B,OLD882,882,1,emp_882,0,user_icon,GROUP1,BATCH_2026
+EMP00883,Amit Desai,Executive,Inventory,amit.desai@hoj.com,+916754577304,Europe,India,2021-03-30,INACTIVE,emp_883.jpg,#FF6B6B,OLD883,883,0,emp_883,0,user_icon,GROUP7,BATCH_2024
+EMP00884,Anjali Reddy,Store Manager,Operations,anjali.reddy@hoj.com,+916977431719,Asia-East,Australia,2023-02-18,ON_LEAVE,emp_884.jpg,#FF6B6B,OLD884,884,0,emp_884,0,user_icon,GROUP9,BATCH_2024
+EMP00885,Anjali Gupta,Analyst,Sales,anjali.gupta@hoj.com,+919516808118,Europe,Singapore,2024-10-21,ON_LEAVE,emp_885.jpg,#45B7D1,OLD885,885,1,emp_885,0,user_icon,GROUP6,BATCH_2024
+EMP00886,Amit Desai,Executive,Operations,amit.desai@hoj.com,+916946539389,Asia-East,Australia,2023-02-02,ON_LEAVE,emp_886.jpg,#45B7D1,OLD886,886,0,emp_886,1,user_icon,GROUP5,BATCH_2024
+EMP00887,Vikram Patel,Manager,Customer Service,vikram.patel@hoj.com,+919252703989,Asia-South,Australia,2023-04-08,ON_LEAVE,emp_887.jpg,#4ECDC4,OLD887,887,0,emp_887,0,user_icon,GROUP4,BATCH_2021
+EMP00888,Arjun Singh,Assistant,Inventory,arjun.singh@hoj.com,+919645568328,Europe,UK,2023-06-15,ON_LEAVE,emp_888.jpg,#45B7D1,OLD888,888,1,emp_888,0,user_icon,GROUP2,BATCH_2025
+EMP00889,Amit Patel,Coordinator,IT,amit.patel@hoj.com,+916565319255,Europe,India,2023-03-29,ACTIVE,emp_889.jpg,#45B7D1,OLD889,889,0,emp_889,1,user_icon,GROUP2,BATCH_2024
+EMP00890,Deepika Gupta,Manager,Customer Service,deepika.gupta@hoj.com,+916531756963,Asia-East,Australia,2022-08-06,ON_LEAVE,emp_890.jpg,#4ECDC4,OLD890,890,1,emp_890,0,user_icon,GROUP2,BATCH_2022
+EMP00891,Deepika Verma,Manager,Sales,deepika.verma@hoj.com,+918472481320,Middle East,Australia,2023-12-20,ON_LEAVE,emp_891.jpg,#FF6B6B,OLD891,891,1,emp_891,1,user_icon,GROUP7,BATCH_2025
+EMP00892,Priya Kumar,Coordinator,Operations,priya.kumar@hoj.com,+918629791139,Middle East,USA,2025-07-08,INACTIVE,emp_892.jpg,#45B7D1,OLD892,892,0,emp_892,0,user_icon,GROUP2,BATCH_2026
+EMP00893,Amit Singh,Director,Finance,amit.singh@hoj.com,+919218014640,Europe,Singapore,2022-05-26,ON_LEAVE,emp_893.jpg,#FF6B6B,OLD893,893,1,emp_893,0,user_icon,GROUP5,BATCH_2022
+EMP00894,Neha Kumar,Supervisor,Operations,neha.kumar@hoj.com,+918968098677,Asia-South,UK,2023-10-23,ON_LEAVE,emp_894.jpg,#45B7D1,OLD894,894,0,emp_894,0,user_icon,GROUP5,BATCH_2023
+EMP00895,Priya Kumar,Analyst,Inventory,priya.kumar@hoj.com,+918316780468,Americas,India,2025-07-01,ON_LEAVE,emp_895.jpg,#4ECDC4,OLD895,895,0,emp_895,1,user_icon,GROUP6,BATCH_2025
+EMP00896,Amit Verma,Executive,Finance,amit.verma@hoj.com,+917585915245,Middle East,Australia,2020-07-02,ACTIVE,emp_896.jpg,#45B7D1,OLD896,896,0,emp_896,0,user_icon,GROUP2,BATCH_2022
+EMP00897,Rajesh Patel,Analyst,Operations,rajesh.patel@hoj.com,+919627936799,Europe,India,2021-05-18,ON_LEAVE,emp_897.jpg,#4ECDC4,OLD897,897,1,emp_897,1,user_icon,GROUP2,BATCH_2024
+EMP00898,Anjali Desai,Coordinator,Sales,anjali.desai@hoj.com,+917961236243,Americas,UAE,2026-04-28,ACTIVE,emp_898.jpg,#FF6B6B,OLD898,898,1,emp_898,1,user_icon,GROUP5,BATCH_2025
+EMP00899,Neha Sharma,Analyst,IT,neha.sharma@hoj.com,+919029228589,Asia-South,India,2024-05-03,ON_LEAVE,emp_899.jpg,#FF6B6B,OLD899,899,0,emp_899,1,user_icon,GROUP6,BATCH_2024
+EMP00900,Vikram Patel,Supervisor,Customer Service,vikram.patel@hoj.com,+917935790984,Middle East,USA,2022-05-16,INACTIVE,emp_900.jpg,#FF6B6B,OLD900,900,0,emp_900,0,user_icon,GROUP5,BATCH_2026
+EMP00901,Mohit Verma,Executive,Inventory,mohit.verma@hoj.com,+919413380389,Americas,UAE,2021-07-07,INACTIVE,emp_901.jpg,#FF6B6B,OLD901,901,1,emp_901,1,user_icon,GROUP10,BATCH_2022
+EMP00902,Rajesh Patel,Manager,HR,rajesh.patel@hoj.com,+917039790630,Middle East,USA,2021-10-07,ON_LEAVE,emp_902.jpg,#45B7D1,OLD902,902,1,emp_902,0,user_icon,GROUP9,BATCH_2026
+EMP00903,Sneha Kumar,Director,Customer Service,sneha.kumar@hoj.com,+918571599618,Asia-East,Singapore,2023-07-17,ON_LEAVE,emp_903.jpg,#45B7D1,OLD903,903,0,emp_903,0,user_icon,GROUP2,BATCH_2022
+EMP00904,Deepika Kumar,Manager,Operations,deepika.kumar@hoj.com,+919849330915,Asia-East,UAE,2022-09-30,INACTIVE,emp_904.jpg,#45B7D1,OLD904,904,0,emp_904,0,user_icon,GROUP4,BATCH_2021
+EMP00905,Rajesh Sharma,Manager,Finance,,+918606826712,Americas,UAE,2024-12-18,INACTIVE,emp_905.jpg,#45B7D1,OLD905,905,1,emp_905,0,user_icon,GROUP9,BATCH_2022
+EMP00906,Priya Desai,Analyst,Finance,priya.desai@hoj.com,+917316809643,Americas,Australia,2024-05-04,INACTIVE,emp_906.jpg,#4ECDC4,OLD906,906,0,emp_906,0,user_icon,GROUP1,BATCH_2025
+EMP00907,Anjali Joshi,Executive,Operations,anjali.joshi@hoj.com,+918639353709,Europe,India,2022-06-28,ACTIVE,emp_907.jpg,#45B7D1,OLD907,907,1,emp_907,1,user_icon,GROUP4,BATCH_2025
+EMP00908,Amit Joshi,Director,IT,amit.joshi@hoj.com,+919610296611,Europe,Singapore,2024-02-18,ON_LEAVE,emp_908.jpg,#45B7D1,OLD908,908,1,emp_908,0,user_icon,GROUP6,BATCH_2024
+EMP00909,Neha Desai,Analyst,HR,neha.desai@hoj.com,+918114671858,Asia-East,UAE,2025-12-16,ACTIVE,emp_909.jpg,#45B7D1,OLD909,909,1,emp_909,0,user_icon,GROUP3,BATCH_2025
+EMP00910,Mohit Sharma,Manager,Customer Service,mohit.sharma@hoj.com,+918587065517,Americas,USA,2021-09-15,INACTIVE,emp_910.jpg,#FF6B6B,OLD910,910,1,emp_910,0,user_icon,GROUP7,BATCH_2024
+EMP00911,Vikram Reddy,Director,Operations,vikram.reddy@hoj.com,+919831429301,Europe,UK,2025-11-03,ACTIVE,emp_911.jpg,#45B7D1,OLD911,911,0,emp_911,1,user_icon,GROUP10,BATCH_2024
+EMP00912,Deepika Patel,Supervisor,IT,deepika.patel@hoj.com,+918436574521,Europe,USA,2024-11-24,INACTIVE,emp_912.jpg,#FF6B6B,OLD912,912,1,emp_912,0,user_icon,GROUP4,BATCH_2026
+EMP00913,Rajesh Verma,Supervisor,IT,,+919441952242,Europe,India,2026-01-26,ON_LEAVE,emp_913.jpg,#45B7D1,OLD913,913,0,emp_913,1,user_icon,GROUP3,BATCH_2025
+EMP00914,Rajesh Kumar,Analyst,Customer Service,rajesh.kumar@hoj.com,+918545128387,Asia-South,UAE,2025-06-13,ACTIVE,emp_914.jpg,#FF6B6B,OLD914,914,1,emp_914,0,user_icon,GROUP1,BATCH_2023
+EMP00915,Mohit Gupta  Mohit Gupta,Analyst,Finance,mohit.gupta@hoj.com,+918621311306,Middle East,UK,2021-09-15,ACTIVE,emp_915.jpg,#45B7D1,OLD915,915,1,emp_915,1,user_icon,GROUP9,BATCH_2026
+EMP00916,Amit Patel,Coordinator,HR,amit.patel@hoj.com,+917278132128,Asia-South,UAE,2020-07-25,ON_LEAVE,emp_916.jpg,#4ECDC4,OLD916,916,0,emp_916,1,user_icon,GROUP9,BATCH_2025
+EMP00917,Deepika Patel,Assistant,Inventory,deepika.patel@hoj.com,+917178741608,Americas,UAE,2022-06-07,ACTIVE,emp_917.jpg,#4ECDC4,OLD917,917,0,emp_917,0,user_icon,GROUP6,BATCH_2022
+EMP00918,Arjun Reddy,Assistant,Finance,arjun.reddy@hoj.com,+919922607441,Asia-East,UK,2026-01-22,INACTIVE,emp_918.jpg,#FF6B6B,OLD918,918,1,emp_918,1,user_icon,GROUP6,BATCH_2026
+EMP00919,Priya Reddy,Analyst,Customer Service,priya.reddy@hoj.com,+916647696074,Asia-East,UK,2020-11-13,ACTIVE,emp_919.jpg,#45B7D1,OLD919,919,1,emp_919,1,user_icon,GROUP10,BATCH_2023
+EMP00920,Arjun Joshi,Manager,Sales,arjun.joshi@hoj.com,+918748659337,Asia-South,USA,2023-12-16,INACTIVE,emp_920.jpg,#FF6B6B,OLD920,920,0,emp_920,0,user_icon,GROUP5,BATCH_2021
+EMP00921,Neha Joshi,Assistant,Sales,neha.joshi@hoj.com,+916938812038,Asia-South,UAE,2023-05-01,ACTIVE,emp_921.jpg,#4ECDC4,OLD921,921,1,emp_921,0,user_icon,GROUP4,BATCH_2025
+EMP00922,Rajesh Desai,Manager,Sales,rajesh.desai@hoj.com,+917759295614,Asia-South,USA,2022-09-13,ON_LEAVE,emp_922.jpg,#4ECDC4,OLD922,922,0,emp_922,0,user_icon,GROUP7,BATCH_2022
+EMP00923,Neha Verma,Supervisor,IT,neha.verma@hoj.com,+919995281404,Middle East,Australia,2021-02-10,ACTIVE,emp_923.jpg,#FF6B6B,OLD923,923,1,emp_923,0,user_icon,GROUP2,BATCH_2025
+EMP00924,Anjali Gupta,Director,Customer Service,anjali.gupta@hoj.com,+917204259661,Middle East,UAE,2024-11-23,ACTIVE,emp_924.jpg,#45B7D1,OLD924,924,1,emp_924,1,user_icon,GROUP9,BATCH_2021
+EMP00925,Arjun Nair,Coordinator,Sales,arjun.nair@hoj.com,+917845439995,Europe,Australia,2022-05-16,ON_LEAVE,emp_925.jpg,#4ECDC4,OLD925,925,0,emp_925,0,user_icon,GROUP4,BATCH_2022
+EMP00926,Rajesh Nair,Supervisor,Customer Service,rajesh.nair@hoj.com,+919481472655,Asia-East,UAE,2022-08-24,ON_LEAVE,emp_926.jpg,#FF6B6B,OLD926,926,0,emp_926,1,user_icon,GROUP7,BATCH_2024
+EMP00927,Neha Patel,Store Manager,IT,neha.patel@hoj.com,+917059761541,Americas,USA,2021-10-22,ON_LEAVE,emp_927.jpg,#45B7D1,OLD927,927,1,emp_927,0,user_icon,GROUP5,BATCH_2023
+EMP00928,Deepika Desai,Manager,Operations,deepika.desai@hoj.com,+916941612287,Middle East,India,2024-07-11,ON_LEAVE,emp_928.jpg,#4ECDC4,OLD928,928,0,emp_928,1,user_icon,GROUP7,BATCH_2026
+EMP00929,Neha Kumar,Supervisor,Inventory,neha.kumar@hoj.com,+918117111807,Asia-South,Singapore,2025-04-12,ON_LEAVE,emp_929.jpg,#FF6B6B,OLD929,929,1,emp_929,0,user_icon,GROUP2,BATCH_2026
+EMP00930,Deepika Verma,Manager,Finance,deepika.verma@hoj.com,+919311313437,Americas,UK,2021-05-05,ON_LEAVE,emp_930.jpg,#FF6B6B,OLD930,930,0,emp_930,0,user_icon,GROUP10,BATCH_2022
+EMP00931,Vikram Verma,Assistant,Inventory,vikram.verma@hoj.com,+918276519522,Americas,UK,2023-05-09,INACTIVE,emp_931.jpg,#FF6B6B,OLD931,931,1,emp_931,1,user_icon,GROUP5,BATCH_2025
+EMP00932,Sneha Reddy,Assistant,Operations,sneha.reddy@hoj.com,,Americas,India,2022-01-06,ON_LEAVE,emp_932.jpg,#45B7D1,OLD932,932,1,emp_932,1,user_icon,GROUP8,BATCH_2023
+EMP00933,Vikram Sharma,Store Manager,Finance,vikram.sharma@hoj.com,+918608013120,Asia-East,Australia,2022-06-14,ON_LEAVE,emp_933.jpg,#FF6B6B,OLD933,933,0,emp_933,1,user_icon,GROUP6,BATCH_2025
+EMP00934,Neha Reddy,Store Manager,Finance,neha.reddy@hoj.com,+919633423288,Europe,Australia,2026-02-03,ACTIVE,emp_934.jpg,#45B7D1,OLD934,934,0,emp_934,1,user_icon,GROUP5,BATCH_2024
+EMP00935,Sneha Joshi,Manager,Finance,sneha.joshi@hoj.com,+916191104732,Asia-South,Singapore,2026-03-10,ON_LEAVE,emp_935.jpg,#FF6B6B,OLD935,935,1,emp_935,0,user_icon,GROUP9,BATCH_2024
+EMP00936,Vikram Gupta,Analyst,IT,vikram.gupta@hoj.com,+917222393414,Asia-South,UK,2023-01-18,ON_LEAVE,emp_936.jpg,#45B7D1,OLD936,936,1,emp_936,0,user_icon,GROUP4,BATCH_2023
+EMP00937,Rajesh Verma,Store Manager,HR,rajesh.verma@hoj.com,+916163324207,Americas,USA,2025-12-28,ON_LEAVE,emp_937.jpg,#4ECDC4,OLD937,937,1,emp_937,0,user_icon,GROUP9,BATCH_2024
+EMP00938,Mohit Reddy,Store Manager,Operations,mohit.reddy@hoj.com,+918964924991,Middle East,USA,2023-05-26,ACTIVE,emp_938.jpg,#4ECDC4,OLD938,938,1,emp_938,0,user_icon,GROUP8,BATCH_2026
+EMP00939,Sneha Patel,Executive,Inventory,sneha.patel@hoj.com,+918067607564,Europe,India,2023-06-10,ACTIVE,emp_939.jpg,#FF6B6B,OLD939,939,1,emp_939,1,user_icon,GROUP10,BATCH_2022
+EMP00940,Anjali Joshi,Director,IT,anjali.joshi@hoj.com,+919090701705,Americas,Australia,2026-03-26,INACTIVE,emp_940.jpg,#4ECDC4,OLD940,940,1,emp_940,0,user_icon,GROUP6,BATCH_2023
+EMP00941,Neha Sharma,Executive,Finance,neha.sharma@hoj.com,+917295913340,Americas,USA,2025-09-01,ACTIVE,emp_941.jpg,#FF6B6B,OLD941,941,1,emp_941,0,user_icon,GROUP6,BATCH_2023
+EMP00942,Anjali Kumar,Supervisor,Inventory,anjali.kumar@hoj.com,+916440562510,Asia-South,USA,2024-07-17,ON_LEAVE,emp_942.jpg,#4ECDC4,OLD942,942,1,emp_942,1,user_icon,GROUP8,BATCH_2021
+EMP00943,Sneha Reddy,Store Manager,HR,sneha.reddy@hoj.com,+918788367678,Americas,India,2021-06-18,INACTIVE,emp_943.jpg,#4ECDC4,OLD943,943,1,emp_943,0,user_icon,GROUP6,BATCH_2023
+EMP00944,Mohit Nair,Assistant,HR,mohit.nair@hoj.com,+916492905403,Americas,Singapore,2026-04-28,ACTIVE,emp_944.jpg,#FF6B6B,OLD944,944,1,emp_944,1,user_icon,GROUP10,BATCH_2024
+EMP00945,RAJESH KUMAR,Coordinator,Customer Service,rajesh.kumar@hoj.com,+919585186417,Asia-South,Australia,2024-07-02,ACTIVE,emp_945.jpg,#4ECDC4,OLD945,945,1,emp_945,1,user_icon,GROUP10,BATCH_2026
+EMP00946,Priya Desai  Priya Desai,Assistant,Sales,priya.desai@hoj.com,+918695398624,Europe,India,2022-11-29,INACTIVE,emp_946.jpg,#45B7D1,OLD946,946,0,emp_946,0,user_icon,GROUP10,BATCH_2022
+EMP00947,Neha Reddy,Manager,HR,neha.reddy@hoj.com,+917603748243,Asia-South,UAE,2024-08-06,ON_LEAVE,emp_947.jpg,#45B7D1,OLD947,947,1,emp_947,1,user_icon,GROUP8,BATCH_2023
+EMP00948,Amit Nair,Store Manager,Customer Service,amit.nair@hoj.com,+917999185033,Americas,Singapore,2025-02-28,ON_LEAVE,emp_948.jpg,#4ECDC4,OLD948,948,0,emp_948,1,user_icon,GROUP8,BATCH_2025
+EMP00949,Arjun Verma,Analyst,IT,arjun.verma@hoj.com,+919636513320,Middle East,UAE,2021-08-02,INACTIVE,emp_949.jpg,#45B7D1,OLD949,949,0,emp_949,1,user_icon,GROUP6,BATCH_2023
+EMP00950,Neha Joshi,Analyst,Operations,neha.joshi@hoj.com,+918521684982,Asia-South,Australia,2022-02-13,ON_LEAVE,emp_950.jpg,#45B7D1,OLD950,950,0,emp_950,0,user_icon,GROUP7,BATCH_2021
+EMP00951,Deepika Gupta,Executive,IT,deepika.gupta@hoj.com,+917128655028,Europe,UAE,2023-10-20,ACTIVE,emp_951.jpg,#FF6B6B,OLD951,951,0,emp_951,0,user_icon,GROUP8,BATCH_2023
+EMP00952,Mohit Patel,Analyst,Inventory,mohit.patel@hoj.com,+918709199607,Americas,Singapore,2023-02-28,INACTIVE,emp_952.jpg,#45B7D1,OLD952,952,0,emp_952,1,user_icon,GROUP4,BATCH_2022
+EMP00953,Neha Joshi,Assistant,IT,neha.joshi@hoj.com,+919717837287,Middle East,UAE,2023-09-06,ACTIVE,emp_953.jpg,#45B7D1,OLD953,953,1,emp_953,0,user_icon,GROUP7,BATCH_2022
+EMP00954,Sneha Nair,Supervisor,HR,sneha.nair@hoj.com,+917083123354,Europe,UK,2022-10-07,INACTIVE,emp_954.jpg,#4ECDC4,OLD954,954,1,emp_954,0,user_icon,GROUP9,BATCH_2026
+EMP00955,Sneha Nair,Director,IT,sneha.nair@hoj.com,+918420483154,Europe,India,2023-02-15,INACTIVE,emp_955.jpg,#4ECDC4,OLD955,955,0,emp_955,1,user_icon,GROUP10,BATCH_2023
+EMP00956,Sneha Verma,Assistant,Customer Service,sneha.verma@hoj.com,,Asia-South,Singapore,2025-04-13,ON_LEAVE,emp_956.jpg,#4ECDC4,OLD956,956,0,emp_956,0,user_icon,GROUP7,BATCH_2021
+EMP00957,Deepika Nair,Manager,Inventory,deepika.nair@hoj.com,+917668477470,Europe,Singapore,2025-10-14,ACTIVE,emp_957.jpg,#4ECDC4,OLD957,957,1,emp_957,0,user_icon,GROUP8,BATCH_2025
+EMP00958,Sneha Joshi,Executive,Finance,sneha.joshi@hoj.com,+917756094238,Asia-East,Singapore,2024-10-28,ON_LEAVE,emp_958.jpg,#FF6B6B,OLD958,958,1,emp_958,0,user_icon,GROUP7,BATCH_2021
+EMP00959,Arjun Gupta,Store Manager,IT,arjun.gupta@hoj.com,+918704669809,Asia-East,Australia,2021-09-18,INACTIVE,emp_959.jpg,#45B7D1,OLD959,959,1,emp_959,0,user_icon,GROUP1,BATCH_2023
+EMP00960,Arjun Gupta,Coordinator,Sales,arjun.gupta@hoj.com,+919955869926,Asia-East,India,2025-11-24,ON_LEAVE,emp_960.jpg,#4ECDC4,OLD960,960,0,emp_960,0,user_icon,GROUP4,BATCH_2025
+EMP00961,Vikram Joshi,Analyst,HR,vikram.joshi@hoj.com,+918050703700,Asia-East,UK,2023-09-05,ACTIVE,emp_961.jpg,#FF6B6B,OLD961,961,0,emp_961,0,user_icon,GROUP1,BATCH_2023
+EMP00962,Amit Sharma,Coordinator,IT,amit.sharma@hoj.com,+918018426887,Asia-South,UAE,2022-07-05,ON_LEAVE,emp_962.jpg,#FF6B6B,OLD962,962,0,emp_962,0,user_icon,GROUP4,BATCH_2021
+EMP00963,Deepika Nair,Executive,HR,deepika.nair@hoj.com,+916493398480,Asia-South,UK,2021-11-17,ON_LEAVE,emp_963.jpg,#FF6B6B,OLD963,963,0,emp_963,1,user_icon,GROUP5,BATCH_2026
+EMP00964,Deepika Kumar,Manager,Finance,deepika.kumar@hoj.com,,Asia-East,Australia,2025-10-19,ACTIVE,emp_964.jpg,#4ECDC4,OLD964,964,0,emp_964,0,user_icon,GROUP9,BATCH_2021
+EMP00965,Rajesh Gupta,Coordinator,Operations,rajesh.gupta@hoj.com,+919686260863,Americas,USA,2023-06-20,INACTIVE,emp_965.jpg,#45B7D1,OLD965,965,1,emp_965,1,user_icon,GROUP3,BATCH_2023
+EMP00966,Arjun Patel,Director,Finance,arjun.patel@hoj.com,,Asia-South,UAE,2021-04-04,INACTIVE,emp_966.jpg,#FF6B6B,OLD966,966,1,emp_966,1,user_icon,GROUP5,BATCH_2025
+EMP00967,Sneha Gupta,Director,HR,sneha.gupta@hoj.com,+917861705171,Asia-South,Singapore,2023-06-08,INACTIVE,emp_967.jpg,#45B7D1,OLD967,967,0,emp_967,1,user_icon,GROUP1,BATCH_2025
+EMP00968,Deepika Reddy,Assistant,Finance,deepika.reddy@hoj.com,+918929618527,Asia-East,UK,2023-02-20,ACTIVE,emp_968.jpg,#4ECDC4,OLD968,968,1,emp_968,0,user_icon,GROUP7,BATCH_2025
+EMP00969,Vikram Reddy,Executive,HR,vikram.reddy@hoj.com,+918356988219,Middle East,India,2025-10-05,ACTIVE,emp_969.jpg,#4ECDC4,OLD969,969,1,emp_969,1,user_icon,GROUP9,BATCH_2025
+EMP00970,Sneha Desai,Store Manager,Sales,sneha.desai@hoj.com,,Americas,UAE,2023-05-11,INACTIVE,emp_970.jpg,#FF6B6B,OLD970,970,1,emp_970,1,user_icon,GROUP1,BATCH_2026
+EMP00971,Rajesh Gupta,Assistant,Sales,rajesh.gupta@hoj.com,+917050155664,Middle East,UAE,2025-03-02,INACTIVE,emp_971.jpg,#FF6B6B,OLD971,971,1,emp_971,0,user_icon,GROUP8,BATCH_2025
+EMP00972,Vikram Desai,Assistant,IT,vikram.desai@hoj.com,+916630867430,Middle East,UK,2022-02-24,INACTIVE,emp_972.jpg,#4ECDC4,OLD972,972,0,emp_972,0,user_icon,GROUP1,BATCH_2022
+EMP00973,Amit Reddy,Director,Sales,amit.reddy@hoj.com,+919755078512,Americas,Australia,2023-09-28,INACTIVE,emp_973.jpg,#4ECDC4,OLD973,973,1,emp_973,1,user_icon,GROUP9,BATCH_2021
+EMP00974,Arjun Reddy,Assistant,Finance,,+916699250462,Europe,India,2024-04-24,ON_LEAVE,emp_974.jpg,#4ECDC4,OLD974,974,1,emp_974,1,user_icon,GROUP4,BATCH_2026
+EMP00975,Anjali Joshi,Manager,Sales,anjali.joshi@hoj.com,+919846963091,Americas,USA,2024-01-16,ACTIVE,emp_975.jpg,#45B7D1,OLD975,975,0,emp_975,0,user_icon,GROUP5,BATCH_2025
+EMP00976,Anjali Singh,Supervisor,HR,anjali.singh@hoj.com,+916428352797,Americas,Singapore,2026-04-07,ON_LEAVE,emp_976.jpg,#45B7D1,OLD976,976,0,emp_976,0,user_icon,GROUP8,BATCH_2021
+EMP00977,Amit Nair,Supervisor,Sales,amit.nair@hoj.com,+916107163229,Europe,USA,2023-11-24,ACTIVE,emp_977.jpg,#FF6B6B,OLD977,977,0,emp_977,0,user_icon,GROUP4,BATCH_2026
+EMP00978,Anjali Verma,Executive,Inventory,,+918759960358,Americas,Singapore,2024-04-23,ACTIVE,emp_978.jpg,#4ECDC4,OLD978,978,0,emp_978,1,user_icon,GROUP5,BATCH_2024
+EMP00979,Rajesh Joshi,Assistant,HR,rajesh.joshi@hoj.com,+919503844703,Americas,India,2024-06-25,ACTIVE,emp_979.jpg,#FF6B6B,OLD979,979,0,emp_979,0,user_icon,GROUP6,BATCH_2023
+EMP00980,Priya Desai,Assistant,Inventory,priya.desai@hoj.com,+919830083948,Asia-East,Singapore,2021-10-15,INACTIVE,emp_980.jpg,#45B7D1,OLD980,980,1,emp_980,0,user_icon,GROUP9,BATCH_2023
+EMP00981,Anjali Desai,Executive,HR,anjali.desai@hoj.com,+919786775222,Asia-East,USA,2023-03-28,ON_LEAVE,emp_981.jpg,#4ECDC4,OLD981,981,0,emp_981,1,user_icon,GROUP5,BATCH_2023
+EMP00982,Deepika Desai,Assistant,IT,,+917519564716,Asia-East,Australia,2022-02-14,ACTIVE,emp_982.jpg,#45B7D1,OLD982,982,1,emp_982,0,user_icon,GROUP6,BATCH_2024
+EMP00983,Priya Patel,Supervisor,IT,priya.patel@hoj.com,+919878964449,Americas,USA,2025-01-31,INACTIVE,emp_983.jpg,#45B7D1,OLD983,983,0,emp_983,1,user_icon,GROUP3,BATCH_2024
+EMP00984,Sneha Desai,Director,Sales,sneha.desai@hoj.com,+916498820343,Asia-East,India,2020-07-09,ACTIVE,emp_984.jpg,#4ECDC4,OLD984,984,1,emp_984,1,user_icon,GROUP9,BATCH_2024
+EMP00985,Amit Kumar,Supervisor,HR,amit.kumar@hoj.com,+919565893579,Europe,Australia,2024-07-15,ON_LEAVE,emp_985.jpg,#45B7D1,OLD985,985,0,emp_985,1,user_icon,GROUP3,BATCH_2024
+EMP00986,amit sharma,Store Manager,IT,amit.sharma@hoj.com,+916413227651,Asia-South,USA,2025-03-09,ACTIVE,emp_986.jpg,#4ECDC4,OLD986,986,1,emp_986,1,user_icon,GROUP9,BATCH_2022
+EMP00987,Deepika Sharma,Store Manager,IT,deepika.sharma@hoj.com,+916969407709,Asia-South,Singapore,2025-12-15,ON_LEAVE,emp_987.jpg,#FF6B6B,OLD987,987,0,emp_987,0,user_icon,GROUP9,BATCH_2022
+EMP00988,Arjun Sharma,Director,Inventory,arjun.sharma@hoj.com,+919697864586,Americas,Singapore,2020-08-19,ON_LEAVE,emp_988.jpg,#45B7D1,OLD988,988,0,emp_988,0,user_icon,GROUP4,BATCH_2025
+EMP00989,Anjali Gupta,Coordinator,Operations,anjali.gupta@hoj.com,+917231227140,Americas,UK,2021-05-13,ON_LEAVE,emp_989.jpg,#45B7D1,OLD989,989,0,emp_989,0,user_icon,GROUP1,BATCH_2021
+EMP00990,Vikram Singh,Store Manager,HR,,+917189584161,Europe,Australia,2023-09-01,ON_LEAVE,emp_990.jpg,#45B7D1,OLD990,990,0,emp_990,1,user_icon,GROUP10,BATCH_2025
+EMP00991,Sneha Reddy,Assistant,Customer Service,sneha.reddy@hoj.com,+919437740859,Americas,India,2022-01-21,ACTIVE,emp_991.jpg,#4ECDC4,OLD991,991,0,emp_991,1,user_icon,GROUP3,BATCH_2021
+EMP00992,Rajesh Joshi,Executive,Operations,rajesh.joshi@hoj.com,+918208611676,Europe,UK,2023-11-04,ON_LEAVE,emp_992.jpg,#45B7D1,OLD992,992,1,emp_992,0,user_icon,GROUP9,BATCH_2022
+EMP00993,Arjun Kumar,Supervisor,Operations,arjun.kumar@hoj.com,+919723960615,Asia-East,India,2021-03-25,ACTIVE,emp_993.jpg,#45B7D1,OLD993,993,1,emp_993,1,user_icon,GROUP6,BATCH_2022
+EMP00994,Sneha Gupta,Supervisor,HR,sneha.gupta@hoj.com,,Americas,Singapore,2024-07-15,ACTIVE,emp_994.jpg,#45B7D1,OLD994,994,0,emp_994,0,user_icon,GROUP7,BATCH_2023
+EMP00995,Arjun Kumar,Executive,IT,arjun.kumar@hoj.com,+917222405519,Americas,Australia,2025-03-28,ACTIVE,emp_995.jpg,#4ECDC4,OLD995,995,1,emp_995,1,user_icon,GROUP4,BATCH_2026
+EMP00996,Amit Joshi,Store Manager,Inventory,amit.joshi@hoj.com,,Europe,UK,2025-09-15,INACTIVE,emp_996.jpg,#FF6B6B,OLD996,996,1,emp_996,0,user_icon,GROUP6,BATCH_2022
+EMP00997,Sneha Patel,Coordinator,Sales,sneha.patel@hoj.com,+918725065946,Asia-East,Singapore,2021-06-14,INACTIVE,emp_997.jpg,#FF6B6B,OLD997,997,0,emp_997,0,user_icon,GROUP2,BATCH_2023
+EMP00998,Rajesh Patel,Assistant,Operations,,+918625145057,Europe,USA,2021-01-02,INACTIVE,emp_998.jpg,#45B7D1,OLD998,998,0,emp_998,0,user_icon,GROUP6,BATCH_2024
+EMP00999,Anjali Nair,Analyst,Inventory,anjali.nair@hoj.com,+917060676005,Asia-South,India,2023-02-22,ON_LEAVE,emp_999.jpg,#45B7D1,OLD999,999,1,emp_999,1,user_icon,GROUP6,BATCH_2022
+EMP01000,Sneha Gupta,Coordinator,HR,sneha.gupta@hoj.com,+919159649588,Asia-South,Singapore,2024-11-11,ON_LEAVE,emp_1000.jpg,#4ECDC4,OLD1000,1000,1,emp_1000,1,user_icon,GROUP2,BATCH_2023
